@@ -31,7 +31,7 @@ The one thing that needs to be done is unzipping `set-1.zip` and `set-2.zip` in 
 |:---:|:---|
 | `000*.R` | clean and aggregate the eGRID data |
 | `001*.R` | calculate distances between plants and borders, water bodies, and border compositions |
-| `002*.R` | perform a variety of calculations related to wind, plant locations, and downwind areas |
+| `002*.R` | calculations related to wind, plant locations, and downwind areas |
 | `003*.R` | plots histograms |
 | `004*.R` | summarizes border-water distribution and distance tests |
 | `005*.R` | process, summarize, and plot HYSPLIT trajectories |
