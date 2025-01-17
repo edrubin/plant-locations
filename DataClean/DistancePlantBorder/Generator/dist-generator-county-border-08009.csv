@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+8100,DFO,1,SB,IC,1.2,0,1965,OIL,Springfield (CO),17592,37.4028,-102.6217,CO,08,009,WECC,RMPA,OIL,2.7,0,1,08009,26.7171925438022,45.2597864672095
+8100,DFO,2,SB,IC,0.2,0,1950,OIL,Springfield (CO),17592,37.4028,-102.6217,CO,08,009,WECC,RMPA,OIL,2.7,0,1,08009,26.7171925438022,45.2597864672095
+8100,DFO,IC4,SB,IC,0.5,0,1950,OIL,Springfield (CO),17592,37.4028,-102.6217,CO,08,009,WECC,RMPA,OIL,2.7,0,1,08009,26.7171925438022,45.2597864672095
+8100,DFO,IC5,SB,IC,0.8,0,1960,OIL,Springfield (CO),17592,37.4028,-102.6217,CO,08,009,WECC,RMPA,OIL,2.7,0,1,08009,26.7171925438022,45.2597864672095
+61606,SUN,1,OP,PV,4,7326,2017,SOLAR,Vilas Solar Array,17592,37.384,-102.466,CO,08,009,WECC,RMPA,SOLAR,4,0,1,08009,28.8285710619566,37.5967549043644

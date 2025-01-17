@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+52072,NG,GEN1,OP,ST,6,10703,1990,GAS,Radford Army Ammunition Plant,733,37.180441,-80.542767,VA,51,121,RFC,RFCW,GAS,24,0,1,51121,1.42313160449426,27.5548454709615
+52072,NG,GEN2,OP,ST,6,9626,1990,GAS,Radford Army Ammunition Plant,733,37.180441,-80.542767,VA,51,121,RFC,RFCW,GAS,24,0,1,51121,1.42313160449426,27.5548454709615
+52072,NG,GEN3,OP,ST,6,11397,1990,GAS,Radford Army Ammunition Plant,733,37.180441,-80.542767,VA,51,121,RFC,RFCW,GAS,24,0,1,51121,1.42313160449426,27.5548454709615
+52072,NG,GEN4,OP,ST,6,0,1990,GAS,Radford Army Ammunition Plant,733,37.180441,-80.542767,VA,51,121,RFC,RFCW,GAS,24,0,1,51121,1.42313160449426,27.5548454709615
+56785,NG,WG01,OP,ST,6.3,21780,1976,GAS,Virginia Tech Power Plant,19882,37.2319,-80.4211,VA,51,121,RFC,RFCW,GAS,6.3,0,1,51121,7.84063345884484,21.7385249226429

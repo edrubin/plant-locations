@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61913,MWH,B1,OP,BA,2,0,2018,OTHER,Punkin Center Battery Storage,803,33.87581,-111.31356,AZ,04,007,WECC,AZNM,OTHF,2,0,1,04007,6.97009182362577,209.633508673453

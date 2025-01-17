@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6741,DFO,1,OP,GT,25,245,1978,OIL,Rock Lake Station,7570,45.805443,-92.97176,MN,27,115,MRO,MROW,OIL,25,1,1,27115,8.33882046119528,12.5236591259319

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58901,WAT,TCWG1,OP,HY,7.2,9127.8,2014,HYDRO,Tri-County Water Hydropower Project,30151,38.239167,-107.758056,CO,08,091,WECC,RMPA,HYDRO,8,0,1,08091,10.3333365174877,112.903172369107
+58901,WAT,TCWG2,OP,HY,0.8,1014.2,2014,HYDRO,Tri-County Water Hydropower Project,30151,38.239167,-107.758056,CO,08,091,WECC,RMPA,HYDRO,8,0,1,08091,10.3333365174877,112.903172369107

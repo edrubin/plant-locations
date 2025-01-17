@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10422,WAT,GEN1,OP,HY,3,4458.857,1959,HYDRO,Williams Fork Hydro Plant,13050,40.035,-106.2053,CO,08,049,WECC,RMPA,HYDRO,3.5,0,1,08049,13.9361163660251,106.863343203564
+10422,WAT,GEN2,OP,HY,0.5,743.143,2012,HYDRO,Williams Fork Hydro Plant,13050,40.035,-106.2053,CO,08,049,WECC,RMPA,HYDRO,3.5,0,1,08049,13.9361163660251,106.863343203564
+60119,WAT,GEN1,OP,HY,1.2,5296,2016,HYDRO,Granby Hydro,13050,40.1464,-105.8683,CO,08,049,WECC,RMPA,HYDRO,1.2,0,1,08049,16.8961546671836,94.4279167012713

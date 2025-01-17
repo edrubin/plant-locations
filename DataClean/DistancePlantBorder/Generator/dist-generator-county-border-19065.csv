@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57832,WND,NORD,OP,WT,35,127364,2012,WIND,Hawkeye Wind Farm,56161,42.948889,-92.062222,IA,19,017,MRO,MROW,WIND,35,1,1,19017,1.56896033586028,61.2848996389266

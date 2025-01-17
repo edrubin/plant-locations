@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56945,WND,1,OP,WT,100,266776,2009,WIND,High Lonesome Mesa LLC,30151,34.466667,-105.9625,NM,35,057,WECC,AZNM,WIND,100,1,1,35057,22.9300094758802,268.075207263864
+58098,WND,1,OP,WT,298,1024430,2017,WIND,El Cabo Wind,15473,34.651111,-105.461667,NM,35,057,WECC,AZNM,WIND,298,1,1,35057,14.5006895399798,221.628985047839
+62191,SUN,CNMEC,OP,PV,2,1206,2018,SOLAR,CNMEC Solar Energy Center,15473,34.783205,-106.051092,NM,35,057,WECC,AZNM,SOLAR,2,0,1,35057,13.2043718509665,245.355660791139

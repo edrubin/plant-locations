@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57741,WND,SP111,OP,WT,2.1,5017.5,2015,WIND,Suzlon Project VIII LLC,17718,35.75,-102.28,TX,48,205,TRE,ERCT,WIND,8.9,0,1,48205,10.581095758039,68.8697076167983
+57741,WND,SP97,OP,WT,2.1,5017.5,2011,WIND,Suzlon Project VIII LLC,17718,35.75,-102.28,TX,48,205,TRE,ERCT,WIND,8.9,0,1,48205,10.581095758039,68.8697076167983
+57741,WND,S128,CN,WT,2.6,,,WIND,Suzlon Project VIII LLC,17718,35.75,-102.28,TX,48,205,TRE,ERCT,WIND,8.9,0,0,48205,10.581095758039,68.8697076167983
+57741,WND,SP95,RE,WT,2.1,,2011,WIND,Suzlon Project VIII LLC,17718,35.75,-102.28,TX,48,205,TRE,ERCT,WIND,8.9,0,0,48205,10.581095758039,68.8697076167983

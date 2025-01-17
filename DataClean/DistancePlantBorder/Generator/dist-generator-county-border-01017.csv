@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60583,SUN,PV1,OP,PV,79.2,160946,2017,SOLAR,LaFayette Solar Farm,195,32.876313,-85.38821,AL,01,017,SERC,SRSO,SOLAR,79.2,1,1,01017,14.7811438739117,18.6534265996565

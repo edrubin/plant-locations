@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61677,WND,T-1,OP,WT,2.3,4391,2018,WIND,Perennial Windfarm,21111,40.631872,-97.642708,NE,31,059,MRO,MROW,WIND,6.9,0,1,31059,7.42038015804881,69.9129528264206
+61677,WND,T-2,OP,WT,2.3,4391,2018,WIND,Perennial Windfarm,21111,40.631872,-97.642708,NE,31,059,MRO,MROW,WIND,6.9,0,1,31059,7.42038015804881,69.9129528264206
+61677,WND,T-3,OP,WT,2.3,4391,2018,WIND,Perennial Windfarm,21111,40.631872,-97.642708,NE,31,059,MRO,MROW,WIND,6.9,0,1,31059,7.42038015804881,69.9129528264206

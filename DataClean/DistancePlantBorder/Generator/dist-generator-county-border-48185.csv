@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6136,SUB,1,OP,ST,453.5,786451,1983,COAL,Gibbons Creek Steam Electric Station,18715,30.619937,-96.081846,TX,48,185,TRE,ERCT,COAL,453.5,1,1,48185,8.43151423859568,194.684779352773
+55062,NG,GTG1,OP,CT,183.2,652190,2000,GAS,Tenaska Frontier Generating Station,8901,30.5924,-95.9178,TX,48,185,SERC,ERCT,GAS,939.7,1,1,48185,8.73029820222551,181.524763904033
+55062,NG,GTG2,OP,CT,183.2,668693,2000,GAS,Tenaska Frontier Generating Station,8901,30.5924,-95.9178,TX,48,185,SERC,ERCT,GAS,939.7,1,1,48185,8.73029820222551,181.524763904033
+55062,NG,GTG3,OP,CT,183.2,785069,2000,GAS,Tenaska Frontier Generating Station,8901,30.5924,-95.9178,TX,48,185,SERC,ERCT,GAS,939.7,1,1,48185,8.73029820222551,181.524763904033
+55062,NG,STG1,OP,CA,390.1,1460258,2000,GAS,Tenaska Frontier Generating Station,8901,30.5924,-95.9178,TX,48,185,SERC,ERCT,GAS,939.7,1,1,48185,8.73029820222551,181.524763904033

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57357,WND,EXIS,OP,WT,102.4,212929,2010,WIND,Red Mesa Wind LLC,15473,35.2689,-107.3828,NM,35,043,WECC,AZNM,WIND,102.4,1,1,35043,3.99863621275804,151.441152037609
+59619,SUN,CBLA,OP,PV,7.6,19678,2015,SOLAR,Cibola,15473,35.20115,-107.245156,NM,35,006,WECC,AZNM,SOLAR,7.6,0,1,35006,4.80787399987904,164.085136305135

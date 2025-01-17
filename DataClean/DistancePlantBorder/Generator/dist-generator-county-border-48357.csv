@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59475,WND,GE1.7,OP,WT,249.9,1128864,2014,WIND,Palo Duro Wind,14063,36.243889,-101.001389,TX,48,357,MRO,SPSO,WIND,249.9,1,1,48357,7.57202429650398,28.3653987371019

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57262,WND,1,OP,WT,79.9,307033,2011,WIND,Laredo Ridge Wind LLC,13337,41.880278,-98.023889,NE,31,011,MRO,MROW,WIND,79.9,1,1,31011,3.91347175311001,97.9383432672676
+57755,WND,PETE,OP,WT,40.5,156238,2011,WIND,TPW Petersburg,13337,41.864583,-97.961194,NE,31,011,MRO,MROW,WIND,40.5,1,1,31011,5.6870440279783,99.7691681472059

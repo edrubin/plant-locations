@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60013,WND,GRANT,OP,WT,151.8,565336,2016,WIND,"Grant Wind, LLC",14063,36.927071,-97.696331,OK,40,053,MRO,SPSO,WIND,151.8,1,1,40053,7.96155265501761,7.96155265501761
+60545,WND,WT,OP,WT,147.2,537396,2016,WIND,"Grant Plains Wind, LLC",14063,36.9708,-97.7053,OK,40,053,MRO,SPSO,WIND,147.2,1,1,40053,3.10946717588347,3.10946717588347

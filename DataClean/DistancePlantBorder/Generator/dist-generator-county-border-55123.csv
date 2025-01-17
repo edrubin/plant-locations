@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+4124,DFO,2A,OP,IC,1.5,0,1990,OIL,La Farge,10525,43.5722,-90.6391,WI,55,123,MRO,MROW,OIL,1.5,0,1,55123,2.14744925621465,47.2006274476814
+4143,SUB,ST3,OP,ST,345.6,1681622,1969,COAL,Genoa,4716,43.5589,-91.2325,WI,55,123,MRO,MROW,COAL,345.6,1,1,55123,0.299310805279448,0.299310805279448
+60887,SUN,PV1,OP,PV,1,1522,2017,SOLAR,Sauk DPC Solar,19813,43.59591,-90.3226,WI,55,123,MRO,MROW,SOLAR,1,0,1,55123,0.885979103934123,70.4046738595212
+60891,SUN,PV1,OP,PV,1.1,2071,2017,SOLAR,Liberty Pole DPC Solar,19813,43.49412,-90.9071,WI,55,123,MRO,MROW,SOLAR,1.1,0,1,55123,7.80530896438454,24.948141477486

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56908,NG,1,OP,GT,67.7,73619,2011,GAS,Mill Creek Generating Station,12825,46.104713,-112.876605,MT,30,023,WECC,NWPP,GAS,203.1,1,1,30023,6.52084472383913,91.306753615005
+56908,NG,2,OP,GT,67.7,73619,2011,GAS,Mill Creek Generating Station,12825,46.104713,-112.876605,MT,30,023,WECC,NWPP,GAS,203.1,1,1,30023,6.52084472383913,91.306753615005
+56908,NG,3,OP,GT,67.7,73619,2011,GAS,Mill Creek Generating Station,12825,46.104713,-112.876605,MT,30,023,WECC,NWPP,GAS,203.1,1,1,30023,6.52084472383913,91.306753615005

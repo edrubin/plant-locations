@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54210,SUB,G1,OP,ST,13.3,0,1990,COAL,American Crystal Sugar Hillsboro,12301,47.437562,-97.06311,ND,38,097,MRO,MROW,COAL,13.3,0,1,38097,14.5787207766899,14.5787207766899
+56098,DFO,1,OP,IC,2,8.5,2002,OIL,Hillsboro,8628,47.396944,-97.060555,ND,38,097,MRO,MROW,OIL,4,0,1,38097,14.4568598576467,14.4568598576467
+56098,DFO,2,OP,IC,2,8.5,2002,OIL,Hillsboro,8628,47.396944,-97.060555,ND,38,097,MRO,MROW,OIL,4,0,1,38097,14.4568598576467,14.4568598576467

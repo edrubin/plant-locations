@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54081,BIT,GEN1,OP,ST,57.4,9606,1992,COAL,"Spruance Genco, LLC",19876,37.4556,-77.4308,VA,51,760,SERC,SRVC,COAL,229.6,1,1,51760,0.121532711464874,93.37937447056
+54081,BIT,GEN2,OP,ST,57.4,9184,1992,COAL,"Spruance Genco, LLC",19876,37.4556,-77.4308,VA,51,760,SERC,SRVC,COAL,229.6,1,1,51760,0.121532711464874,93.37937447056
+54081,BIT,GEN3,OP,ST,57.4,11553,1992,COAL,"Spruance Genco, LLC",19876,37.4556,-77.4308,VA,51,760,SERC,SRVC,COAL,229.6,1,1,51760,0.121532711464874,93.37937447056
+54081,BIT,GEN4,OP,ST,57.4,8642,1992,COAL,"Spruance Genco, LLC",19876,37.4556,-77.4308,VA,51,760,SERC,SRVC,COAL,229.6,1,1,51760,0.121532711464874,93.37937447056

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10740,WAT,GEN1,OP,HY,3,6656.333,1989,HYDRO,Magic Dam Hydroelectric Project,9191,43.2547,-114.3569,ID,16,013,WECC,NWPP,HYDRO,9,0,1,16013,1.45377966713959,140.061120641769
+10740,WAT,GEN2,OP,HY,3,6656.333,1989,HYDRO,Magic Dam Hydroelectric Project,9191,43.2547,-114.3569,ID,16,013,WECC,NWPP,HYDRO,9,0,1,16013,1.45377966713959,140.061120641769
+10740,WAT,GEN3,OP,HY,3,6656.333,1989,HYDRO,Magic Dam Hydroelectric Project,9191,43.2547,-114.3569,ID,16,013,WECC,NWPP,HYDRO,9,0,1,16013,1.45377966713959,140.061120641769
+54386,WAT,GEN1,SB,HY,2.8,6503,1985,HYDRO,Little Wood Hydro Project,9191,43.425228,-114.025597,ID,16,013,WECC,NWPP,HYDRO,2.8,0,1,16013,24.1023149191067,139.90017835397

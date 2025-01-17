@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58108,BLQ,3 T-G,OP,ST,78.8,359733,2008,BIOMASS,International Paper Red River Mill,17698,31.903333,-93.173889,LA,22,069,MRO,SPSO,BIOMASS,78.8,1,1,22069,6.20360703711805,62.7727446832139

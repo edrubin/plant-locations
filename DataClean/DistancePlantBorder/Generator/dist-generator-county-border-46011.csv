@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56610,NG,01,OP,CA,154,345610,2012,GAS,Deer Creek Station,1307,44.290833,-96.526667,SD,46,011,MRO,MROW,GAS,324,1,1,46011,5.92673021437297,5.92673021437297
+56610,NG,02,OP,CT,170,520117,2012,GAS,Deer Creek Station,1307,44.290833,-96.526667,SD,46,011,MRO,MROW,GAS,324,1,1,46011,5.92673021437297,5.92673021437297
+56792,WND,1,OP,WT,50.4,149655,2009,WIND,Buffalo Ridge I LLC,13781,44.4328,-96.4779,SD,46,011,MRO,MROW,WIND,50.4,1,1,46011,2.06644194157935,2.06644194157935
+57424,WND,1,OP,WT,210,591156,2010,WIND,Buffalo Ridge II LLC,1738,44.5281,-96.6267,SD,46,011,WECC,MROW,WIND,210,1,1,46011,1.75050619025897,13.8805789383233

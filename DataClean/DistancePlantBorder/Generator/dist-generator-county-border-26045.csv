@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1832,SUB,1,OP,ST,154.7,728489,1973,COAL,Erickson,10704,42.692222,-84.657222,MI,26,045,RFC,RFCM,COAL,154.7,1,1,26045,4.43589819774953,104.258179330107
+61954,SUN,DSPI,OP,PV,8.1,6288,2018,SOLAR,Delta Solar Power I,10704,42.7,-84.701,MI,26,045,RFC,RFCM,SOLAR,8.1,0,1,26045,7.7682347482332,104.754901855532
+61955,SUN,DSPII,OP,PV,15.9,7340,2018,SOLAR,Delta Solar Power II,10704,42.707,-84.7,MI,26,045,RFC,RFCM,SOLAR,15.9,0,1,26045,6.98984578326015,105.536666367391

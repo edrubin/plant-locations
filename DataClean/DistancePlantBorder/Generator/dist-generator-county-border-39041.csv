@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7279,WAT,1,OP,HY,1.3,0,1988,HYDRO,O'Shaughnessy Hydro,4065,40.153328,-83.126719,OH,39,041,RFC,RFCW,HYDRO,5.2,0,1,39041,1.41005475174289,143.169344703966
+7279,WAT,2,OP,HY,3.9,0,1988,HYDRO,O'Shaughnessy Hydro,4065,40.153328,-83.126719,OH,39,041,RFC,RFCW,HYDRO,5.2,0,1,39041,1.41005475174289,143.169344703966
+58475,MWH,BOU,OP,BA,4,-740,2014,OTHER,Battery Utility of Ohio,14006,40.260278,-82.833056,OH,39,041,RFC,RFCW,OTHF,4,0,1,39041,6.8770450576111,147.494651343296

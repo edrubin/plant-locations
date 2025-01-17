@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57409,LFG,GEN1,OP,IC,1.6,11991.333,2012,BIOMASS,West Camden,1578,36.057892,-88.141965,TN,47,005,SERC,SRTV,BIOMASS,4.8,0,1,47005,6.41353459479858,48.8987617145477
+57409,LFG,GEN2,OP,IC,1.6,11991.333,2012,BIOMASS,West Camden,1578,36.057892,-88.141965,TN,47,005,SERC,SRTV,BIOMASS,4.8,0,1,47005,6.41353459479858,48.8987617145477
+57409,LFG,GEN3,OP,IC,1.6,11991.333,2012,BIOMASS,West Camden,1578,36.057892,-88.141965,TN,47,005,SERC,SRTV,BIOMASS,4.8,0,1,47005,6.41353459479858,48.8987617145477

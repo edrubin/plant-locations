@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56280,LFG,1,OP,IC,0.8,1577.333,2006,BIOMASS,Hardin County LFGTE,5580,37.7258,-85.7258,KY,21,093,SERC,SRTV,BIOMASS,2.4,0,1,21093,3.11946022161494,36.5584660869308
+56280,LFG,2,OP,IC,0.8,1577.333,2006,BIOMASS,Hardin County LFGTE,5580,37.7258,-85.7258,KY,21,093,SERC,SRTV,BIOMASS,2.4,0,1,21093,3.11946022161494,36.5584660869308
+56280,LFG,3,OP,IC,0.8,1577.333,2006,BIOMASS,Hardin County LFGTE,5580,37.7258,-85.7258,KY,21,093,SERC,SRTV,BIOMASS,2.4,0,1,21093,3.11946022161494,36.5584660869308

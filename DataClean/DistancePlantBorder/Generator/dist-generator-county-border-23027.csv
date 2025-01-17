@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50230,DFO,CAT,SB,IC,2,99,1987,OIL,Robbins Lumber,3266,44.3331,-69.2019,ME,23,027,NPCC,NEWE,OIL,13.2,0,1,23027,1.37232993649865,53.9491566238744
+50230,WDS,WEST,OS,ST,1.2,0,1981,BIOMASS,Robbins Lumber,3266,44.3331,-69.2019,ME,23,027,NPCC,NEWE,OIL,13.2,0,0,23027,1.37232993649865,53.9491566238744
+50230,WDS,WEG,TS,ST,10,0,2019,BIOMASS,Robbins Lumber,3266,44.3331,-69.2019,ME,23,027,NPCC,NEWE,OIL,13.2,0,0,23027,1.37232993649865,53.9491566238744
+57130,WND,BR1,OP,WT,4.5,11866,2008,WIND,Beaver Ridge Wind,3266,44.4967,-69.35,ME,23,027,NPCC,NEWE,WIND,4.5,0,1,23027,2.74651518146742,74.6391997946133

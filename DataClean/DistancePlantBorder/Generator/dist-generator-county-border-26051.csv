@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50158,WAT,1,OP,HY,2.4,8664,1923,HYDRO,Edenville,4254,43.814,-84.3767,MI,26,051,RFC,RFCM,HYDRO,4.8,0,1,26051,0.0439347499556915,174.825186189705
+50158,WAT,2,SB,HY,2.4,8664,1923,HYDRO,Edenville,4254,43.814,-84.3767,MI,26,051,RFC,RFCM,HYDRO,4.8,0,1,26051,0.0439347499556915,174.825186189705
+50159,WAT,1,OP,HY,1.2,4443,1923,HYDRO,Secord,4254,44.0411,-84.3418,MI,26,051,RFC,RFCM,HYDRO,1.2,0,1,26051,13.3088132999313,167.423979619453
+50160,WAT,1,OP,HY,1.2,4065,1923,HYDRO,Smallwood,4254,43.9599,-84.336,MI,26,051,RFC,RFCM,HYDRO,1.2,0,1,26051,13.6361945666428,168.666725519539

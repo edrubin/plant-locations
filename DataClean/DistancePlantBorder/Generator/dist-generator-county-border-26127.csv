@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1827,NG,4,OP,IC,1.4,0,1964,GAS,Hart,8205,43.704076,-86.366256,MI,26,127,RFC,RFCM,GAS,5.7,0,1,26127,12.7569800663691,59.8676294959561
+1827,DFO,IC1,OP,IC,1.7,0,1985,OIL,Hart,8205,43.704076,-86.366256,MI,26,127,RFC,RFCM,GAS,5.7,0,1,26127,12.7569800663691,59.8676294959561
+1827,DFO,IC3,OP,IC,2,0,1985,OIL,Hart,8205,43.704076,-86.366256,MI,26,127,RFC,RFCM,GAS,5.7,0,1,26127,12.7569800663691,59.8676294959561
+1827,DFO,2,RE,IC,0.6,,1938,OIL,Hart,8205,43.704076,-86.366256,MI,26,127,RFC,RFCM,GAS,5.7,0,0,26127,12.7569800663691,59.8676294959561

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+62775,SUN,WILDB,OP,PV,15,11693,2018,SOLAR,Wildberry,40166,35.058165,-89.368619,TN,47,047,SERC,SRTV,SOLAR,15,0,1,47047,7.1303640450754,7.1303640450754

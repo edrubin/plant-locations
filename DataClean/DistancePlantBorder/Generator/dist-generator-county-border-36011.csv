@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+8009,NG,1,OP,GT,7,13,2000,GAS,Auburn State Street,13511,42.9278,-76.5921,NY,36,011,NPCC,NYUP,GAS,7,0,1,36011,10.985456495709,79.3670276555362
+10902,WAT,GEN1,OP,HY,1.7,6586,1986,HYDRO,Victory Mills,13573,42.9197,-76.5477,NY,36,011,NPCC,NYUP,HYDRO,1.7,0,1,36011,7.4185991271515,80.9989799558829
+61003,SUN,CMUSW,OP,PV,2,3101,2016,SOLAR,Musgrave East Solar Farm,13511,42.731496,-76.663665,NY,36,011,NPCC,NYUP,SOLAR,2,0,1,36011,5.68924802061698,81.1283023936303
+61015,SUN,CMUSW,OP,PV,2,3129,2016,SOLAR,Musgrave West Solar Farm,13511,42.731496,-76.663665,NY,36,011,NPCC,NYUP,SOLAR,2,0,1,36011,5.68924802061698,81.1283023936303

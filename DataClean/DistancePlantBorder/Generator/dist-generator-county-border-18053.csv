@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59855,SUN,DCPV1,OP,PV,2.5,1419,2016,SOLAR,Deer Creek PV,9324,40.51,-85.64,IN,18,053,RFC,RFCW,SOLAR,2.5,0,1,18053,14.4756344259592,70.9515415367253

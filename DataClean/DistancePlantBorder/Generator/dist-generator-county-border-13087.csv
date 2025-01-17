@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56015,DFO,SEG1,OP,GT,40,518,2000,OIL,Walton Bainbridge Power Facility,7197,30.910985,-84.547304,GA,13,087,SERC,SRSO,OIL,80,1,1,13087,16.2875466753712,23.6753959106328
+56015,DFO,SEGC,OP,GT,40,518,2000,OIL,Walton Bainbridge Power Facility,7197,30.910985,-84.547304,GA,13,087,SERC,SRSO,OIL,80,1,1,13087,16.2875466753712,23.6753959106328
+59449,SUN,DCSP1,OP,PV,20,40872,2015,SOLAR,Decatur County Solar Project,7140,30.965,-84.626111,GA,13,087,SERC,SRSO,SOLAR,20,0,1,13087,11.5769383694362,29.2207144485548
+59450,SUN,DPSP1,OP,PV,80,175160,2015,SOLAR,"Decatur Parkway Solar Project, LLC",7140,30.991944,-84.633889,GA,13,087,SERC,SRSO,SOLAR,80,1,1,13087,8.51159642350449,31.1369688554234

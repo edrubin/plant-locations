@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+474,WAT,2,OP,HY,0.6,838.286,1908,HYDRO,Salida,15466,38.53419,-106.182003,CO,08,015,WECC,RMPA,HYDRO,1.4,0,1,08015,11.6152245356594,170.824539402479
+474,WAT,1,RE,HY,0.8,1117.714,1929,HYDRO,Salida,15466,38.53419,-106.182003,CO,08,015,WECC,RMPA,HYDRO,1.4,0,0,08015,11.6152245356594,170.824539402479

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10423,WAT,GEN1,OP,HY,5.5,17345,1988,HYDRO,North Fork Hydro Plant,9336,39.4616,-105.677,CO,08,093,WECC,RMPA,HYDRO,5.5,0,1,08093,11.5818535977651,170.432966875206

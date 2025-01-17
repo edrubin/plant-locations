@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+195,WAT,1,OP,HY,8.5,6880.333,1950,HYDRO,Narrows (AR),17698,34.148427,-93.715168,AR,05,109,SERC,SPSO,HYDRO,25.5,0,1,05109,9.80742401052287,69.7038642690555
+195,WAT,2,OS,HY,8.5,6880.333,1950,HYDRO,Narrows (AR),17698,34.148427,-93.715168,AR,05,109,SERC,SPSO,HYDRO,25.5,0,0,05109,9.80742401052287,69.7038642690555
+195,WAT,3,OP,HY,8.5,6880.333,1969,HYDRO,Narrows (AR),17698,34.148427,-93.715168,AR,05,109,SERC,SPSO,HYDRO,25.5,0,1,05109,9.80742401052287,69.7038642690555

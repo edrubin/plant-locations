@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50307,NG,GEN1,OP,ST,7.5,14,1964,GAS,University of Oklahoma,14063,35.2089,-97.4424,OK,40,027,MRO,SPSO,GAS,18.6,0,1,40027,4.35025866656313,131.983288105511
+50307,NG,GEN2,OP,ST,2.5,1,2001,GAS,University of Oklahoma,14063,35.2089,-97.4424,OK,40,027,MRO,SPSO,GAS,18.6,0,1,40027,4.35025866656313,131.983288105511
+50307,NG,GEN3,OP,ST,2.5,0,1949,GAS,University of Oklahoma,14063,35.2089,-97.4424,OK,40,027,MRO,SPSO,GAS,18.6,0,1,40027,4.35025866656313,131.983288105511
+50307,NG,GEN4,OP,ST,4.3,0,1985,GAS,University of Oklahoma,14063,35.2089,-97.4424,OK,40,027,MRO,SPSO,GAS,18.6,0,1,40027,4.35025866656313,131.983288105511
+50307,DFO,GEN5,OP,IC,1.8,0,2001,OIL,University of Oklahoma,14063,35.2089,-97.4424,OK,40,027,MRO,SPSO,GAS,18.6,0,1,40027,4.35025866656313,131.983288105511

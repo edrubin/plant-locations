@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57751,WND,1,OP,WT,200,625455,2012,WIND,Los Vientos Wind 1A,3278,26.33072,-97.5857,TX,48,061,TRE,ERCT,WIND,200,1,1,48061,2.52389205655502,33.318249911104
+57752,WND,1,OP,WT,201.6,558407,2012,WIND,Los Vientos Wind 1B,3278,26.34892,-97.6668,TX,48,061,TRE,ERCT,WIND,201.6,1,1,48061,3.25488531904693,34.4327320387117
+57802,WND,MV1,OP,WT,203,692151,2012,WIND,Magic Valley Wind Farm I LLC,3278,26.475278,-97.691111,TX,48,489,TRE,ERCT,WIND,203,1,1,48489,13.6698611903316,47.2810459250215
+59066,WND,MVII,OP,WT,228,686008,2017,WIND,Bruennings Breeze Wind Farm,3278,26.522222,-97.691111,TX,48,489,TRE,ERCT,WIND,228,1,1,48489,8.46990755261064,46.4183987662129

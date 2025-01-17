@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56225,WND,V90,OP,WT,3,3099,2003,WIND,Aeolus Wind Facility,17718,36.4725,-101.3278,TX,48,195,MRO,SPSO,WIND,3,0,1,48195,3.00317933256336,3.00317933256336
+56560,WND,JDW4,OP,WT,79.8,195672,2008,WIND,EXC Wind 4,17718,36.4144,-101.3864,TX,48,195,MRO,SPSO,WIND,79.8,1,1,48195,9.42862834418369,9.42862834418369
+56905,WND,1,OP,WT,114,330784,2009,WIND,Great Plains Windpark LLC,17718,36.4964,-101.3917,TX,48,195,MRO,SPSO,WIND,114,1,1,48195,0.328346905315942,0.328346905315942
+57517,WND,FRISC,OP,WT,20,0,2012,WIND,DeWind Frisco,17718,36.498514,-101.605278,TX,48,195,MRO,SPSO,WIND,20,0,1,48195,0.111891790634832,0.111891790634832

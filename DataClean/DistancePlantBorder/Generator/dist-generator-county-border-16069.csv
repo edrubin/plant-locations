@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50637,NG,GEN1,OS,ST,10,0,1950,GAS,Clearwater Paper IPP Lewiston,20169,46.423056,-116.976389,ID,16,069,WECC,NWPP,BIOMASS,113.8,0,0,16069,4.51245078799651,4.51245078799651
+50637,NG,GEN2,OS,ST,10,0,1977,GAS,Clearwater Paper IPP Lewiston,20169,46.423056,-116.976389,ID,16,069,WECC,NWPP,BIOMASS,113.8,0,0,16069,4.51245078799651,4.51245078799651
+50637,BLQ,GEN3,OP,ST,28.8,172418,1981,BIOMASS,Clearwater Paper IPP Lewiston,20169,46.423056,-116.976389,ID,16,069,WECC,NWPP,BIOMASS,113.8,1,1,16069,4.51245078799651,4.51245078799651
+50637,BLQ,GEN4,OP,ST,65,196044,1991,BIOMASS,Clearwater Paper IPP Lewiston,20169,46.423056,-116.976389,ID,16,069,WECC,NWPP,BIOMASS,113.8,1,1,16069,4.51245078799651,4.51245078799651

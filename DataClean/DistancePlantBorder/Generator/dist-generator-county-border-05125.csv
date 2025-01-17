@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61839,SUN,FECC1,OP,PV,1,1540,2017,SOLAR,FECC Solar Benton,6342,34.638429,-92.578347,AR,05,125,SERC,SRMV,SOLAR,1,0,1,05125,6.15081034596691,155.630008755319

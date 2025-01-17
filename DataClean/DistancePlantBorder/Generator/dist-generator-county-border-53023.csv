@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57195,WND,LSR 1,OP,WT,342.7,833098,2012,WIND,Lower Snake River Wind Energy Project,1738,46.524167,-117.821666,WA,53,023,WECC,NWPP,WIND,342.7,1,1,53023,3.13098819393907,58.2365473016794

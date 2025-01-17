@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7237,NG,1,OP,GT,119.7,35493.101,1994,GAS,Angus Anson,13781,43.60347,-96.6356,SD,46,099,MRO,MROW,GAS,405.7,1,1,46099,11.4530553189468,11.8179744928323
+7237,NG,2,OP,GT,119.7,35493.101,1994,GAS,Angus Anson,13781,43.60347,-96.6356,SD,46,099,MRO,MROW,GAS,405.7,1,1,46099,11.4530553189468,11.8179744928323
+7237,NG,4,OP,GT,166.3,49310.799,2005,GAS,Angus Anson,13781,43.60347,-96.6356,SD,46,099,MRO,MROW,GAS,405.7,1,1,46099,11.4530553189468,11.8179744928323

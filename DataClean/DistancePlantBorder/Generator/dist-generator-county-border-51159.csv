@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3800,DFO,GT1,OP,GT,20.7,631.25,1971,OIL,Northern Neck,19876,37.95,-76.711,VA,51,159,SERC,SRVC,OIL,82.8,0,1,51159,3.94189657503283,19.0822395815757
+3800,DFO,GT2,OP,GT,20.7,631.25,1971,OIL,Northern Neck,19876,37.95,-76.711,VA,51,159,SERC,SRVC,OIL,82.8,0,1,51159,3.94189657503283,19.0822395815757
+3800,DFO,GT3,OP,GT,20.7,631.25,1971,OIL,Northern Neck,19876,37.95,-76.711,VA,51,159,SERC,SRVC,OIL,82.8,0,1,51159,3.94189657503283,19.0822395815757
+3800,DFO,GT4,OP,GT,20.7,631.25,1971,OIL,Northern Neck,19876,37.95,-76.711,VA,51,159,SERC,SRVC,OIL,82.8,0,1,51159,3.94189657503283,19.0822395815757

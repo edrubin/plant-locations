@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1186,KER,GT1,OP,GT,23.8,189,1970,OIL,Spencer Gas Turbine,17783,43.144585,-95.144257,IA,19,041,MRO,MROW,OIL,23.8,0,1,19041,12.3217520282834,39.5432448515072
+1217,NG,1,OP,ST,37.5,1760,1960,GAS,Earl F Wisdom,4363,43.1606,-95.2569,IA,19,041,MRO,MROW,GAS,119.1,1,1,19041,10.5331049063425,37.7684152964832
+1217,NG,2,OP,GT,81.6,20142,2004,GAS,Earl F Wisdom,4363,43.1606,-95.2569,IA,19,041,MRO,MROW,GAS,119.1,1,1,19041,10.5331049063425,37.7684152964832
+56859,WND,1,OP,WT,21,62250,2007,WIND,Crosswind Energy Project,4363,43.0475,-94.9228,IA,19,147,MRO,MROW,WIND,21,0,1,19147,0.743243403073004,50.3424721900905

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58559,LFG,GEN1,OP,IC,1,3822,2011,BIOMASS,Bi-County Gas Producers,4624,36.540556,-87.544444,TN,47,125,SERC,SRTV,BIOMASS,3,0,1,47125,7.20357284158289,10.9118500976264
+58559,LFG,GEN2,OP,IC,2,7644,2013,BIOMASS,Bi-County Gas Producers,4624,36.540556,-87.544444,TN,47,125,SERC,SRTV,BIOMASS,3,0,1,47125,7.20357284158289,10.9118500976264

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+861,RC,1,OP,ST,388.9,1721026,1965,COAL,Coffeen,56697,39.0586,-89.4031,IL,17,135,SERC,SRMW,COAL,1005.4,1,1,17135,3.42221116509612,65.7367536194214
+861,RC,2,OP,ST,616.5,3580977,1972,COAL,Coffeen,56697,39.0586,-89.4031,IL,17,135,SERC,SRMW,COAL,1005.4,1,1,17135,3.42221116509612,65.7367536194214

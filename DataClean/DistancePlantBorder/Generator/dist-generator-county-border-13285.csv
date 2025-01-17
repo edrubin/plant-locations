@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6133,WAT,1,OP,HY,3.3,10326.119,1975,HYDRO,West Point (GA),7140,32.918674,-85.1887,GA,13,285,SERC,SRSO,HYDRO,73.3,0,1,13285,0.530454273447883,0.530454273447883
+6133,WAT,2,OP,HY,35,109519.441,1975,HYDRO,West Point (GA),7140,32.918674,-85.1887,GA,13,285,SERC,SRSO,HYDRO,73.3,1,1,13285,0.530454273447883,0.530454273447883
+6133,WAT,3,OP,HY,35,109519.441,1975,HYDRO,West Point (GA),7140,32.918674,-85.1887,GA,13,285,SERC,SRSO,HYDRO,73.3,1,1,13285,0.530454273447883,0.530454273447883

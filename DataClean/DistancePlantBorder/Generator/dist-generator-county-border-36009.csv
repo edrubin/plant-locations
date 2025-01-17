@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54076,NG,GEN1,OP,CT,46,71413,1994,GAS,Indeck-Olean Energy Center,13573,42.085944,-78.45425,NY,36,009,NPCC,NYUP,GAS,90.6,1,1,36009,9.5741587263076,9.5741587263076
+54076,NG,GEN2,OP,CA,44.6,59579,1994,GAS,Indeck-Olean Energy Center,13573,42.085944,-78.45425,NY,36,009,NPCC,NYUP,GAS,90.6,1,1,36009,9.5741587263076,9.5741587263076
+61898,SUN,SOLEA,OP,PV,4,7476,2016,SOLAR,Solean Solar Project,13573,42.086926,-78.448212,NY,36,009,NPCC,NYUP,SOLAR,4,0,1,36009,9.68474813293534,9.68474813293534

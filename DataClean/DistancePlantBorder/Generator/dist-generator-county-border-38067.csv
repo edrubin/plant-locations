@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54213,SUB,G1,OP,ST,6,0,1965,COAL,American Crystal Sugar Drayton,12301,48.593158,-97.17608,ND,38,067,MRO,MROW,COAL,6,0,1,38067,1.64316601713899,1.64316601713899
+62782,WND,PEMWT,OP,WT,1,,2012,WIND,Pembina Land Port of Entry Wind Turbine,14232,48.996866,-97.24161,ND,38,067,MRO,MROW,WIND,1,0,1,38067,0.417249375338239,0.417249375338239

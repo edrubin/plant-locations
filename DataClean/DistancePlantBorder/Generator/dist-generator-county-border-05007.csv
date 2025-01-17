@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6138,SUB,1,OP,ST,558,2669748,1978,COAL,Flint Creek Power Plant,17698,36.2561,-94.5241,AR,05,007,MRO,SPSO,COAL,558,1,1,05007,4.86551684638147,4.86551684638147

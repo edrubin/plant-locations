@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+193,DFO,1,OP,IC,2,0,1963,OIL,Municipal Light,17716,36.3858,-90.1867,AR,05,021,SERC,SRMV,OIL,7.2,0,1,05021,5.32225244118644,5.32225244118644
+193,DFO,2,OP,IC,0.6,0,1952,OIL,Municipal Light,17716,36.3858,-90.1867,AR,05,021,SERC,SRMV,OIL,7.2,0,1,05021,5.32225244118644,5.32225244118644
+193,DFO,4,OP,IC,2.2,0,1976,OIL,Municipal Light,17716,36.3858,-90.1867,AR,05,021,SERC,SRMV,OIL,7.2,0,1,05021,5.32225244118644,5.32225244118644
+193,DFO,6,OP,IC,1.3,0,1959,OIL,Municipal Light,17716,36.3858,-90.1867,AR,05,021,SERC,SRMV,OIL,7.2,0,1,05021,5.32225244118644,5.32225244118644
+193,DFO,7,OP,IC,1.1,0,1955,OIL,Municipal Light,17716,36.3858,-90.1867,AR,05,021,SERC,SRMV,OIL,7.2,0,1,05021,5.32225244118644,5.32225244118644

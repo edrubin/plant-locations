@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61004,WND,W1,OP,WT,1.5,3370,2018,WIND,Whirlpool Corporation - Ottawa Wind Farm,14006,41.002764,-84.033742,OH,39,137,RFC,RFCW,WIND,1.5,0,1,39137,9.76643607376263,64.7542401891365

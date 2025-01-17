@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6251,NUC,1,OP,ST,1354.3,10343816,1988,NUCLEAR,South Texas Project,1015,28.795,-96.0481,TX,48,321,TRE,ERCT,NUCLEAR,2708.6,1,1,48321,26.2405591711805,28.4469838017421
+6251,NUC,2,OP,ST,1354.3,10343816,1989,NUCLEAR,South Texas Project,1015,28.795,-96.0481,TX,48,321,TRE,ERCT,NUCLEAR,2708.6,1,1,48321,26.2405591711805,28.4469838017421

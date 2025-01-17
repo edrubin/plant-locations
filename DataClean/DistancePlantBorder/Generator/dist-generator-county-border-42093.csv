@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3149,RC,1,OP,ST,864.9,1317537,1972,COAL,"Montour, LLC",14715,41.0714,-76.6672,PA,42,093,RFC,RFCE,COAL,1775.1,1,1,42093,4.12787531735069,103.222368366616
+3149,RC,11,OP,ST,17.2,238826,1973,COAL,"Montour, LLC",14715,41.0714,-76.6672,PA,42,093,RFC,RFCE,COAL,1775.1,0,1,42093,4.12787531735069,103.222368366616
+3149,RC,2,OP,ST,893,1063147,1973,COAL,"Montour, LLC",14715,41.0714,-76.6672,PA,42,093,RFC,RFCE,COAL,1775.1,1,1,42093,4.12787531735069,103.222368366616

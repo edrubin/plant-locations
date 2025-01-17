@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1091,RC,3,OP,ST,584.1,2277961,1975,COAL,George Neal North,12341,42.299794,-96.361707,IA,19,193,MRO,MROW,COAL,1080.3,1,1,19193,0.570443339119328,0.570443339119328
+1091,SUB,1,RE,ST,147,,1964,COAL,George Neal North,12341,42.299794,-96.361707,IA,19,193,MRO,MROW,COAL,1080.3,1,0,19193,0.570443339119328,0.570443339119328
+1091,SUB,2,RE,ST,349.2,,1972,COAL,George Neal North,12341,42.299794,-96.361707,IA,19,193,MRO,MROW,COAL,1080.3,1,0,19193,0.570443339119328,0.570443339119328
+7343,RC,4,OP,ST,695.9,3090593,1979,COAL,George Neal South,12341,42.3006,-96.3617,IA,19,193,MRO,MROW,COAL,695.9,1,1,19193,0.568967774192028,0.568967774192028

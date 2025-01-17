@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57937,SUB,SCBF,OP,ST,5,21367.89,1987,COAL,Western Sugar Coop - Scottsbluff,13337,41.85887,-103.63438,NE,31,157,MRO,MROW,COAL,5,0,1,31157,15.9479882027223,34.731912764691

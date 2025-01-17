@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56848,OG,SCKG1,OP,ST,67,296868,2008,OTHER FOSSIL,Haverhill North Cogeneration Facility,14006,38.596657,-82.828642,OH,39,145,RFC,RFCW,COAL,67,1,1,39145,1.47483366877112,1.47483366877112

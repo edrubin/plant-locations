@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55986,WND,WT1,OP,WT,66,146483,2002,WIND,Mountaineer Wind Energy Center,12796,39.1828,-79.5372,WV,54,093,RFC,RFCW,WIND,66,1,1,54093,4.26439255011406,5.04633887729024

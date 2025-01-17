@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50758,WAT,GEN1,OP,HY,12.3,38475.311,1987,HYDRO,Pejepscot Hydroelectric Project,3266,43.957448,-70.024158,ME,23,023,NPCC,NEWE,HYDRO,13.5,0,1,23023,0.0918248181658953,37.0692259994847
+50758,WAT,GEN2,OP,HY,0.4,1251.23,1987,HYDRO,Pejepscot Hydroelectric Project,3266,43.957448,-70.024158,ME,23,023,NPCC,NEWE,HYDRO,13.5,0,1,23023,0.0918248181658953,37.0692259994847
+50758,WAT,GEN3,OP,HY,0.3,938.422,1987,HYDRO,Pejepscot Hydroelectric Project,3266,43.957448,-70.024158,ME,23,023,NPCC,NEWE,HYDRO,13.5,0,1,23023,0.0918248181658953,37.0692259994847
+50758,WAT,GEN4,OP,HY,0.5,1564.037,1987,HYDRO,Pejepscot Hydroelectric Project,3266,43.957448,-70.024158,ME,23,023,NPCC,NEWE,HYDRO,13.5,0,1,23023,0.0918248181658953,37.0692259994847

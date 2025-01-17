@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57321,SUN,1PV,OP,PV,1.2,1436,2011,SOLAR,Mayberry Solar LLC,5416,36.476667,-80.601111,NC,37,171,SERC,SRVC,SOLAR,1.2,0,1,37171,8.96588655260494,8.96588655260494
+58492,SUN,ARARR,OP,PV,3.5,5614,2012,SOLAR,"Ararat Rock Solar, LLC",5416,36.461111,-80.600556,NC,37,171,SERC,SRVC,SOLAR,3.5,0,1,37171,10.6881940706213,10.6881940706213
+59439,LFG,UNIT1,OP,IC,1.6,6771,2013,BIOMASS,"COC Surry LFG, LLC",5416,36.438611,-80.568333,NC,37,171,SERC,SRVC,BIOMASS,1.6,0,1,37171,10.9195695184523,13.0648971459439

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7458,WAT,1,OP,HY,5,15869,1985,HYDRO,Basalt,8773,39.363056,-106.821944,CO,08,037,WECC,RMPA,HYDRO,5,0,1,08037,0.0822706824699501,182.041225404163

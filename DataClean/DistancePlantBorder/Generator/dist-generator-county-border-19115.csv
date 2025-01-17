@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6664,RC,1,OP,ST,811.9,4878999,1983,COAL,Louisa,12341,41.3181,-91.0931,IA,19,115,MRO,MROW,COAL,811.9,1,1,19115,1.68503791617202,1.68503791617202

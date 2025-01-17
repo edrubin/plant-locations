@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3699,WAT,1,OP,HY,1.4,6506.667,1958,HYDRO,Boulder,6957,37.9858,-111.4383,UT,49,017,WECC,NWPP,HYDRO,4.2,0,1,49017,18.2299416531118,109.19492671906
+3699,WAT,2,OP,HY,1.4,6506.667,1958,HYDRO,Boulder,6957,37.9858,-111.4383,UT,49,017,WECC,NWPP,HYDRO,4.2,0,1,49017,18.2299416531118,109.19492671906
+3699,WAT,3,OP,HY,1.4,6506.667,1961,HYDRO,Boulder,6957,37.9858,-111.4383,UT,49,017,WECC,NWPP,HYDRO,4.2,0,1,49017,18.2299416531118,109.19492671906

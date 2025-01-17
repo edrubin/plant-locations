@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6546,WAT,1,OP,HY,0.8,3542.286,1913,HYDRO,Millville Hydro Station,20387,39.273056,-77.784444,WV,54,037,RFC,RFCW,HYDRO,2.8,0,1,54037,2.22872315500135,2.22872315500135
+6546,WAT,2,OP,HY,1,4427.857,1939,HYDRO,Millville Hydro Station,20387,39.273056,-77.784444,WV,54,037,RFC,RFCW,HYDRO,2.8,0,1,54037,2.22872315500135,2.22872315500135
+6546,WAT,3,OP,HY,1,4427.857,1938,HYDRO,Millville Hydro Station,20387,39.273056,-77.784444,WV,54,037,RFC,RFCW,HYDRO,2.8,0,1,54037,2.22872315500135,2.22872315500135

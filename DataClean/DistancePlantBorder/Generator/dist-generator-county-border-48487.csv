@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+127,SUB,1,OP,ST,720,3320056,1986,COAL,Oklaunion Power Station,15474,34.0825,-99.1753,TX,48,487,TRE,ERCT,COAL,720,1,1,48487,13.9306914810155,13.9306914810155
+58372,WND,GEN1,OP,WT,135.4,456482,2012,WIND,Blue Summit Wind LLC,20404,34.29,-99.364722,TX,48,487,TRE,ERCT,WIND,135.4,1,1,48487,9.90584060302398,9.90584060302398
+60338,WND,EWF,OP,WT,230,939224,2016,WIND,Electra Wind Farm,50174,34.102943,-99.118746,TX,48,487,TRE,ERCT,WIND,230,1,1,48487,10.9624546236259,10.9624546236259
+60690,MWH,WBSS,OP,BA,30,-3031,2017,OTHER,"Blue Summit Storage, LLC",20404,34.299,-99.399,TX,48,487,TRE,ERCT,OTHF,30,1,1,48487,7.0254153991518,8.19612798143125

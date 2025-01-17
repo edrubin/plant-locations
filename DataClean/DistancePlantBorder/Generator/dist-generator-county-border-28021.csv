@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6072,NUC,1,OP,ST,1440,6919470,1985,NUCLEAR,Grand Gulf,12685,32.0081,-91.0478,MS,28,021,SERC,SRMV,NUCLEAR,1440,1,1,28021,2.82651279997966,2.82651279997966

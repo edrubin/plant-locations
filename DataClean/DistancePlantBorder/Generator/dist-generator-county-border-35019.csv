@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56336,WND,1,OP,WT,90,264206,2006,WIND,Aragonne Wind LLC,15473,34.8147,-105.0108,NM,35,019,WECC,AZNM,WIND,90,1,1,35019,25.5734417331976,179.98755277306

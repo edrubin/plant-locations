@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54901,WAT,1,OP,HY,16.6,64822.333,1957,HYDRO,Chilhowee,18642,35.5453,-84.0503,TN,47,009,SERC,SRTV,HYDRO,49.8,0,1,47009,0.0731162430473306,12.1143337818585
+54901,WAT,2,OP,HY,16.6,64822.333,1957,HYDRO,Chilhowee,18642,35.5453,-84.0503,TN,47,009,SERC,SRTV,HYDRO,49.8,0,1,47009,0.0731162430473306,12.1143337818585
+54901,WAT,3,OP,HY,16.6,64822.333,1957,HYDRO,Chilhowee,18642,35.5453,-84.0503,TN,47,009,SERC,SRTV,HYDRO,49.8,0,1,47009,0.0731162430473306,12.1143337818585

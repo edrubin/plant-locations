@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54630,DFO,D-1,SB,IC,1.6,13.5,1990,OIL,American Gypsum Cogeneration,8773,39.648565,-106.949394,CO,08,037,WECC,RMPA,GAS,9.6,0,1,08037,14.0842155472647,150.417652256199
+54630,DFO,D-2,SB,IC,1.6,13.5,1990,OIL,American Gypsum Cogeneration,8773,39.648565,-106.949394,CO,08,037,WECC,RMPA,GAS,9.6,0,1,08037,14.0842155472647,150.417652256199
+54630,NG,T-1,OP,GT,2.8,8223.25,1990,GAS,American Gypsum Cogeneration,8773,39.648565,-106.949394,CO,08,037,WECC,RMPA,GAS,9.6,0,1,08037,14.0842155472647,150.417652256199
+54630,NG,T-2,OP,GT,3.6,10572.75,1990,GAS,American Gypsum Cogeneration,8773,39.648565,-106.949394,CO,08,037,WECC,RMPA,GAS,9.6,0,1,08037,14.0842155472647,150.417652256199
+58574,WDS,01,OP,ST,12.6,88639,2013,BIOMASS,Eagle Valley Clean Energy LLC Biomass,8773,39.648056,-106.943056,CO,08,037,WECC,RMPA,BIOMASS,12.6,0,1,08037,14.6283354579852,150.471052151329

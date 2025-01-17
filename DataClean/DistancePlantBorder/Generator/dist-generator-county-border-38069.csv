@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57097,WND,1,OP,WT,149,406700,2009,WIND,Rugby Wind Power Project,14232,48.4968,-99.9513,ND,38,069,MRO,MROW,WIND,149,1,1,38069,5.35754572004931,55.8369117636722

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61925,WND,CMNM,OP,WT,50.9,18801,2018,WIND,Casa Mesa Wind Energy Center,15473,34.604989,-103.966089,NM,35,037,WECC,AZNM,WIND,51.9,1,1,35037,0.00731944643356979,84.6302698139461
+61925,MWH,CMNMB,OP,BA,1,-8,2018,OTHER,Casa Mesa Wind Energy Center,15473,34.604989,-103.966089,NM,35,037,WECC,AZNM,WIND,51.9,0,1,35037,0.00731944643356979,84.6302698139461

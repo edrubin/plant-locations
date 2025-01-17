@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60316,SUN,1,OP,PV,17,13348,2016,SOLAR,Scott Solar Farm,19876,37.523,-77.934,VA,51,145,SERC,SRVC,SOLAR,17,0,1,51145,4.6016552941606,107.363545467191
+60968,SUN,PV1,OP,PV,20,37374,2017,SOLAR,Scott-II Solar LLC,19876,37.526244,-77.944637,VA,51,145,SERC,SRVC,SOLAR,20,0,1,51145,4.87260444075879,107.567804192587

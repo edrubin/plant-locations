@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55251,NG,CTG1,OP,GT,185.4,178730.759,2000,GAS,Gleason Combustion Turbine Plant,18642,36.2454,-88.612,TN,47,183,SERC,SRTV,GAS,567.8,1,1,47183,7.75707702771813,28.4844922496525
+55251,NG,CTG2,OP,GT,191.2,184322.12,2000,GAS,Gleason Combustion Turbine Plant,18642,36.2454,-88.612,TN,47,183,SERC,SRTV,GAS,567.8,1,1,47183,7.75707702771813,28.4844922496525
+55251,NG,CTG3,OP,GT,191.2,184322.12,2000,GAS,Gleason Combustion Turbine Plant,18642,36.2454,-88.612,TN,47,183,SERC,SRTV,GAS,567.8,1,1,47183,7.75707702771813,28.4844922496525

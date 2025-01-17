@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2956,NG,1,OP,ST,567,443551,1971,GAS,Seminole (2956),14063,34.96645,-96.7258,OK,40,133,MRO,SPSO,GAS,1724,1,1,40133,4.52909583163602,113.136435381847
+2956,NG,2,OP,ST,567,217410,1973,GAS,Seminole (2956),14063,34.96645,-96.7258,OK,40,133,MRO,SPSO,GAS,1724,1,1,40133,4.52909583163602,113.136435381847
+2956,NG,3,OP,ST,567,694909,1975,GAS,Seminole (2956),14063,34.96645,-96.7258,OK,40,133,MRO,SPSO,GAS,1724,1,1,40133,4.52909583163602,113.136435381847
+2956,NG,GT1,RE,GT,23,,1971,GAS,Seminole (2956),14063,34.96645,-96.7258,OK,40,133,MRO,SPSO,GAS,1724,0,0,40133,4.52909583163602,113.136435381847

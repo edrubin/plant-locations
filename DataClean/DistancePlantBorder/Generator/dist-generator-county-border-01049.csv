@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59710,LFG,GMA,OP,IC,1.6,8372,2013,BIOMASS,Sand Valley Power Station,16629,34.343875,-85.866103,AL,01,049,SERC,SRTV,BIOMASS,4.8,0,1,01049,10.7859566582359,35.511697479255
+59710,LFG,GMB,OP,IC,1.6,8372,2013,BIOMASS,Sand Valley Power Station,16629,34.343875,-85.866103,AL,01,049,SERC,SRTV,BIOMASS,4.8,0,1,01049,10.7859566582359,35.511697479255
+59710,LFG,GMC,OP,IC,1.6,8372,2013,BIOMASS,Sand Valley Power Station,16629,34.343875,-85.866103,AL,01,049,SERC,SRTV,BIOMASS,4.8,0,1,01049,10.7859566582359,35.511697479255

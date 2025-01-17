@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60856,WND,ASTRA,OP,WT,163,664642,2017,WIND,Astra Wind Farm,17008,34.769544,-102.052422,TX,48,381,TRE,ERCT,WIND,163,1,1,48381,2.40289599112437,90.7385112054081
+61589,WND,MT-1,OP,WT,0.1,81.971,2016,WIND,UL Advanced Wind Turbine Test Facility,17718,34.966012,-101.78412,TX,48,381,MRO,SPSO,WIND,3.5,0,1,48381,14.4486254521241,115.031022519225
+61589,WND,UT-1,OP,WT,3.4,2787.029,2018,WIND,UL Advanced Wind Turbine Test Facility,17718,34.966012,-101.78412,TX,48,381,MRO,SPSO,WIND,3.5,0,1,48381,14.4486254521241,115.031022519225

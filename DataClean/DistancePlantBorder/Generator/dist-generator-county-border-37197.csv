@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59566,SUN,PV1,OP,PV,4,6954,2015,SOLAR,Ashley Solar Farm,5416,36.126111,-80.798889,NC,37,197,SERC,SRVC,SOLAR,4,0,1,37197,7.14868067012001,48.1561425070496
+59587,SUN,PV1,OP,PV,3,5283,2015,SOLAR,Yadkin 601 Farm,5416,36.199167,-80.697222,NC,37,197,SERC,SRVC,SOLAR,3,0,1,37197,6.24770606741683,40.1156636937188
+59950,SUN,YAK,OP,PV,3.5,6291,2015,SOLAR,Yadkinville Solar,5416,36.13727,-80.596009,NC,37,197,SERC,SRVC,SOLAR,3.5,0,1,37197,8.6200983971444,46.5659525050048

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2779,WAT,1,OP,HY,81,365902.792,1945,HYDRO,Fontana Dam,18642,35.4507,-83.805,NC,37,173,SERC,SRTV,HYDRO,254.7,1,1,37173,0.0506632092154084,8.37868504870332
+2779,WAT,2,OP,HY,92.7,418755.417,1945,HYDRO,Fontana Dam,18642,35.4507,-83.805,NC,37,173,SERC,SRTV,HYDRO,254.7,1,1,37173,0.0506632092154084,8.37868504870332
+2779,WAT,3,OP,HY,81,365902.792,1954,HYDRO,Fontana Dam,18642,35.4507,-83.805,NC,37,173,SERC,SRTV,HYDRO,254.7,1,1,37173,0.0506632092154084,8.37868504870332

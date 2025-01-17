@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61554,SUN,1,OP,PV,2,4045,2018,SOLAR,Comer Solar,7140,34.0942,-83.1439,GA,13,195,SERC,SRSO,SOLAR,2,0,1,13195,5.47557376356792,39.1342802507022

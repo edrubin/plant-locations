@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10822,WDS,GEN1,OP,ST,38,176312,1992,BIOMASS,Grayling Generating Station,4254,44.604921,-84.690578,MI,26,039,RFC,RFCM,BIOMASS,38,1,1,26039,10.3927797318847,141.641253301142

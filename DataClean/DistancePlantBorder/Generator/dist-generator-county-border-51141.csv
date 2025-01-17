@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3825,WAT,1,OP,HY,3.7,11489.667,1938,HYDRO,Pinnacles,4794,36.666866,-80.447897,VA,51,141,RFC,SRVC,HYDRO,11.1,0,1,51141,1.75533809803198,12.8300445857301
+3825,WAT,2,OP,HY,3.7,11489.667,1938,HYDRO,Pinnacles,4794,36.666866,-80.447897,VA,51,141,RFC,SRVC,HYDRO,11.1,0,1,51141,1.75533809803198,12.8300445857301
+3825,WAT,3,OP,HY,3.7,11489.667,1938,HYDRO,Pinnacles,4794,36.666866,-80.447897,VA,51,141,RFC,SRVC,HYDRO,11.1,0,1,51141,1.75533809803198,12.8300445857301

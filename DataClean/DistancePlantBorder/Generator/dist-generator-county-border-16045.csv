@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6396,WAT,1,OP,HY,5.1,13977.595,1925,HYDRO,Black Canyon,1738,43.930462,-116.437172,ID,16,045,WECC,NWPP,HYDRO,22.7,0,1,16045,11.569820067089,40.483080602147
+6396,WAT,2,OP,HY,5.1,13977.595,1925,HYDRO,Black Canyon,1738,43.930462,-116.437172,ID,16,045,WECC,NWPP,HYDRO,22.7,0,1,16045,11.569820067089,40.483080602147
+6396,WAT,3,IP,HY,12.5,34258.811,,HYDRO,Black Canyon,1738,43.930462,-116.437172,ID,16,045,WECC,NWPP,HYDRO,22.7,0,0,16045,11.569820067089,40.483080602147

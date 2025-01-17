@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+467,WAT,A,OP,PS,150,-63745.5,1967,HYDRO,Cabin Creek,15466,39.6551,-105.7088,CO,08,019,WECC,RMPA,HYDRO,300,1,1,08019,6.96841469646725,148.942347197094
+467,WAT,B,OP,PS,150,-63745.5,1967,HYDRO,Cabin Creek,15466,39.6551,-105.7088,CO,08,019,WECC,RMPA,HYDRO,300,1,1,08019,6.96841469646725,148.942347197094
+472,WAT,1,OP,HY,0.6,1460.5,1906,HYDRO,Georgetown Hydro,15466,39.6919,-105.6978,CO,08,019,WECC,RMPA,HYDRO,1.2,0,1,08019,10.0456219562989,144.86435184772
+472,WAT,2,OP,HY,0.6,1460.5,1908,HYDRO,Georgetown Hydro,15466,39.6919,-105.6978,CO,08,019,WECC,RMPA,HYDRO,1.2,0,1,08019,10.0456219562989,144.86435184772

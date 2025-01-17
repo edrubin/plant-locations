@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3745,WAT,GEN1,OP,HY,13.6,82039.667,1928,HYDRO,Bellows Falls,7601,43.1375,-72.4464,VT,50,025,NPCC,NEWE,HYDRO,40.8,0,1,50025,0.0126791948853455,0.0126791948853455
+3745,WAT,GEN2,OP,HY,13.6,82039.667,1928,HYDRO,Bellows Falls,7601,43.1375,-72.4464,VT,50,025,NPCC,NEWE,HYDRO,40.8,0,1,50025,0.0126791948853455,0.0126791948853455
+3745,WAT,GEN3,OP,HY,13.6,82039.667,1928,HYDRO,Bellows Falls,7601,43.1375,-72.4464,VT,50,025,NPCC,NEWE,HYDRO,40.8,0,1,50025,0.0126791948853455,0.0126791948853455

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57275,SUN,TSE-1,OP,CP,125,195810,2015,SOLAR,Crescent Dunes Solar Energy,17166,38.238889,-117.36361,NV,32,023,WECC,NWPP,SOLAR,125,1,1,32023,4.3557347802119,91.1107840560536
+62636,SUN,NVSS2,OP,PV,15,,2017,SOLAR,NVSS-II,19840,36.275051,-115.972329,NV,32,023,WECC,NWPP,SOLAR,15,0,1,32023,6.90287083523031,17.1134422001421

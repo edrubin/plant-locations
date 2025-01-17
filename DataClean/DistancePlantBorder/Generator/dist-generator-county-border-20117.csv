@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59084,WND,RPMA,OP,WT,73.8,288918,2016,WIND,Marshall Wind Farm,22500,39.701111,-96.360833,KS,20,117,MRO,SPNO,WIND,73.8,1,1,20117,10.3972095738811,33.2997938543376

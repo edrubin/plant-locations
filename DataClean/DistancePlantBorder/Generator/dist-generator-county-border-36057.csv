@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61904,SUN,10044,OP,PV,2,2409,2018,SOLAR,Amsterdam North,13573,42.953622,-74.119802,NY,36,057,NPCC,NYUP,SOLAR,2,0,1,36057,2.19824811544136,68.9843710499809
+61905,SUN,10045,OP,PV,2,2570,2018,SOLAR,Amsterdam South,13573,42.948957,-74.126159,NY,36,057,NPCC,NYUP,SOLAR,2,0,1,36057,2.78997298084643,69.4909467556732
+62303,SUN,MF01,OP,PV,2,137,2018,SOLAR,Mattas Farms,-9999,42.893714,-74.216251,NY,36,057,NPCC,NYUP,SOLAR,2,0,1,36057,5.6777630219733,76.2999423140013

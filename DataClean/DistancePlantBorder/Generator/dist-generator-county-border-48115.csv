@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59332,WND,MSCRK,OP,WT,211.2,759132,2015,WIND,Mesquite Creek Wind,60066,32.7,-101.741111,TX,48,115,TRE,ERCT,WIND,211.2,1,1,48115,4.8120672715042,124.223785188589
+60372,SUN,LSPV1,OP,PV,100,239513,2017,SOLAR,Lamesa Solar,44372,32.715611,-101.926522,TX,48,115,TRE,ERCT,SOLAR,200,1,1,48115,21.23869277201,106.803594207148
+60372,SUN,LSPV2,CN,PV,100,,,SOLAR,Lamesa Solar,44372,32.715611,-101.926522,TX,48,115,TRE,ERCT,SOLAR,200,1,0,48115,21.23869277201,106.803594207148
+61697,SUN,IVORY,OP,PV,50,12403,2018,SOLAR,Ivory Solar,44372,32.713326,-101.885218,TX,48,115,TRE,ERCT,SOLAR,50,1,1,48115,18.3159424128856,110.681942169943

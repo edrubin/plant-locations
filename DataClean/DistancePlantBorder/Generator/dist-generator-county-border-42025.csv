@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50776,WC,GEN1,OP,ST,94,152019,1992,COAL,Panther Creek Energy Facility,12390,40.8556,-75.8781,PA,42,025,RFC,RFCE,COAL,94,1,1,42025,3.37862554692919,58.6389651620085
+57256,SUN,1,OP,PV,10.1,6223.62,2012,SOLAR,PA Solar Park,14715,40.860142,-75.852206,PA,42,025,RFC,RFCE,SOLAR,20,0,1,42025,5.35896582639933,56.6023276663834
+57256,SUN,2,IP,PV,9.9,6100.38,,SOLAR,PA Solar Park,14715,40.860142,-75.852206,PA,42,025,RFC,RFCE,SOLAR,20,0,0,42025,5.35896582639933,56.6023276663834

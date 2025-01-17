@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7988,NG,1,OP,GT,83.5,44137.333,2003,GAS,Silver Creek Generating Plant,12685,31.6004,-89.9468,MS,28,065,SERC,SRMV,GAS,250.5,1,1,28065,2.70283750600306,66.4424506876731
+7988,NG,2,OP,GT,83.5,44137.333,2004,GAS,Silver Creek Generating Plant,12685,31.6004,-89.9468,MS,28,065,SERC,SRMV,GAS,250.5,1,1,28065,2.70283750600306,66.4424506876731
+7988,NG,3,OP,GT,83.5,44137.333,2005,GAS,Silver Creek Generating Plant,12685,31.6004,-89.9468,MS,28,065,SERC,SRMV,GAS,250.5,1,1,28065,2.70283750600306,66.4424506876731

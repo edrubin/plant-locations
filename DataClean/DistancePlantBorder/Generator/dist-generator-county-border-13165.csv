@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60741,SUN,OMD,OP,PV,19.7,42287,2016,SOLAR,Old Midville Solar,7140,32.820676,-81.98176,GA,13,165,SERC,SRSO,SOLAR,19.7,0,1,13165,11.2467366617512,41.710124243373

@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7813,NG,1,OP,GT,121,116179.954,2000,GAS,Sewell Creek Energy,7197,33.9486,-85.2769,GA,13,233,SERC,SRSO,GAS,570,1,1,13233,5.37169376651863,10.8442138758635
+7813,NG,2,OP,GT,121,116179.954,2000,GAS,Sewell Creek Energy,7197,33.9486,-85.2769,GA,13,233,SERC,SRSO,GAS,570,1,1,13233,5.37169376651863,10.8442138758635
+7813,NG,3,OP,GT,164,157467.046,2000,GAS,Sewell Creek Energy,7197,33.9486,-85.2769,GA,13,233,SERC,SRSO,GAS,570,1,1,13233,5.37169376651863,10.8442138758635
+7813,NG,4,OP,GT,164,157467.046,2000,GAS,Sewell Creek Energy,7197,33.9486,-85.2769,GA,13,233,SERC,SRSO,GAS,570,1,1,13233,5.37169376651863,10.8442138758635
+60561,MWH,1,OP,BA,1,-109,2015,OTHER,Cedartown Battery Energy Storage Project,7140,34.041026,-85.223252,GA,13,233,SERC,SRSO,OTHF,1,0,1,13233,5.30992002600088,17.4104327347635

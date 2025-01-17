@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10855,NG,GEN1,SB,ST,20,81.626,1952,GAS,Cargill Corn Milling Division,9417,41.1386,-92.6467,IA,19,135,MRO,MROW,GAS,40,0,1,19135,0.555549146473592,60.8010865174848
+10855,NG,GEN2,OP,ST,20,78300.942,1952,GAS,Cargill Corn Milling Division,9417,41.1386,-92.6467,IA,19,135,MRO,MROW,GAS,40,0,1,19135,0.555549146473592,60.8010865174848

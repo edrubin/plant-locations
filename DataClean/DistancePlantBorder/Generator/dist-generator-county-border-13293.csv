@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55267,NG,712,OP,GT,175.3,86702.75,2000,GAS,Edward L Addison Generating Plant,7140,32.9111,-84.3064,GA,13,293,SERC,SRSO,GAS,701.2,1,1,13293,8.9284150176494,77.8891670295115
+55267,NG,713,OP,GT,175.3,86702.75,2000,GAS,Edward L Addison Generating Plant,7140,32.9111,-84.3064,GA,13,293,SERC,SRSO,GAS,701.2,1,1,13293,8.9284150176494,77.8891670295115
+55267,NG,714,OP,GT,175.3,86702.75,2000,GAS,Edward L Addison Generating Plant,7140,32.9111,-84.3064,GA,13,293,SERC,SRSO,GAS,701.2,1,1,13293,8.9284150176494,77.8891670295115
+55267,NG,715,OP,GT,175.3,86702.75,2000,GAS,Edward L Addison Generating Plant,7140,32.9111,-84.3064,GA,13,293,SERC,SRSO,GAS,701.2,1,1,13293,8.9284150176494,77.8891670295115
+58485,SUN,PV1,OP,PV,1,999,2012,SOLAR,Upson Rocky Creek Solar Plant,7140,32.920833,-84.343056,GA,13,293,SERC,SRSO,SOLAR,1,0,1,13293,7.88562799609607,74.748145510351

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10699,BLQ,GEN1,OP,ST,15.6,59335,1959,BIOMASS,Georgia-Pacific Consr Prods LP-Naheola,195,32.2268,-88.0252,AL,01,023,SERC,SRSO,BIOMASS,118.7,0,1,01023,1.23295714360111,38.0507302320208
+10699,BLQ,GEN2,OP,ST,15.6,33586,1962,BIOMASS,Georgia-Pacific Consr Prods LP-Naheola,195,32.2268,-88.0252,AL,01,023,SERC,SRSO,BIOMASS,118.7,0,1,01023,1.23295714360111,38.0507302320208
+10699,BLQ,GT3,OP,ST,47.2,200129,1993,BIOMASS,Georgia-Pacific Consr Prods LP-Naheola,195,32.2268,-88.0252,AL,01,023,SERC,SRSO,BIOMASS,118.7,1,1,01023,1.23295714360111,38.0507302320208
+10699,WDS,TG4,TS,ST,40.3,0,2019,BIOMASS,Georgia-Pacific Consr Prods LP-Naheola,195,32.2268,-88.0252,AL,01,023,SERC,SRSO,BIOMASS,118.7,1,0,01023,1.23295714360111,38.0507302320208

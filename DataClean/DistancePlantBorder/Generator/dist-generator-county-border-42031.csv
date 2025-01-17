@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3124,WAT,1,OP,HY,10,35084,1924,HYDRO,Piney,14711,41.192088,-79.433501,PA,42,031,RFC,RFCE,HYDRO,30,0,1,42031,16.3798809997914,89.5448994230811
+3124,WAT,2,OP,HY,10,35084,1924,HYDRO,Piney,14711,41.192088,-79.433501,PA,42,031,RFC,RFCE,HYDRO,30,0,1,42031,16.3798809997914,89.5448994230811
+3124,WAT,3,OP,HY,10,35084,1928,HYDRO,Piney,14711,41.192088,-79.433501,PA,42,031,RFC,RFCE,HYDRO,30,0,1,42031,16.3798809997914,89.5448994230811

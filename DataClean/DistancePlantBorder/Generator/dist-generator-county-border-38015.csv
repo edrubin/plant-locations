@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56357,WND,GE,OP,WT,18,50124.364,2006,WIND,FPL Energy Burleigh County Wind,3279,47.1167,-100.7333,ND,38,015,MRO,MROW,WIND,49.5,0,1,38015,4.66860974557338,130.333724996969
+56357,WND,GE15,OP,WT,31.5,87717.636,2005,WIND,FPL Energy Burleigh County Wind,3279,47.1167,-100.7333,ND,38,015,MRO,MROW,WIND,49.5,1,1,38015,4.66860974557338,130.333724996969
+57120,WND,1,OP,WT,49.5,177010,2009,WIND,Wilton Wind II LLC,3279,47.1333,-100.7011,ND,38,015,MRO,MROW,WIND,49.5,1,1,38015,4.52587914571976,132.182151260151
+57347,WND,GE1,OP,WT,102.4,339706,2010,WIND,Baldwin Wind LLC,1307,47.1133,-100.7086,ND,38,015,MRO,MROW,WIND,102.4,1,1,38015,5.78118705315765,129.955537395794

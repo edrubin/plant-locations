@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56092,WND,GE15,OP,WT,40.5,112402,2003,WIND,South Dakota Wind Energy Cente,1307,44.5492,-99.5,SD,46,069,MRO,MROW,WIND,40.5,1,1,46069,13.0015009179332,154.55557588394

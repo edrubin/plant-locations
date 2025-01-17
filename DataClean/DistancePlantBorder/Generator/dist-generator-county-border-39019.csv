@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59773,NG,CGT1,OP,CT,235.5,1487810,2017,GAS,Carroll County Energy,14006,40.60441,-81.05918,OH,39,019,RFC,RFCW,GAS,832.3,1,1,39019,12.6933237400571,33.193103075356
+59773,NG,CGT2,OP,CT,235.5,1462859,2017,GAS,Carroll County Energy,14006,40.60441,-81.05918,OH,39,019,RFC,RFCW,GAS,832.3,1,1,39019,12.6933237400571,33.193103075356
+59773,NG,SGT1,OP,CA,361.3,1763299,2017,GAS,Carroll County Energy,14006,40.60441,-81.05918,OH,39,019,RFC,RFCW,GAS,832.3,1,1,39019,12.6933237400571,33.193103075356

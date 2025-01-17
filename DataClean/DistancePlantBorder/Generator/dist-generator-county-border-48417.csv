@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56395,WND,1,OP,WT,200,492902,2007,WIND,Mesquite Wind Power LLC,44372,32.6256,-99.4928,TX,48,417,TRE,ERCT,WIND,200,1,1,48417,11.1814069858141,178.111140605261
+56823,WND,HWFG1,OP,WT,165.6,361577,2008,WIND,Hackberry Wind Farm,44372,32.7683,-99.4228,TX,48,417,TRE,ERCT,WIND,165.6,1,1,48417,17.7092002158957,161.391079822063

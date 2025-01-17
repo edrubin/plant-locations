@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56605,WND,GE15,OP,WT,118.5,556027,2007,WIND,"Langdon Renewables, LLC",12658,48.63,-98.315,ND,38,019,MRO,MROW,WIND,118.5,1,1,38019,9.5857607289278,41.1633441310625
+56912,WND,GE15,OP,WT,40.5,137862,2008,WIND,Langdon Wind II LLC,12658,48.6292,-98.3164,ND,38,019,MRO,MROW,WIND,40.5,1,1,38019,9.49648777745392,41.2521712366046
+57033,WND,1,OP,WT,40.5,143039,2007,WIND,Langdon Wind Energy Center,12658,48.6303,-98.3169,ND,38,019,MRO,MROW,WIND,40.5,1,1,38019,9.61864232374852,41.1298566846329

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3850,WAT,HY11,OP,HY,80,181794.333,1958,HYDRO,Swift 1,14354,46.060833,-122.201667,WA,53,059,WECC,NWPP,HYDRO,240,1,1,53059,3.41544076290664,48.3877874790904
+3850,WAT,HY12,OP,HY,80,181794.333,1958,HYDRO,Swift 1,14354,46.060833,-122.201667,WA,53,059,WECC,NWPP,HYDRO,240,1,1,53059,3.41544076290664,48.3877874790904
+3850,WAT,HY13,OP,HY,80,181794.333,1958,HYDRO,Swift 1,14354,46.060833,-122.201667,WA,53,059,WECC,NWPP,HYDRO,240,1,1,53059,3.41544076290664,48.3877874790904

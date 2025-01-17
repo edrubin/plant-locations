@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+409,WAT,1,OP,HY,94.5,240272,1967,HYDRO,Exchequer,14328,37.584345,-120.26859,CA,06,043,WECC,CAMX,HYDRO,94.5,1,1,06043,7.10016089055872,133.721778575241
+410,WAT,1,OP,HY,9,29383,1967,HYDRO,McSwain,14328,37.522065,-120.31009,CA,06,043,WECC,CAMX,HYDRO,9,0,1,06043,0.776246565655272,141.345375265228

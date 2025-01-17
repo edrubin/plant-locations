@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10020,NG,GEN3,OP,GT,4.1,25910,2016,GAS,Cutrale Citrus Juices USA I,10868,28.811828,-81.865273,FL,12,069,FRCC,FRCC,GAS,11.7,0,1,12069,8.62712152763644,87.5678149170371
+10020,NG,GEN1,RE,GT,3.5,,1987,GAS,Cutrale Citrus Juices USA I,10868,28.811828,-81.865273,FL,12,069,FRCC,FRCC,GAS,11.7,0,0,12069,8.62712152763644,87.5678149170371
+10020,NG,GEN2,RE,GT,4.1,,2010,GAS,Cutrale Citrus Juices USA I,10868,28.811828,-81.865273,FL,12,069,FRCC,FRCC,GAS,11.7,0,0,12069,8.62712152763644,87.5678149170371
+50629,MSW,GEN1,OP,ST,15.5,86633,1990,BIOMASS,Covanta Lake County Energy,6455,28.740206,-81.889188,FL,12,069,FRCC,FRCC,BIOMASS,15.5,0,1,12069,6.32373259400898,83.4702323242011

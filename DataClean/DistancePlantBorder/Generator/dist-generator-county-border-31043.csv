@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60823,SUN,PV1,OP,PV,2.3,2631,2016,SOLAR,South Sioux City Solar,13337,42.45847,-96.439688,NE,31,043,MRO,MROW,SOLAR,2.3,0,1,31043,3.45284972081764,3.45284972081764

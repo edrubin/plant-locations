@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50465,BLQ,GEN1,OP,ST,46.6,289824.11,1980,BIOMASS,Flint River Operations,7197,32.2544,-84.0667,GA,13,193,SERC,SRSO,BIOMASS,85.1,1,1,13193,6.99877554176456,77.4385575826704
+50465,WDS,GEN2,OP,ST,38.5,147631.08,2015,BIOMASS,Flint River Operations,7197,32.2544,-84.0667,GA,13,193,SERC,SRSO,BIOMASS,85.1,1,1,13193,6.99877554176456,77.4385575826704

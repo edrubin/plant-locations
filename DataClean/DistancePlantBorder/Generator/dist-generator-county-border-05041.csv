@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50638,BLQ,GEN1,OP,ST,28,114545,1977,BIOMASS,Clearwater Paper APP CB,814,33.7061,-91.2371,AR,05,041,SERC,SRMV,BIOMASS,28,1,1,05041,2.11754892118273,2.11754892118273

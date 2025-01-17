@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6207,WAT,1,OP,HY,3.6,2295,1906,HYDRO,Ames Hydro,30151,37.866,-107.8831,CO,08,113,WECC,RMPA,HYDRO,3.6,0,1,08113,5.77889919977126,96.197901062841

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6183,LIG,1,OP,ST,410,2509410,1982,COAL,San Miguel,17583,28.7044,-98.4775,TX,48,013,TRE,ERCT,COAL,410,1,1,48013,6.22947991647603,160.394303567479

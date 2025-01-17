@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2823,RC,1,OP,ST,257,1473717,1970,COAL,Milton R Young,12658,47.065854,-101.213093,ND,38,065,MRO,MROW,COAL,734,1,1,38065,9.38517955536341,124.695557460644
+2823,RC,2,OP,ST,477,3435234,1977,COAL,Milton R Young,12658,47.065854,-101.213093,ND,38,065,MRO,MROW,COAL,734,1,1,38065,9.38517955536341,124.695557460644
+56392,WND,1,OP,WT,50.6,146839,2006,WIND,FPL Energy Oliver Wind I LLC,12658,47.152847,-101.197716,ND,38,065,MRO,MROW,WIND,50.6,1,1,38065,10.477341864709,134.370537428245
+56573,WND,2,OP,WT,48,147446,2007,WIND,FPL Energy Oliver Wind II LLC,12647,47.152847,-101.197716,ND,38,065,MRO,MROW,WIND,48,1,1,38065,10.477341864709,134.370537428245

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57402,SUN,TAY1,OP,PV,1.2,1598,2010,SOLAR,Taylorsville Solar LLC,21632,35.909074,-81.152498,NC,37,003,SERC,SRVC,SOLAR,1.2,0,1,37003,8.88968821312708,68.7642134611214
+59595,SUN,PV1,OP,PV,5,9007,2015,SOLAR,Stikeleather Farm,5416,35.902222,-81.106111,NC,37,003,SERC,SRVC,SOLAR,5,0,1,37003,6.9843674235004,72.3571385094144

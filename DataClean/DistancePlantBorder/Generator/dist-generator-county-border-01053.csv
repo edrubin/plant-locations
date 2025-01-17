@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54789,NG,2TG,OP,ST,12.5,62415.66,1964,GAS,Georgia-Pacific Brewton Mill,195,31.077,-87.1116,AL,01,053,SERC,SRSO,BIOMASS,115.9,0,1,01053,8.60171912759138,8.60171912759138
+54789,NG,3TG,OP,ST,15.9,46076.156,1982,GAS,Georgia-Pacific Brewton Mill,195,31.077,-87.1116,AL,01,053,SERC,SRSO,BIOMASS,115.9,0,1,01053,8.60171912759138,8.60171912759138
+54789,BLQ,4TG,OP,ST,75,346814.27,2017,BIOMASS,Georgia-Pacific Brewton Mill,195,31.077,-87.1116,AL,01,053,SERC,SRSO,BIOMASS,115.9,1,1,01053,8.60171912759138,8.60171912759138
+54789,BLQ,1TG,RE,ST,12.5,,1957,BIOMASS,Georgia-Pacific Brewton Mill,195,31.077,-87.1116,AL,01,053,SERC,SRSO,BIOMASS,115.9,0,0,01053,8.60171912759138,8.60171912759138

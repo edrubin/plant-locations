@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3423,WAT,1,OP,HY,33.3,142498.333,1973,HYDRO,Cordell Hull,18642,36.289539,-85.94416,TN,47,159,SERC,SRTV,HYDRO,99.9,1,1,47159,8.77356458581553,37.3847391767092
+3423,WAT,2,OP,HY,33.3,142498.333,1973,HYDRO,Cordell Hull,18642,36.289539,-85.94416,TN,47,159,SERC,SRTV,HYDRO,99.9,1,1,47159,8.77356458581553,37.3847391767092
+3423,WAT,3,OP,HY,33.3,142498.333,1974,HYDRO,Cordell Hull,18642,36.289539,-85.94416,TN,47,159,SERC,SRTV,HYDRO,99.9,1,1,47159,8.77356458581553,37.3847391767092

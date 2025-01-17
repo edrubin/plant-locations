@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+14,WAT,1,OP,HY,42.7,148461,1964,HYDRO,Logan Martin Dam,195,33.425878,-86.337547,AL,01,121,SERC,SRSO,HYDRO,128.1,1,1,01121,0.159308726397827,95.7159341982094
+14,WAT,2,OP,HY,42.7,148461,1964,HYDRO,Logan Martin Dam,195,33.425878,-86.337547,AL,01,121,SERC,SRSO,HYDRO,128.1,1,1,01121,0.159308726397827,95.7159341982094
+14,WAT,3,OP,HY,42.7,148461,1964,HYDRO,Logan Martin Dam,195,33.425878,-86.337547,AL,01,121,SERC,SRSO,HYDRO,128.1,1,1,01121,0.159308726397827,95.7159341982094

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60063,SUN,LVEOK,OP,PV,51,98069,2016,SOLAR,"Live Oak Solar, LLC",7140,32.423798,-82.102824,GA,13,043,SERC,SRSO,SOLAR,51,1,1,13043,8.07636366309755,68.1775702458213

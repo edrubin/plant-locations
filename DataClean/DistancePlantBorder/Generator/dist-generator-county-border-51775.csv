@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56288,DFO,1,SB,IC,2,115,2003,OIL,Salem Water Plant,16558,37.2875,-80.0771,VA,51,775,RFC,RFCW,OIL,2,0,1,51775,1.12821559922987,31.4404525211234
+56289,DFO,1,SB,IC,1.8,120,2005,OIL,Salem Street Dept,16558,37.2794,-80.0447,VA,51,775,RFC,RFCW,OIL,1.8,0,1,51775,1.98713430607566,33.9805942029805
+56519,DFO,1,SB,IC,1.3,77,2007,OIL,Salem Electric Department,16558,37.2894,-80.07,VA,51,775,RFC,RFCW,OIL,1.3,0,1,51775,1.44230252191495,31.6761976893346

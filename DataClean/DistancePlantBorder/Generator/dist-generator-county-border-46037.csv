@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57194,WND,GE15,OP,WT,99,396589,2010,WIND,Day County Wind LLC,5552,45.215,-97.9056,SD,46,037,MRO,MROW,WIND,99,1,1,46037,5.95841582074576,80.0787257077727

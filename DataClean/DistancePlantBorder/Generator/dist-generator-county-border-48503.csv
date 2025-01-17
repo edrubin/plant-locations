@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3490,NG,1,OP,ST,247.7,50996,1960,GAS,Graham,44372,33.1344,-98.6117,TX,48,503,TRE,ERCT,GAS,634.7,1,1,48503,17.4328164406621,102.228360232196
+3490,NG,2,OP,ST,387,80168,1969,GAS,Graham,44372,33.1344,-98.6117,TX,48,503,TRE,ERCT,GAS,634.7,1,1,48503,17.4328164406621,102.228360232196
+57520,WND,1,OP,WT,225,522869,2011,WIND,Trinity Hills,44372,33.383611,-98.711944,TX,48,503,TRE,ERCT,WIND,225,1,1,48503,1.33316318012653,78.1306379889453

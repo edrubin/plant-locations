@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60989,SUN,PV1,OP,PV,50,106012,2017,SOLAR,SolaireHolman Solar Project,3278,30.45512,-103.4747,TX,48,043,TRE,ERCT,SOLAR,50,1,1,48043,16.0663561391777,110.258364130523

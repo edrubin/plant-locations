@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61311,SUN,PV1,OP,PV,2,2046,2017,SOLAR,Walton 1 Solar Facility,19446,38.85018,-84.592263,KY,21,117,SERC,SRTV,SOLAR,2,0,1,21117,1.0630799184338,16.922470547674
+61312,SUN,PV1,OP,PV,2,2227,2017,SOLAR,Walton 2 Solar Facility,19446,38.85018,-84.592263,KY,21,117,SERC,SRTV,SOLAR,2,0,1,21117,1.0630799184338,16.922470547674
+61744,SUN,1,OP,PV,1.1,1557,2017,SOLAR,L'Oreal Solar - Florence,3542,38.987696,-84.608172,KY,21,015,SERC,RFCW,SOLAR,1.1,0,1,21015,0.406664574041768,9.50372447902495

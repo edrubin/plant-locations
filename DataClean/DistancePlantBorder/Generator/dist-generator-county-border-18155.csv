@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1005,WAT,1,OP,HY,21.6,43280.667,1967,HYDRO,Markland,15470,38.7795,-84.964,IN,18,155,RFC,RFCW,HYDRO,64.8,0,1,18155,0.139495699442003,0.139495699442003
+1005,WAT,2,OP,HY,21.6,43280.667,1967,HYDRO,Markland,15470,38.7795,-84.964,IN,18,155,RFC,RFCW,HYDRO,64.8,0,1,18155,0.139495699442003,0.139495699442003
+1005,WAT,3,OP,HY,21.6,43280.667,1967,HYDRO,Markland,15470,38.7795,-84.964,IN,18,155,RFC,RFCW,HYDRO,64.8,0,1,18155,0.139495699442003,0.139495699442003

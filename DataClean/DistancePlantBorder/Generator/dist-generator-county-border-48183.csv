@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3476,NG,2,OP,ST,38,3838,1950,GAS,Knox Lee Power Plant,17698,32.3766,-94.6415,TX,48,183,MRO,SPSO,GAS,501,1,1,48183,0.647236168410774,56.3122535699585
+3476,NG,3,OP,ST,38,1635,1952,GAS,Knox Lee Power Plant,17698,32.3766,-94.6415,TX,48,183,MRO,SPSO,GAS,501,1,1,48183,0.647236168410774,56.3122535699585
+3476,NG,5,OP,ST,351,95583,1974,GAS,Knox Lee Power Plant,17698,32.3766,-94.6415,TX,48,183,MRO,SPSO,GAS,501,1,1,48183,0.647236168410774,56.3122535699585
+3476,NG,4,RE,ST,74,41799,1956,GAS,Knox Lee Power Plant,17698,32.3766,-94.6415,TX,48,183,MRO,SPSO,GAS,501,1,0,48183,0.647236168410774,56.3122535699585

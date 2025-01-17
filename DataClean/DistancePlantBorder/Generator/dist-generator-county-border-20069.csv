@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55734,WND,V47,OP,WT,112,254995,2001,WIND,Gray County Wind Energy,19820,37.613256,-100.378197,KS,20,069,MRO,SPNO,WIND,112,1,1,20069,14.3674378821489,67.8904038672064
+57663,WND,1,OP,WT,131,550090,2012,WIND,Cimarron Windpower II,18315,37.90133,-100.372,KS,20,069,MRO,SPNO,WIND,131,1,1,20069,11.0637597882091,99.8506802321058
+57762,WND,CPV1,OP,WT,165.6,653134,2012,WIND,Cimarron Wind Energy LLC,18642,37.873889,-100.280277,KS,20,069,MRO,SPNO,WIND,165.6,1,1,20069,4.66047367534169,96.7597704035632
+58137,WND,1,OP,WT,98.9,443898,2012,WIND,Ensign Wind LLC,19820,37.614473,-100.278666,KS,20,069,MRO,SPNO,WIND,98.9,1,1,20069,5.58256936524061,67.9734302940217

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58663,OBG,GEN1,OP,IC,0.6,2577.5,2006,BIOMASS,Holsum Elm Dairy,20860,44.115,-88.217222,WI,55,015,RFC,MROE,BIOMASS,1.2,0,1,55015,13.9183190634979,94.3880206276851
+58663,OBG,GEN2,OP,IC,0.6,2577.5,2006,BIOMASS,Holsum Elm Dairy,20860,44.115,-88.217222,WI,55,015,RFC,MROE,BIOMASS,1.2,0,1,55015,13.9183190634979,94.3880206276851
+62019,OBG,GEN 1,OP,IC,0.5,1897,2001,BIOMASS,Holsum Irish Dairy,20860,44.054,-88.085007,WI,55,015,RFC,MROE,BIOMASS,1,0,1,55015,3.37931609305938,82.824150733978
+62019,OBG,GEN 2,OP,IC,0.5,1897,2001,BIOMASS,Holsum Irish Dairy,20860,44.054,-88.085007,WI,55,015,RFC,MROE,BIOMASS,1,0,1,55015,3.37931609305938,82.824150733978

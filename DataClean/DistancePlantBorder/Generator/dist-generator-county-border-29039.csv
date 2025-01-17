@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2124,WAT,1,OP,HY,52,33084,1973,HYDRO,Stockton Hydro,924,37.6936,-93.7691,MO,29,039,MRO,SPNO,HYDRO,52,1,1,29039,12.9836619671085,74.8260174618221
+61566,SUN,EDSF1,OP,PV,2.5,2857,2018,SOLAR,El Dorado Springs Solar Farm,5686,37.858706,-94.002631,MO,29,039,MRO,SRMW,SOLAR,2.5,0,1,29039,4.44421086751239,53.9609141881559

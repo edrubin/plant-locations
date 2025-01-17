@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7040,WAT,1,OP,HY,10.8,39135.333,1988,HYDRO,Ellis Hydro,17698,35.351361,-94.294349,AR,05,033,SERC,SPSO,HYDRO,32.4,0,1,05033,0.0870027746951088,12.5656187387387
+7040,WAT,2,OP,HY,10.8,39135.333,1988,HYDRO,Ellis Hydro,17698,35.351361,-94.294349,AR,05,033,SERC,SPSO,HYDRO,32.4,0,1,05033,0.0870027746951088,12.5656187387387
+7040,WAT,3,OP,HY,10.8,39135.333,1988,HYDRO,Ellis Hydro,17698,35.351361,-94.294349,AR,05,033,SERC,SPSO,HYDRO,32.4,0,1,05033,0.0870027746951088,12.5656187387387

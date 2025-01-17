@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60618,MWH,1,OP,BA,2,-1278,2008,OTHER,AEP Bluffton NaS,14006,40.8928,-83.8863,OH,39,003,RFC,RFCW,OTHF,2,0,1,39003,0.502653092893274,77.245550922044

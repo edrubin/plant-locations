@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60619,WND,GEN1,OP,WT,600,194543,2018,WIND,Rush Creek Wind,15466,39.172111,-103.845358,CO,08,039,WECC,RMPA,WIND,600,1,1,08039,11.2516641014741,155.35043487987

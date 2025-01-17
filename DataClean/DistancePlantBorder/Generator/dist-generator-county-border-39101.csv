@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7603,DFO,1,SB,IC,1.8,0,1998,OIL,Prospect Municipal,15432,40.4411,-83.1883,OH,39,101,RFC,RFCW,OIL,1.8,0,1,39101,0.0927691157175969,137.086376919139
+61005,WND,W1,OP,WT,1.5,3063.333,2017,WIND,Whirlpool Corporation - Marion Wind Farm,13998,40.591154,-83.178491,OH,39,101,RFC,RFCW,WIND,4.5,0,1,39101,11.0505078294788,127.536133588725
+61005,WND,W2,OP,WT,1.5,3063.333,2017,WIND,Whirlpool Corporation - Marion Wind Farm,13998,40.591154,-83.178491,OH,39,101,RFC,RFCW,WIND,4.5,0,1,39101,11.0505078294788,127.536133588725
+61005,WND,W3,OP,WT,1.5,3063.333,2017,WIND,Whirlpool Corporation - Marion Wind Farm,13998,40.591154,-83.178491,OH,39,101,RFC,RFCW,WIND,4.5,0,1,39101,11.0505078294788,127.536133588725

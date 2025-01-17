@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2177,NG,1,OP,GT,23.3,150,1972,GAS,Miles City GT,12199,46.4112,-105.7953,MT,30,017,MRO,MROW,GAS,23.3,0,1,30017,26.2344133114635,134.478731288491

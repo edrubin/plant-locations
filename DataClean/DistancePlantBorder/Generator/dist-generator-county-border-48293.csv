@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+298,SUB,1,OP,ST,893,4762578,1985,COAL,Limestone,8901,31.4219,-96.2525,TX,48,293,TRE,ERCT,COAL,1849.8,1,1,48293,0.8499148345179,219.17047550859
+298,SUB,2,OP,ST,956.8,4785785,1986,COAL,Limestone,8901,31.4219,-96.2525,TX,48,293,TRE,ERCT,COAL,1849.8,1,1,48293,0.8499148345179,219.17047550859

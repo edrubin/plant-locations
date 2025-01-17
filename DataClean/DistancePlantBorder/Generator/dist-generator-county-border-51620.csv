@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55953,DFO,1,OP,IC,1.6,14.5,2001,OIL,Pretlow,6715,36.659167,-76.926667,VA,51,175,SERC,SRVC,OIL,3.2,0,1,51175,0.382243576019946,11.914397789682
+55953,DFO,2,OP,IC,1.6,14.5,2001,OIL,Pretlow,6715,36.659167,-76.926667,VA,51,175,SERC,SRVC,OIL,3.2,0,1,51175,0.382243576019946,11.914397789682
+55954,DFO,1,OP,IC,1.6,24,1992,OIL,Downtown,6715,36.680278,-76.921944,VA,51,175,SERC,SRVC,OIL,3.2,0,1,51175,0.128245096793541,14.2282849590022
+55954,DFO,2,OP,IC,1.6,24,1992,OIL,Downtown,6715,36.680278,-76.921944,VA,51,175,SERC,SRVC,OIL,3.2,0,1,51175,0.128245096793541,14.2282849590022

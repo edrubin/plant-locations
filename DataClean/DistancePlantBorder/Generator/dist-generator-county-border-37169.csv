@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+8042,BIT,1,OP,ST,1245.6,4793474,1974,COAL,Belews Creek,5416,36.2811,-80.0603,NC,37,169,SERC,SRVC,COAL,2491.2,1,1,37169,2.31952417954667,29.0011391428228
+8042,BIT,2,OP,ST,1245.6,3227943,1975,COAL,Belews Creek,5416,36.2811,-80.0603,NC,37,169,SERC,SRVC,COAL,2491.2,1,1,37169,2.31952417954667,29.0011391428228
+59017,SUN,GEN 1,OP,PV,4,6605,2016,SOLAR,Carol Jean Solar,5416,36.316111,-80.144444,NC,37,169,SERC,SRVC,SOLAR,4,0,1,37169,6.38918374260937,25.1342137500708

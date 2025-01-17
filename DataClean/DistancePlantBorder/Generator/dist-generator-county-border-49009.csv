@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6405,WAT,1,OP,HY,50.6,209606.667,1963,HYDRO,Flaming Gorge,27000,40.914646,-109.421662,UT,49,009,WECC,RMPA,HYDRO,151.8,1,1,49009,6.67596291082907,9.44972781769667
+6405,WAT,2,OP,HY,50.6,209606.667,1963,HYDRO,Flaming Gorge,27000,40.914646,-109.421662,UT,49,009,WECC,RMPA,HYDRO,151.8,1,1,49009,6.67596291082907,9.44972781769667
+6405,WAT,3,OP,HY,50.6,209606.667,1964,HYDRO,Flaming Gorge,27000,40.914646,-109.421662,UT,49,009,WECC,RMPA,HYDRO,151.8,1,1,49009,6.67596291082907,9.44972781769667

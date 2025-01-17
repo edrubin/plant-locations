@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2369,JF,GT1,OP,GT,18.6,416,1968,OIL,White Lake,15472,43.8478,-71.2069,NH,33,003,NPCC,NEWE,OIL,18.6,0,1,33003,14.5815016871557,17.4010076614081
+50739,WDS,GEN1,OP,ST,25,92855,1987,BIOMASS,Pinetree Power Tamworth,15472,43.835833,-71.1967,NH,33,003,NPCC,NEWE,BIOMASS,25,1,1,33003,15.9893454623293,16.6250670097503

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50774,WDS,GEN1,OP,ST,14,88523,1986,BIOMASS,Telogia Power,6455,30.3349,-84.8182,FL,12,077,FRCC,FRCC,BIOMASS,14,0,1,12077,9.89882780141686,41.5023594308366

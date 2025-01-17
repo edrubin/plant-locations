@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56192,BLQ,1,OP,ST,36,136851,1996,BIOMASS,Georgia-Pacific Wauna Mill,1738,46.153955,-123.40658,OR,41,007,WECC,NWPP,BIOMASS,36,1,1,41007,0.900529267742251,0.900529267742251

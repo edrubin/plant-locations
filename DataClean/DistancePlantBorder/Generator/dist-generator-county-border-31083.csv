@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2295,NG,2,OP,IC,0.6,4.765,1953,GAS,Oxford (NE),20456,40.2581,-99.6108,NE,31,065,MRO,MROW,GAS,3.4,0,1,31065,1.67034565913505,28.440815845035
+2295,NG,3,OP,IC,0.9,7.147,1956,GAS,Oxford (NE),20456,40.2581,-99.6108,NE,31,065,MRO,MROW,GAS,3.4,0,1,31065,1.67034565913505,28.440815845035
+2295,NG,4,OP,IC,0.6,4.765,1956,GAS,Oxford (NE),20456,40.2581,-99.6108,NE,31,065,MRO,MROW,GAS,3.4,0,1,31065,1.67034565913505,28.440815845035
+2295,NG,5,OP,IC,1.3,10.324,1972,GAS,Oxford (NE),20456,40.2581,-99.6108,NE,31,065,MRO,MROW,GAS,3.4,0,1,31065,1.67034565913505,28.440815845035

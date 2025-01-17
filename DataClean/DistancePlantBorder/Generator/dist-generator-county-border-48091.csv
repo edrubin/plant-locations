@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+791,WAT,1,OP,HY,3,2239.5,1989,HYDRO,Canyon,13418,29.87056,-98.194733,TX,48,091,TRE,ERCT,HYDRO,6,0,1,48091,8.10507016695107,242.996303604055
+791,WAT,2,OP,HY,3,2239.5,1989,HYDRO,Canyon,13418,29.87056,-98.194733,TX,48,091,TRE,ERCT,HYDRO,6,0,1,48091,8.10507016695107,242.996303604055
+57167,LFG,GEN1,OP,IC,1.6,12480,2010,BIOMASS,Mesquite Creek LFGTE Project,13418,29.7372,-98.0228,TX,48,091,TRE,ERCT,BIOMASS,3.2,0,1,48091,0.158206058501341,221.095064862797
+57167,LFG,GEN2,OP,IC,1.6,12480,2010,BIOMASS,Mesquite Creek LFGTE Project,13418,29.7372,-98.0228,TX,48,091,TRE,ERCT,BIOMASS,3.2,0,1,48091,0.158206058501341,221.095064862797

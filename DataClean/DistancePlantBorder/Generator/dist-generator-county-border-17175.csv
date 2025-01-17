@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56640,WND,1,OP,WT,150,386099,2007,WIND,Camp Grove Wind Farm,4110,41.090583,-89.639811,IL,17,175,RFC,RFCW,WIND,150,1,1,17175,0.108924423954195,80.7535832653575

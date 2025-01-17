@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3809,BIT,1,OP,ST,187.5,96145,1957,COAL,Yorktown Power Station,19876,37.2144,-76.4611,VA,51,199,SERC,SRVC,OIL,1257,1,1,51199,2.10425623509139,53.7706795227369
+3809,BIT,2,OP,ST,187.5,269072,1959,COAL,Yorktown Power Station,19876,37.2144,-76.4611,VA,51,199,SERC,SRVC,OIL,1257,1,1,51199,2.10425623509139,53.7706795227369
+3809,RFO,3,OP,ST,882,260841,1974,OIL,Yorktown Power Station,19876,37.2144,-76.4611,VA,51,199,SERC,SRVC,OIL,1257,1,1,51199,2.10425623509139,53.7706795227369

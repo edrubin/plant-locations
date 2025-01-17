@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7848,NG,11,OP,GT,107.1,49697,2002,GAS,Holden Power Plant,924,38.7538,-93.9983,MO,29,101,SERC,SRMW,GAS,321.3,1,1,29101,10.8303221414881,53.0501680053598
+7848,NG,12,OP,GT,107.1,49697,2002,GAS,Holden Power Plant,924,38.7538,-93.9983,MO,29,101,SERC,SRMW,GAS,321.3,1,1,29101,10.8303221414881,53.0501680053598
+7848,NG,13,OP,GT,107.1,49697,2002,GAS,Holden Power Plant,924,38.7538,-93.9983,MO,29,101,SERC,SRMW,GAS,321.3,1,1,29101,10.8303221414881,53.0501680053598

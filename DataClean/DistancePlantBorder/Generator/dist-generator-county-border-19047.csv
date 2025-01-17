@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7853,DFO,1,OP,IC,2,8,1998,OIL,West Receiving,5056,42.021667,-95.363333,IA,19,047,MRO,MROW,OIL,2,0,1,19047,17.5288757677129,63.3488717274082
+56379,WND,VWF,OP,WT,99,364441,2006,WIND,Victory Wind Farm,12341,42.1169,-95.1292,IA,19,027,MRO,MROW,WIND,99,1,1,19027,3.12665040664886,84.3840477373421
+57609,WND,1,OP,WT,100,269624,2011,WIND,New Harvest Wind Project LLC,12341,42.159722,-95.439722,IA,19,047,MRO,MROW,WIND,100,1,1,19047,5.66321563442811,60.8066642718006

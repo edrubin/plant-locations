@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2271,DFO,1,OP,GT,56.7,528,1973,OIL,McCook Peaking,13337,40.2214,-100.6508,NE,31,145,MRO,MROW,OIL,56.7,1,1,31145,9.34601397072721,24.3529794854316

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1230,NG,1,OP,ST,50,621,1963,GAS,Cimarron River,18315,37.1611,-100.7619,KS,20,175,MRO,SPNO,GAS,65,1,1,20175,11.2328014042785,17.9414730883923
+1230,NG,2,SB,GT,15,0,1968,GAS,Cimarron River,18315,37.1611,-100.7619,KS,20,175,MRO,SPNO,GAS,65,0,1,20175,11.2328014042785,17.9414730883923
+58192,NG,ST961,OP,ST,3,11601.2,2008,GAS,Arkalon Ethanol LLC,2774,37.110556,-100.803611,KS,20,175,MRO,SPNO,GAS,3,0,1,20175,12.3685796203609,12.3685796203609

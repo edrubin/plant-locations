@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55738,NG,1,OP,GT,44,98242.5,2002,GAS,Buchanan Units 1 & 2,20387,37.175278,-81.961388,VA,51,027,RFC,RFCW,GAS,88,1,1,51027,5.19745338828609,15.7015670693471
+55738,NG,2,OP,GT,44,98242.5,2002,GAS,Buchanan Units 1 & 2,20387,37.175278,-81.961388,VA,51,027,RFC,RFCW,GAS,88,1,1,51027,5.19745338828609,15.7015670693471

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7989,NG,1,OP,GT,47,84344.667,2003,GAS,Sylvarena Generating Plant,12685,31.982076,-89.412714,MS,28,129,SERC,SRMV,GAS,141,1,1,28129,8.57490477421049,89.3500673497209
+7989,NG,2,OP,GT,47,84344.667,2003,GAS,Sylvarena Generating Plant,12685,31.982076,-89.412714,MS,28,129,SERC,SRMV,GAS,141,1,1,28129,8.57490477421049,89.3500673497209
+7989,NG,3,OP,GT,47,84344.667,2003,GAS,Sylvarena Generating Plant,12685,31.982076,-89.412714,MS,28,129,SERC,SRMV,GAS,141,1,1,28129,8.57490477421049,89.3500673497209
+61927,NG,CTG1,OP,GT,7.2,44973,2018,GAS,Georgia-Pacific Taylorsville Plywood,17647,31.837173,-89.4635,MS,28,129,SERC,SRSO,GAS,7.2,0,1,28129,4.86687135705946,93.872791227119

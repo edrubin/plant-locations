@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+813,WAT,1,OP,HY,6.2,23439.5,1984,HYDRO,Cascade Dam,9191,44.5256,-116.0483,ID,16,085,WECC,NWPP,HYDRO,12.4,0,1,16085,8.79391638176262,75.2275609916349
+813,WAT,2,OP,HY,6.2,23439.5,1983,HYDRO,Cascade Dam,9191,44.5256,-116.0483,ID,16,085,WECC,NWPP,HYDRO,12.4,0,1,16085,8.79391638176262,75.2275609916349

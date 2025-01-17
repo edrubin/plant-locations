@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50474,OTH,SCC,OP,ST,21,94138,1980,OTHER,Swift Creek Chemical Complex,6455,30.4522,-82.8644,FL,12,047,FRCC,FRCC,OTHF,21,0,1,12047,7.63740769371994,17.2697746965864
+61807,SUN,PV1,OP,PV,74.9,817,2018,SOLAR,Hamilton Solar Power Plant,6455,30.444324,-83.186935,FL,12,047,FRCC,FRCC,SOLAR,74.9,1,1,12047,2.93967474195065,20.2353039798479

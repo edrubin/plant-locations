@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+8034,NG,1,SB,IC,2.2,-48.925,1974,GAS,Yankton,13809,42.893333,-97.353333,SD,46,135,MRO,MROW,GAS,13.4,0,1,46135,3.66186334390737,3.66186334390737
+8034,DFO,2,SB,IC,2.7,-60.045,1974,OIL,Yankton,13809,42.893333,-97.353333,SD,46,135,MRO,MROW,GAS,13.4,0,1,46135,3.66186334390737,3.66186334390737
+8034,NG,3,SB,IC,6.5,-144.552,1975,GAS,Yankton,13809,42.893333,-97.353333,SD,46,135,MRO,MROW,GAS,13.4,0,1,46135,3.66186334390737,3.66186334390737
+8034,DFO,4,SB,IC,2,-44.478,1963,OIL,Yankton,13809,42.893333,-97.353333,SD,46,135,MRO,MROW,GAS,13.4,0,1,46135,3.66186334390737,3.66186334390737

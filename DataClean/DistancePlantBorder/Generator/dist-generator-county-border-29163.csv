@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7964,NG,GT1,OP,GT,60,23117.75,2002,GAS,Peno Creek Energy Center,19436,39.3531,-91.2295,MO,29,163,SERC,SRMW,GAS,240,1,1,29163,14.5381621749864,19.4261270736437
+7964,NG,GT2,OP,GT,60,23117.75,2002,GAS,Peno Creek Energy Center,19436,39.3531,-91.2295,MO,29,163,SERC,SRMW,GAS,240,1,1,29163,14.5381621749864,19.4261270736437
+7964,NG,GT3,OP,GT,60,23117.75,2002,GAS,Peno Creek Energy Center,19436,39.3531,-91.2295,MO,29,163,SERC,SRMW,GAS,240,1,1,29163,14.5381621749864,19.4261270736437
+7964,NG,GT4,OP,GT,60,23117.75,2002,GAS,Peno Creek Energy Center,19436,39.3531,-91.2295,MO,29,163,SERC,SRMW,GAS,240,1,1,29163,14.5381621749864,19.4261270736437

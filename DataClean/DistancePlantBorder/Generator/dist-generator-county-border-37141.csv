@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59488,SUN,BEARF,OP,PV,4.9,7365,2018,SOLAR,Bearford Solar II,5416,34.611944,-77.928889,NC,37,141,SERC,SRVC,SOLAR,4.9,0,1,37141,11.601517154969,44.293198196166
+59567,SUN,PV1,OP,PV,5,9102,2017,SOLAR,Bearford Farm Solar Project,3046,34.61,-77.924167,NC,37,141,SERC,SRVC,SOLAR,5,0,1,37141,11.8994158050797,43.8518559175366
+59678,SUN,IS067,OP,PV,33.3,222,2018,SOLAR,Innovative Solar 67,5416,34.623309,-78.005377,NC,37,141,SERC,SRVC,SOLAR,33.3,1,1,37141,10.2998293296521,49.9394632330525
+62095,SUN,PGRF5,OP,PV,4.5,682,2018,SOLAR,Quarter Horse Solar,3046,34.437,-77.642,NC,37,141,SERC,SRVC,SOLAR,4.5,0,1,37141,7.47505580659185,12.1265536402159

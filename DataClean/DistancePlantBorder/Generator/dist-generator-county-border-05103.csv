@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+203,NG,1,OP,ST,136,61046,1972,GAS,McClellan,814,33.5648,-92.7917,AR,05,103,SERC,SRMV,GAS,136,1,1,05103,2.15505911855684,60.9260396536128

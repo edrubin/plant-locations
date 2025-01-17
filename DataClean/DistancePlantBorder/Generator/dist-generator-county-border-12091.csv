@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59689,SUN,GCSC1,OP,PV,30,56572,2017,SOLAR,Gulf Coast Solar Center I,7801,30.515448,-86.518407,FL,12,091,SERC,SRSO,SOLAR,30,1,1,12091,12.0366547072478,19.9306083788634

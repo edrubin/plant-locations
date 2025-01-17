@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6264,BIT,1,OP,ST,1300,5710017,1980,COAL,Mountaineer (1301),733,38.9794,-81.9344,WV,54,053,RFC,RFCW,COAL,1300,1,1,54053,0.506547814378191,0.506547814378191

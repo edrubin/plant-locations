@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60514,SUN,PV1,OP,PV,1.6,2637,2014,SOLAR,Seminole,7140,31.065112,-84.931702,GA,13,253,SERC,SRSO,SOLAR,1.6,0,1,13253,0.854013941599376,7.67269258570956

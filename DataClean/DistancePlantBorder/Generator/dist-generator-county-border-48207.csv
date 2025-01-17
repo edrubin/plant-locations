@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59207,SUN,OCIA7,OP,PV,100,284214,2016,SOLAR,OCI Alamo 7 LLC,20404,33.04,-99.5525,TX,48,207,TRE,ERCT,SOLAR,100,1,1,48207,7.56580747989723,134.463320213842
+60339,WND,HCWF,OP,WT,230,883449,2016,WIND,Horse Creek Wind Farm,50174,33.35,-99.54,TX,48,207,TRE,ERCT,WIND,230,1,1,48207,5.40927683631441,101.168301924904
+60901,WND,WSPWF,OP,WT,250,973908,2017,WIND,Willow Springs Wind Farm,44372,33.345366,-99.624257,TX,48,207,TRE,ERCT,WIND,250,1,1,48207,5.905642876719,104.41057597411

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6238,DFO,GT1,OP,GT,24,248,1973,OIL,Pearl Station,40307,39.449185,-90.614119,IL,17,149,SERC,SRMW,OIL,46,0,1,17149,0.250563248480983,21.8944710033594
+6238,BIT,1,RE,ST,22,,1967,COAL,Pearl Station,40307,39.449185,-90.614119,IL,17,149,SERC,SRMW,OIL,46,0,0,17149,0.250563248480983,21.8944710033594
+56376,WND,WTG1,OP,WT,1.7,3087,2005,WIND,Pike County Wind Power,9209,39.6189,-90.8461,IL,17,149,SERC,SRMW,WIND,1.7,0,1,17149,16.4834704012534,23.2806124420744

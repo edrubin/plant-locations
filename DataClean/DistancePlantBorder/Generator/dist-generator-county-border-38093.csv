@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2801,DFO,1,SB,GT,24.1,108,1976,OIL,Jamestown,14232,46.905665,-98.662183,ND,38,093,MRO,MROW,OIL,48.2,0,1,38093,16.9401206466129,107.481558117639
+2801,DFO,2,SB,GT,24.1,108,1978,OIL,Jamestown,14232,46.905665,-98.662183,ND,38,093,MRO,MROW,OIL,48.2,0,1,38093,16.9401206466129,107.481558117639
+56786,LIG,1,OP,ST,106.2,206283,2014,COAL,Spiritwood Station,14232,46.926423,-98.499713,ND,38,093,MRO,MROW,COAL,106.2,1,1,38093,4.59632960268333,109.932693245521
+58658,WND,1,OP,WT,200,714237,2016,WIND,Courtenay Wind Farm,14232,47.179722,-98.594722,ND,38,093,MRO,MROW,WIND,200,1,1,38093,9.65208163647968,132.556878329709

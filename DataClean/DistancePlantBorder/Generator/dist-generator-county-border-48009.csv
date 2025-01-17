@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57974,WND,GEN1,OP,WT,150,353665,2012,WIND,Bobcat Bluff Wind Project LLC,44372,33.493056,-98.581944,TX,48,009,TRE,ERCT,WIND,150,1,1,48009,10.8023485038399,63.7624073218591
+59238,WND,WND2,OP,WT,67.6,227328,2014,WIND,Windthorst-2,2172,33.495278,-98.5,TX,48,009,TRE,ERCT,WIND,67.6,1,1,48009,7.27193714710887,62.8861811825976

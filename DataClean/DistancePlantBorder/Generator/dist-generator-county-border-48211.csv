@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57952,NG,GEN1,OP,IC,1,8213.667,2012,GAS,Woodall Gas Plant,13757,35.690833,-100.240278,TX,48,211,MRO,SPSO,GAS,3,0,1,48211,7.91488554898583,21.7070751744298
+57952,NG,GEN2,OP,IC,1,8213.667,2012,GAS,Woodall Gas Plant,13757,35.690833,-100.240278,TX,48,211,MRO,SPSO,GAS,3,0,1,48211,7.91488554898583,21.7070751744298
+57952,NG,GEN3,OP,IC,1,8213.667,2012,GAS,Woodall Gas Plant,13757,35.690833,-100.240278,TX,48,211,MRO,SPSO,GAS,3,0,1,48211,7.91488554898583,21.7070751744298
+58765,WND,1,OP,WT,288.6,1136338,2014,WIND,Miami Wind Energy Center,60065,35.653889,-100.538611,TX,48,393,TRE,ERCT,WIND,288.6,1,1,48393,0.144031009598916,48.7272728714205

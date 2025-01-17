@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10343,WC,TG1,OP,ST,47.3,266629,1990,COAL,Mt. Carmel Cogeneration,14715,40.811189,-76.452951,PA,42,097,RFC,RFCE,COAL,47.3,1,1,42097,2.09395083538323,106.211908822997

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2192,WAT,MYS1,OP,HY,6,30664,1925,HYDRO,Mystic,12825,45.225741,-109.762489,MT,30,095,WECC,NWPP,HYDRO,12,0,1,30095,5.86359387160903,24.8801256040911
+2192,WAT,MYS2,OP,HY,6,30664,1925,HYDRO,Mystic,12825,45.225741,-109.762489,MT,30,095,WECC,NWPP,HYDRO,12,0,1,30095,5.86359387160903,24.8801256040911
+61858,WND,WT,OP,WT,80,70093,2018,WIND,"Stillwater Wind, LLC",12825,45.86584,-109.476647,MT,30,095,WECC,NWPP,WIND,80,1,1,30095,2.32719879324709,95.7321891936923

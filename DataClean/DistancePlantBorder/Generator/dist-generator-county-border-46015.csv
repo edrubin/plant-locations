@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7974,WND,WTC1,OP,WT,1.3,604,2001,WIND,Chamberlain Wind Project,5552,43.848529,-99.24757,SD,46,015,MRO,MROW,WIND,2.6,0,1,46015,5.03085473782063,94.438335993662
+7974,WND,WTC2,OP,WT,1.3,604,2001,WIND,Chamberlain Wind Project,5552,43.848529,-99.24757,SD,46,015,MRO,MROW,WIND,2.6,0,1,46015,5.03085473782063,94.438335993662
+61746,WND,BCSD,OP,WT,20,20616,2018,WIND,Brule County Wind,13809,43.717,-98.922,SD,46,015,MRO,MROW,WIND,20,0,1,46015,10.2455897898071,79.8217567971322

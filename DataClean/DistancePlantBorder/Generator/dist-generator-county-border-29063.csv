@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57189,WND,LCW,OP,WT,150,392757,2010,WIND,Lost Creek Wind Energy Facility,924,39.981389,-94.518056,MO,29,063,SERC,SRMW,WIND,150,1,1,29063,6.40370101280837,35.3013434105915
+60672,WND,GEN1,OP,WT,200.9,717352,2016,WIND,Osborn Wind Energy,10000,39.747699,-94.473482,MO,29,063,MRO,SPNO,WIND,200.9,1,1,29063,0.00195077127602237,33.0459401851844

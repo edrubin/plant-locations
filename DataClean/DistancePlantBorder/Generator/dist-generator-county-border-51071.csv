@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+52089,NG,GEN1,OP,ST,6,42010.919,1942,GAS,Celanese Acetate LLC,733,37.3439,-80.765,VA,51,071,RFC,RFCW,GAS,29.8,0,1,51071,3.1896111729535,3.1896111729535
+52089,NG,GEN2,OP,ST,6,42653.127,1942,GAS,Celanese Acetate LLC,733,37.3439,-80.765,VA,51,071,RFC,RFCW,GAS,29.8,0,1,51071,3.1896111729535,3.1896111729535
+52089,NG,GEN3,OP,ST,6,49544.643,1944,GAS,Celanese Acetate LLC,733,37.3439,-80.765,VA,51,071,RFC,RFCW,GAS,29.8,0,1,51071,3.1896111729535,3.1896111729535
+52089,NG,GEN4,OP,ST,9.2,37045.549,1966,GAS,Celanese Acetate LLC,733,37.3439,-80.765,VA,51,071,RFC,RFCW,GAS,29.8,0,1,51071,3.1896111729535,3.1896111729535
+52089,DFO,DEG1,RE,IC,2.6,,1996,OIL,Celanese Acetate LLC,733,37.3439,-80.765,VA,51,071,RFC,RFCW,GAS,29.8,0,0,51071,3.1896111729535,3.1896111729535

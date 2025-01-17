@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57637,WND,1,OP,WT,1,0,2010,WIND,Union City Wind Turbine,9324,40.1908,-84.8172,IN,18,135,RFC,RFCW,WIND,1,0,1,18135,0.936141912885321,0.936141912885321
+57638,WND,1,OP,WT,1,0,2010,WIND,Randolph Eastern School Wind Turbine,9324,40.2097,-84.8219,IN,18,135,RFC,RFCW,WIND,1,0,1,18135,1.37722613945939,1.37722613945939
+58416,WND,1,OP,WT,200,650469,2014,WIND,Headwaters Wind Farm LLC,9324,40.066667,-85.013333,IN,18,135,RFC,RFCW,WIND,200,1,1,18135,6.84389769803166,17.4011498687485

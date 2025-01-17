@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10606,BLQ,GEN4,OP,ST,25,145383.66,1962,BIOMASS,Georgia-Pacific Crossett LLC,814,33.1421,-91.975,AR,05,003,SERC,SRMV,BIOMASS,91.6,1,1,05003,12.4291186029646,14.899975434216
+10606,BLQ,GEN5,OP,ST,30.6,124389.58,1969,BIOMASS,Georgia-Pacific Crossett LLC,814,33.1421,-91.975,AR,05,003,SERC,SRMV,BIOMASS,91.6,1,1,05003,12.4291186029646,14.899975434216
+10606,BLQ,GEN6,OP,ST,36,202907.55,1982,BIOMASS,Georgia-Pacific Crossett LLC,814,33.1421,-91.975,AR,05,003,SERC,SRMV,BIOMASS,91.6,1,1,05003,12.4291186029646,14.899975434216

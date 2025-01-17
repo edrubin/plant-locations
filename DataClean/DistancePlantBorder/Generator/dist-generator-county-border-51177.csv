@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56367,DFO,1,OP,IC,1.8,31.304,2004,OIL,Electric Avenue Facility,4619,38.28,-77.59,VA,51,047,SERC,SRVC,OIL,6.9,0,1,51047,5.73450655977555,27.0809541305386
+56367,DFO,2,OP,IC,1.8,31.304,2004,OIL,Electric Avenue Facility,4619,38.28,-77.59,VA,51,047,SERC,SRVC,OIL,6.9,0,1,51047,5.73450655977555,27.0809541305386
+56367,DFO,3,OP,IC,1.8,31.304,2004,OIL,Electric Avenue Facility,4619,38.28,-77.59,VA,51,047,SERC,SRVC,OIL,6.9,0,1,51047,5.73450655977555,27.0809541305386
+56367,DFO,4,SB,IC,1.5,26.087,1997,OIL,Electric Avenue Facility,4619,38.28,-77.59,VA,51,047,SERC,SRVC,OIL,6.9,0,1,51047,5.73450655977555,27.0809541305386

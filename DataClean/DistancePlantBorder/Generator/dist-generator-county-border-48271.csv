@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58000,WND,ANA,OP,WT,99.8,328792,2012,WIND,"Anacacho Wind Farm, LLC",44372,29.234722,-100.209167,TX,48,271,TRE,ERCT,WIND,99.8,1,1,48271,9.46948589449829,47.5869561352596
+58717,SUN,1,OP,PV,39.6,64790,2014,SOLAR,"OCI Alamo 4, LLC",3278,29.328889,-100.383889,TX,48,271,TRE,ERCT,SOLAR,39.6,1,1,48271,26.4022940868333,37.8998446991045

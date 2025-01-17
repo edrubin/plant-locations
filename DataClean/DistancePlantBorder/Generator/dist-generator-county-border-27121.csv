@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61138,SUN,0000A,OP,PV,3,3346,2018,SOLAR,Armstrong Solar,13781,45.642252,-95.35635,MN,27,121,MRO,MROW,SOLAR,3,0,1,27121,12.9636676617431,93.8077353952137
+61542,SUN,GEN1,OP,PV,5,5345,2017,SOLAR,"PopeSun CSG, LLC",13781,45.643438,-95.526171,MN,27,121,MRO,MROW,SOLAR,5,0,1,27121,12.83816845055,81.7293321116944
+61709,SUN,LIBR,OP,PV,1,5,2018,SOLAR,Libra Community Solar,13781,45.671231,-95.388514,MN,27,121,MRO,MROW,SOLAR,1,0,1,27121,9.79334161982395,92.8265807886334

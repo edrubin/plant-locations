@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1708,WAT,1,OP,HY,8.5,22983,1925,HYDRO,Hodenpyl,4254,44.36286,-85.819968,MI,26,165,RFC,RFCM,HYDRO,17,0,1,26165,0.0628331068099807,83.129244458372
+1708,WAT,2,OP,HY,8.5,22983,1925,HYDRO,Hodenpyl,4254,44.36286,-85.819968,MI,26,165,RFC,RFCM,HYDRO,17,0,1,26165,0.0628331068099807,83.129244458372
+54415,WDS,GEN1,OP,ST,44,167044,1993,BIOMASS,Cadillac Renewable Energy,4254,44.26169,-85.435224,MI,26,165,RFC,RFCM,BIOMASS,44,1,1,26165,7.90971033297563,115.603206409342

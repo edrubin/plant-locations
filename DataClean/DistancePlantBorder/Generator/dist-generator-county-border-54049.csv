@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10151,WC,GEN1,OP,ST,95.7,632907,1992,COAL,Grant Town Power Plant,12796,39.561831,-80.163138,WV,54,049,RFC,RFCW,COAL,95.7,1,1,54049,3.64519378911536,17.6866299206171

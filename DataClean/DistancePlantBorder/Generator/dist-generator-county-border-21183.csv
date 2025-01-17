@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6823,BIT,1,OP,ST,509.4,2256297,1984,COAL,D B Wilson,1692,37.4497,-87.0806,KY,21,183,SERC,SRTV,COAL,509.4,1,1,21183,1.93289534394913,37.0037121347072

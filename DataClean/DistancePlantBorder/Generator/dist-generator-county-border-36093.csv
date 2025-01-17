@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61863,SUN,10048,OP,PV,2,2319,2018,SOLAR,Duanesburg,13573,42.762173,-74.201552,NY,36,057,NPCC,NYUP,SOLAR,2,0,1,36057,3.97674618583875,74.505933771923

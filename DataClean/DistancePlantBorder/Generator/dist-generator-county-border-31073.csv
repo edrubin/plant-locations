@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2226,NG,1,OP,ST,108.8,720,1958,GAS,Canaday,13337,40.6942,-99.7011,NE,31,073,MRO,MROW,GAS,108.8,1,1,31073,0.643444987804732,76.8568404993257
+2228,WAT,1,OP,HY,10.8,41647,1941,HYDRO,Johnson 1,13337,40.6936,-99.8178,NE,31,073,MRO,MROW,HYDRO,21.6,0,1,31073,0.72537553669465,76.8229197948258
+2228,WAT,2,OP,HY,10.8,41647,1941,HYDRO,Johnson 1,13337,40.6936,-99.8178,NE,31,073,MRO,MROW,HYDRO,21.6,0,1,31073,0.72537553669465,76.8229197948258
+2229,WAT,1,OP,HY,22.5,104527,1941,HYDRO,Johnson 2,13337,40.6839,-99.7447,NE,31,073,MRO,MROW,HYDRO,22.5,0,1,31073,1.7895770934163,75.7126235932344

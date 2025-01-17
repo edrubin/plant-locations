@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2107,RC,1,OP,ST,549.7,2641190,1967,COAL,Sioux,19436,38.915479,-90.290247,MO,29,183,SERC,SRMW,COAL,1099.4,1,1,29183,0.905090174416279,0.905090174416279
+2107,RC,2,OP,ST,549.7,3023701,1968,COAL,Sioux,19436,38.915479,-90.290247,MO,29,183,SERC,SRMW,COAL,1099.4,1,1,29183,0.905090174416279,0.905090174416279
+61826,SUN,OREC,OP,PV,4.5,6148,2014,SOLAR,O'Fallon Renewable Energy Center,19436,38.826648,-90.678124,MO,29,183,SERC,SRMW,SOLAR,4.5,0,1,29183,8.22948673295832,8.22948673295832

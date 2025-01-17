@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3597,WAT,1,OP,HY,27,23479,1951,HYDRO,Granite Shoals,11269,30.556,-98.3384,TX,48,053,TRE,ERCT,HYDRO,54,1,1,48053,1.30166874249596,277.448171429527
+3597,WAT,2,OP,HY,27,23479,1951,HYDRO,Granite Shoals,11269,30.556,-98.3384,TX,48,053,TRE,ERCT,HYDRO,54,1,1,48053,1.30166874249596,277.448171429527
+3599,WAT,1,OP,HY,19.8,8323.5,1951,HYDRO,Marble Falls,11269,30.555288,-98.257593,TX,48,053,TRE,ERCT,HYDRO,39.6,0,1,48053,9.05161918273925,283.792737607119
+3599,WAT,2,OP,HY,19.8,8323.5,1951,HYDRO,Marble Falls,11269,30.555288,-98.257593,TX,48,053,TRE,ERCT,HYDRO,39.6,0,1,48053,9.05161918273925,283.792737607119

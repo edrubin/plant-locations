@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50972,WAT,1,OP,HY,1.6,6867,1993,HYDRO,Marsh Valley Development,14354,42.625972,-112.149344,ID,16,005,WECC,NWPP,HYDRO,1.6,0,1,16005,8.87856513611351,69.3721149999108
+59529,LFG,GEN1,OP,IC,1.6,10937,2014,BIOMASS,Bannock County LFG to Energy,9191,42.787778,-112.365556,ID,16,005,WECC,NWPP,BIOMASS,3.2,0,1,16005,9.69481000290977,87.3683115618694
+59529,LFG,GEN 2,P,IC,1.6,,2019,BIOMASS,Bannock County LFG to Energy,9191,42.787778,-112.365556,ID,16,005,WECC,NWPP,BIOMASS,3.2,0,0,16005,9.69481000290977,87.3683115618694

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7941,DFO,1,SB,IC,2,128.5,2002,OIL,Nottoway Diesel Generating Facility,4117,36.697222,-77.105,VA,51,175,SERC,SRVC,OIL,4,0,1,51175,12.1154191625581,16.937423538089
+7941,DFO,2,SB,IC,2,128.5,2002,OIL,Nottoway Diesel Generating Facility,4117,36.697222,-77.105,VA,51,175,SERC,SRVC,OIL,4,0,1,51175,12.1154191625581,16.937423538089
+10774,WDS,1,OP,ST,71.1,313703,1992,BIOMASS,Southampton Power Station,19876,36.6525,-76.9953,VA,51,175,SERC,SRVC,BIOMASS,71.1,1,1,51175,3.38531625059671,12.0204029447826
+61422,SUN,PV1,OP,PV,100,207258,2017,SOLAR,"Southampton Solar, LLC",19876,36.614,-77.166,VA,51,175,SERC,SRVC,SOLAR,100,1,1,51175,7.40773759460442,7.40773759460442

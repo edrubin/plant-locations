@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56611,SUB,S01,OP,ST,1008,6469237,2013,COAL,Sandy Creek Energy Station,44372,31.474378,-96.957149,TX,48,309,TRE,ERCT,COAL,1008,1,1,48309,3.12998180397395,249.199087363932
+61874,SUN,GEN1,OP,PV,10,419,2018,SOLAR,Eddy II,44372,31.291151,-97.260738,TX,48,309,TRE,ERCT,SOLAR,10,0,1,48309,0.242714172929716,269.315703715862

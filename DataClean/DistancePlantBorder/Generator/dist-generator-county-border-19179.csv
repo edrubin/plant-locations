@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1173,WAT,1,OS,HY,1,2366.875,1931,HYDRO,Ottumwa City of,9417,41.016346,-92.414873,IA,19,179,MRO,MROW,HYDRO,3.2,0,0,19179,13.0155670703963,46.6644564387095
+1173,WAT,2,OP,HY,1.2,2840.25,1931,HYDRO,Ottumwa City of,9417,41.016346,-92.414873,IA,19,179,MRO,MROW,HYDRO,3.2,0,1,19179,13.0155670703963,46.6644564387095
+1173,WAT,3,OP,HY,1,2366.875,1931,HYDRO,Ottumwa City of,9417,41.016346,-92.414873,IA,19,179,MRO,MROW,HYDRO,3.2,0,1,19179,13.0155670703963,46.6644564387095
+6254,SUB,1,OP,ST,725.9,3735791,1981,COAL,Ottumwa,56161,41.0961,-92.555833,IA,19,179,MRO,MROW,COAL,725.9,1,1,19179,7.0685985132163,55.8175490411668

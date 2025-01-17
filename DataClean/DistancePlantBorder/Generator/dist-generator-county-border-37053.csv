@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59155,SUN,SHAW1,OP,PV,20,37945,2015,SOLAR,Shawboro PV1,19876,36.433333,-76.087222,NC,37,053,SERC,SRVC,SOLAR,20,0,1,37053,6.45409229964501,13.0038139714116
+60611,SUN,PV1,OP,PV,60,114754,2016,SOLAR,Summit Farms Solar,19876,36.4765,-76.136,NC,37,053,SERC,SRVC,SOLAR,60,1,1,37053,5.42851367991116,8.21093359530481
+61813,SUN,RCHLD,OP,PV,60,87539,2017,SOLAR,"Ranchland Solar, LLC",19876,36.472591,-76.154089,NC,37,053,SERC,SRVC,SOLAR,60,1,1,37053,3.97164240171551,8.64302260269728

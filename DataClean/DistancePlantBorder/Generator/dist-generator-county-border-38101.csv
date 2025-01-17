@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55995,WND,MWP,OP,WT,2.6,7404.507,2003,WIND,Minot Wind Project,1307,48.021271,-101.280517,ND,38,101,MRO,MROW,WIND,7.1,0,1,38101,19.2283824032623,108.757001760451
+55995,WND,MWP2,OP,WT,4.5,12815.493,2009,WIND,Minot Wind Project,1307,48.021271,-101.280517,ND,38,101,MRO,MROW,WIND,7.1,0,1,38101,19.2283824032623,108.757001760451
+56607,WND,ND1,OP,WT,115.5,356543,2009,WIND,Prairie Winds ND1,27000,47.933621,-101.269189,ND,38,101,MRO,MROW,WIND,115.5,1,1,38101,9.48206656183552,118.500685884052

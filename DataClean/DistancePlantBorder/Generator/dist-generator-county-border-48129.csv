@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60657,WND,GEN1,OP,WT,174,750590,2016,WIND,"Salt Fork Wind Project, LLC",60065,35.18172,-100.934408,TX,48,129,TRE,ERCT,WIND,174,1,1,48129,0.162579844480395,85.0603849370029

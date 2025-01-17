@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+785,WAT,1,OP,HY,50,77803,1984,HYDRO,Kingsley,13337,41.2114,-101.6681,NE,31,101,MRO,MROW,HYDRO,50,1,1,31101,20.4326139051617,39.7275418020914

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7790,BIT,1,OP,ST,499.5,3654103,1986,COAL,Bonanza,40230,40.0864,-109.2844,UT,49,047,WECC,NWPP,COAL,609.5,1,1,49047,19.9230115986888,19.9230115986888
+7790,WC,2,IP,ST,110,0,,COAL,Bonanza,40230,40.0864,-109.2844,UT,49,047,WECC,NWPP,COAL,609.5,1,0,49047,19.9230115986888,19.9230115986888

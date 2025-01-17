@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3285,NG,4,OP,GT,122,16285.245,1991,GAS,Hagood,17539,32.8265,-79.9634,SC,45,019,SERC,SRVC,GAS,177.3,1,1,45019,3.04328307363162,21.4092727800321
+3285,NG,5,OP,GT,27.4,3657.506,2009,GAS,Hagood,17539,32.8265,-79.9634,SC,45,019,SERC,SRVC,GAS,177.3,1,1,45019,3.04328307363162,21.4092727800321
+3285,NG,6,OP,GT,27.9,3724.249,2010,GAS,Hagood,17539,32.8265,-79.9634,SC,45,019,SERC,SRVC,GAS,177.3,1,1,45019,3.04328307363162,21.4092727800321
+7737,WDS,1,OP,ST,99.2,435283,1999,BIOMASS,"KapStone Charleston Kraft, LLC",17539,32.9,-79.9667,SC,45,019,SERC,SRVC,COAL,99.2,1,1,45019,0.804043913293723,26.3776711805023

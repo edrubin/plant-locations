@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60435,SUN,XXXXX,OP,PV,17,28080,2017,SOLAR,Crane Solar Facility,15470,38.8164,-86.8842,IN,18,101,RFC,RFCW,SOLAR,17,0,1,18101,1.74299969253849,53.1864007044904

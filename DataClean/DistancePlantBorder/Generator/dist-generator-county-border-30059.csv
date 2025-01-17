@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57748,WND,GBW,OP,WT,9.6,38720,2012,WIND,Gordon Butte Wind LLC,12825,46.411944,-110.337777,MT,30,059,WECC,NWPP,WIND,9.6,0,1,30059,4.35948965169683,156.911644791175

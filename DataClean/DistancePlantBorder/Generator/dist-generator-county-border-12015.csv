@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59240,LFG,G1,OP,IC,1.5,6265.5,2011,BIOMASS,Green Gas-Port Charlotte LLC,6452,26.790833,-81.965278,FL,12,015,FRCC,FRCC,BIOMASS,3,0,1,12015,2.29409450179618,35.5247185395297
+59240,LFG,G2,OP,IC,1.5,6265.5,2011,BIOMASS,Green Gas-Port Charlotte LLC,6452,26.790833,-81.965278,FL,12,015,FRCC,FRCC,BIOMASS,3,0,1,12015,2.29409450179618,35.5247185395297
+59993,SUN,1,OP,PV,74.5,164990,2016,SOLAR,Babcock Solar Energy Center,6452,26.861592,-81.751011,FL,12,015,FRCC,FRCC,SOLAR,84.5,1,1,12015,10.1890627138276,55.9344253494946
+59993,MWH,BA,OP,BA,10,-348,2018,OTHER,Babcock Solar Energy Center,6452,26.861592,-81.751011,FL,12,015,FRCC,FRCC,SOLAR,84.5,0,1,12015,10.1890627138276,55.9344253494946

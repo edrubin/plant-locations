@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55044,NG,STG1,OP,ST,18,122335.5,1996,GAS,Boise Cascade Pulp & Paper Mill,195,31.4894,-87.8989,AL,01,025,SERC,SRSO,BIOMASS,18,0,1,01025,0.722254889502581,52.5061925864317

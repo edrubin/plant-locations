@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2745,WAT,1,OP,HY,0.5,1863,1925,HYDRO,Franklin (NC),5416,35.2194,-83.3708,NC,37,113,SERC,SRVC,HYDRO,1,0,1,37113,7.01606642209658,24.8828598198697
+2745,WAT,2,OP,HY,0.5,1863,1925,HYDRO,Franklin (NC),5416,35.2194,-83.3708,NC,37,113,SERC,SRVC,HYDRO,1,0,1,37113,7.01606642209658,24.8828598198697
+2747,WAT,1,OP,HY,43.2,270145,1942,HYDRO,Nantahala,5416,35.2715,-83.6762,NC,37,113,SERC,SRVC,HYDRO,43.2,1,1,37113,0.782348229860404,31.1058871677097
+6438,WAT,1,OP,HY,1.4,4621,1949,HYDRO,Queens Creek,5416,35.27127,-83.676016,NC,37,113,SERC,SRVC,HYDRO,1.4,0,1,37113,0.807767089477318,31.136090197628

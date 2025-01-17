@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7013,NG,4,OP,ST,26.5,3574,1970,GAS,East 12th Street,20813,37.2367,-96.9625,KS,20,035,MRO,SPNO,GAS,28.1,1,1,20035,16.6106889550695,26.37212426469
+7013,DFO,5,SB,IC,1.6,0,2002,OIL,East 12th Street,20813,37.2367,-96.9625,KS,20,035,MRO,SPNO,GAS,28.1,0,1,20035,16.6106889550695,26.37212426469
+56022,DFO,1,SB,IC,1.6,0,1993,OIL,Waste Water Plant Generator,20813,37.227778,-96.989722,KS,20,035,MRO,SPNO,OIL,1.6,0,1,20035,14.1856851742422,25.3840966108379

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60915,SUN,PV1,OP,PV,20,33266,2017,SOLAR,Correctional Solar LLC,19876,37.471464,-76.856859,VA,51,127,SERC,SRVC,SOLAR,20,0,1,51127,2.60232988219312,67.4346330589499

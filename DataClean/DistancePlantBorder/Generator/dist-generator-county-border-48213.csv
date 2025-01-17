@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3507,NG,6,OP,ST,239.3,40262,1965,GAS,Trinidad,44372,32.124519,-96.101277,TX,48,213,TRE,ERCT,GAS,243.3,1,1,48213,1.21516112495755,174.835731567436
+3507,DFO,D1,OP,IC,2,1.5,1966,OIL,Trinidad,44372,32.124519,-96.101277,TX,48,213,TRE,ERCT,GAS,243.3,0,1,48213,1.21516112495755,174.835731567436
+3507,DFO,D2,OP,IC,2,1.5,1966,OIL,Trinidad,44372,32.124519,-96.101277,TX,48,213,TRE,ERCT,GAS,243.3,0,1,48213,1.21516112495755,174.835731567436

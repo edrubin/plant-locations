@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+757,WAT,1,OP,HY,22,44401.617,1931,HYDRO,Blue Ridge,18642,34.883889,-84.282222,GA,13,111,SERC,SRTV,HYDRO,23.5,0,1,13111,8.59521349276881,11.6026664771345
+757,WAT,2,OP,HY,1.5,3027.383,1994,HYDRO,Blue Ridge,18642,34.883889,-84.282222,GA,13,111,SERC,SRTV,HYDRO,23.5,0,1,13111,8.59521349276881,11.6026664771345

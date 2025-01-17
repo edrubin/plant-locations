@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59467,NG,GEN1,OP,IC,4.3,1946.333,2015,GAS,Coldwater Peaking Plant,3915,41.919444,-85.024167,MI,26,023,RFC,RFCM,GAS,12.9,0,1,26023,16.4964282655823,17.7392590024126
+59467,NG,GEN2,OP,IC,4.3,1946.333,2015,GAS,Coldwater Peaking Plant,3915,41.919444,-85.024167,MI,26,023,RFC,RFCM,GAS,12.9,0,1,26023,16.4964282655823,17.7392590024126
+59467,NG,GEN3,OP,IC,4.3,1946.333,2015,GAS,Coldwater Peaking Plant,3915,41.919444,-85.024167,MI,26,023,RFC,RFCM,GAS,12.9,0,1,26023,16.4964282655823,17.7392590024126
+61435,SUN,AMPCW,OP,PV,1.3,1840,2018,SOLAR,DG AMP Solar Coldwater,3915,41.934117,-84.997244,MI,26,023,RFC,RFCM,SOLAR,1.3,0,1,26023,14.2434705922553,19.3777812700819

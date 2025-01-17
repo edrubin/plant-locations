@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57198,WND,1,OP,WT,201.3,507564,2011,WIND,Bent Tree Wind Farm Phase 1,56161,43.724596,-93.450429,MN,27,047,MRO,MROW,WIND,201.3,1,1,27047,13.7153035298458,24.9930310834327

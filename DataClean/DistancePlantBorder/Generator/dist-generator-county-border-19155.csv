@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1082,RC,3,OP,ST,725.8,4238316,1978,COAL,Walter Scott Jr. Energy Center,12341,41.18,-95.8408,IA,19,155,MRO,MROW,COAL,1778.9,1,1,19155,0.2155145860779,0.2155145860779
+1082,RC,4,OP,ST,922.5,5801549,2007,COAL,Walter Scott Jr. Energy Center,12341,41.18,-95.8408,IA,19,155,MRO,MROW,COAL,1778.9,1,1,19155,0.2155145860779,0.2155145860779
+1082,SUB,1,RE,ST,49,,1954,COAL,Walter Scott Jr. Energy Center,12341,41.18,-95.8408,IA,19,155,MRO,MROW,COAL,1778.9,1,0,19155,0.2155145860779,0.2155145860779
+1082,SUB,2,RE,ST,81.6,,1958,COAL,Walter Scott Jr. Energy Center,12341,41.18,-95.8408,IA,19,155,MRO,MROW,COAL,1778.9,1,0,19155,0.2155145860779,0.2155145860779
+56811,WND,WWF,OP,WT,153,431516,2008,WIND,Walnut Wind Farm,12341,41.4517,-95.2383,IA,19,155,MRO,MROW,WIND,153,1,1,19155,5.98121119949987,55.5460080528735

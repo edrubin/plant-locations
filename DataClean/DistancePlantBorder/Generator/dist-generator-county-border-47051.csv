@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3417,WAT,1,OP,HY,45,67321.772,1972,HYDRO,Tims Ford,18642,35.1967,-86.2783,TN,47,051,SERC,SRTV,HYDRO,45.7,1,1,47051,1.82982912583766,22.8296923117802
+3417,WAT,2,OP,HY,0.7,1047.228,1987,HYDRO,Tims Ford,18642,35.1967,-86.2783,TN,47,051,SERC,SRTV,HYDRO,45.7,0,1,47051,1.82982912583766,22.8296923117802

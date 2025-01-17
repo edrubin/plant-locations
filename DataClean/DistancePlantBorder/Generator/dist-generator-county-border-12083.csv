@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57128,LFG,357,OP,IC,1.6,10144,2009,BIOMASS,G2 Energy Marion LLC,6455,29.122882,-82.055452,FL,12,083,FRCC,FRCC,BIOMASS,4,0,1,12083,18.0228869412615,77.735265172995
+57128,LFG,358,OP,IC,1.6,10144,2009,BIOMASS,G2 Energy Marion LLC,6455,29.122882,-82.055452,FL,12,083,FRCC,FRCC,BIOMASS,4,0,1,12083,18.0228869412615,77.735265172995
+57128,LFG,360,OP,IC,0.8,5072,2010,BIOMASS,G2 Energy Marion LLC,6455,29.122882,-82.055452,FL,12,083,FRCC,FRCC,BIOMASS,4,0,1,12083,18.0228869412615,77.735265172995

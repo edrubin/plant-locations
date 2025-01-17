@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57516,WND,NOVUS,OP,WT,80,8605,2012,WIND,KODE Novus I,17718,36.543889,-101.393611,OK,40,139,MRO,SPSO,WIND,80,1,1,40139,4.94212820560661,4.94212820560661
+57889,WND,NOVII,OP,WT,40,8605,2012,WIND,KODE Novus II,17718,36.548958,-101.495936,OK,40,139,MRO,SPSO,WIND,40,1,1,40139,5.49287808450922,5.49287808450922
+58998,WND,GWWP,OP,WT,200,888206,2015,WIND,Goodwell Wind Project LLC,17718,36.541389,-101.565556,OK,40,139,MRO,SPSO,WIND,200,1,1,40139,4.64738836636775,4.64738836636775

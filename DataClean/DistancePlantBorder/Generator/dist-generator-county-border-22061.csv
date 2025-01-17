@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54240,NG,TG3,OP,GT,7.5,48807,2004,GAS,Louisiana Tech University Power Plant,11241,32.5256,-92.6497,LA,22,061,SERC,SRMV,GAS,15,0,1,22061,4.13280412523844,54.1173771315599
+54240,NG,TG1,RE,ST,2.5,,1963,GAS,Louisiana Tech University Power Plant,11241,32.5256,-92.6497,LA,22,061,SERC,SRMV,GAS,15,0,0,22061,4.13280412523844,54.1173771315599
+54240,NG,TG2,RE,ST,5,,1983,GAS,Louisiana Tech University Power Plant,11241,32.5256,-92.6497,LA,22,061,SERC,SRMV,GAS,15,0,0,22061,4.13280412523844,54.1173771315599

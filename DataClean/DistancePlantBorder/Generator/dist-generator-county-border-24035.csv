@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58631,SUN,1,OP,PV,2,2369,2013,SOLAR,Queen Anne's County,5027,39.031667,-76.016389,MD,24,035,RFC,RFCE,SOLAR,2,0,1,24035,8.77612802303803,23.9753508886806
+60465,SUN,PV1,OP,PV,1.5,2282,2016,SOLAR,Chesapeake College,5027,38.953389,-76.083244,MD,24,035,RFC,RFCE,SOLAR,1.5,0,1,24035,1.10712336885171,30.3223267168793
+60604,SUN,PV1,OP,PV,10,17862,2016,SOLAR,Wye Mills VNEM CSG,5027,38.94037,-76.045658,MD,24,035,RFC,RFCE,SOLAR,10,0,1,24035,0.446185925733507,27.1668058110138
+60737,SUN,PV1,OP,PV,6,9644,2016,SOLAR,Church Hill,5027,39.100947,-75.959681,MD,24,035,RFC,RFCE,SOLAR,6,0,1,24035,9.16631343345906,18.5810679598446

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3114,DFO,1,OP,GT,20,196,1972,OIL,Shawnee (PA),12390,41.061194,-75.058242,PA,42,089,RFC,RFCE,OIL,20,0,1,42089,3.13630785552766,3.13630785552766
+57367,SUN,POCON,OP,PV,3,2610,2010,SOLAR,Pocono Solar Project,14715,41.061022,-75.514924,PA,42,089,RFC,RFCE,SOLAR,3,0,1,42089,3.89630854242553,33.19811914321

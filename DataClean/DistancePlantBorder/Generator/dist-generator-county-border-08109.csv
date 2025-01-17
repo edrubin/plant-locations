@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+491,DFO,3,SB,IC,0.5,0,1963,OIL,Center,3227,37.753606,-106.10467,CO,08,109,WECC,RMPA,OIL,1.5,0,1,08109,0.597624494034269,84.1764274486272
+491,DFO,5,SB,IC,1,0,1959,OIL,Center,3227,37.753606,-106.10467,CO,08,109,WECC,RMPA,OIL,1.5,0,1,08109,0.597624494034269,84.1764274486272
+61605,SUN,1,OP,PV,2.7,6473,2017,SOLAR,San Luis Valley Solar Array,16603,37.777,-106.22,CO,08,109,WECC,RMPA,SOLAR,2.7,0,1,08109,3.20723465917838,86.8354938985933

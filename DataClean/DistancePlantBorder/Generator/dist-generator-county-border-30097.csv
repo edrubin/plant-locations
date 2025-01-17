@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61155,WND,BT-MT,OP,WT,25,65813,2018,WIND,Big Timber Wind Farm,12825,45.855428,-109.649167,MT,30,097,WECC,NWPP,WIND,25,1,1,30097,7.80137217110956,94.773435125312
+61289,SUN,RBSMT,OP,PV,2,3916,2017,SOLAR,"River Bend Solar, LLC",12825,45.703779,-109.565219,MT,30,095,WECC,NWPP,SOLAR,2,0,1,30095,0.247022858911294,77.8565113606347

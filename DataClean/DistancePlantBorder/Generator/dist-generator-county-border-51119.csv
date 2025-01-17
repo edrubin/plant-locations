@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+62140,SUN,PULL,OP,PV,15,3381,2018,SOLAR,Puller Solar,19876,37.57245,-76.46734,VA,51,119,SERC,SRVC,SOLAR,15,0,1,51119,4.20351704842329,40.3649410853926

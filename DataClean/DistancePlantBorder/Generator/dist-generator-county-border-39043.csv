@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57249,LFG,GEN1,OP,IC,1.6,11636,2010,BIOMASS,Renewable Energy Services of Ohio,13998,41.3362,-82.602,OH,39,043,RFC,RFCW,BIOMASS,2.4,0,1,39043,5.53969184421292,37.7968931834317
+57249,LFG,GEN2,OP,IC,0.8,5818,2014,BIOMASS,Renewable Energy Services of Ohio,13998,41.3362,-82.602,OH,39,043,RFC,RFCW,BIOMASS,2.4,0,1,39043,5.53969184421292,37.7968931834317

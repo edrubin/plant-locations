@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1008,BIT,2,OP,ST,150,171576,1958,COAL,R Gallagher,15470,38.2636,-85.8381,IN,18,043,RFC,RFCW,COAL,600,1,1,18043,0.117652245756876,0.117652245756876
+1008,BIT,4,OP,ST,150,113576,1961,COAL,R Gallagher,15470,38.2636,-85.8381,IN,18,043,RFC,RFCW,COAL,600,1,1,18043,0.117652245756876,0.117652245756876
+1008,BIT,1,RE,ST,150,,1959,COAL,R Gallagher,15470,38.2636,-85.8381,IN,18,043,RFC,RFCW,COAL,600,1,0,18043,0.117652245756876,0.117652245756876
+1008,BIT,3,RE,ST,150,,1960,COAL,R Gallagher,15470,38.2636,-85.8381,IN,18,043,RFC,RFCW,COAL,600,1,0,18043,0.117652245756876,0.117652245756876

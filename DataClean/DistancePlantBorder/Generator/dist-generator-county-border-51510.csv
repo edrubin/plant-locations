@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50663,MSW,GEN1,OP,ST,14.5,77185,1987,BIOMASS,Covanta Alexandria/Arlington Energy,19876,38.8014,-77.1288,VA,51,510,SERC,SRVC,BIOMASS,29,0,1,51510,0.21654163893823,7.77056715930608
+50663,MSW,GEN2,OP,ST,14.5,55070,1987,BIOMASS,Covanta Alexandria/Arlington Energy,19876,38.8014,-77.1288,VA,51,510,SERC,SRVC,BIOMASS,29,0,1,51510,0.21654163893823,7.77056715930608

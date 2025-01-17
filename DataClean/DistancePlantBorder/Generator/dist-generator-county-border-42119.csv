@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54333,NG,G001,OP,CT,4.7,35309,1998,GAS,Bucknell University,3597,40.955015,-76.878843,PA,42,119,RFC,RFCE,GAS,5.9,0,1,42119,0.116405515653106,116.235345511112
+54333,NG,G502,OA,CA,1.2,885,1991,GAS,Bucknell University,3597,40.955015,-76.878843,PA,42,119,RFC,RFCE,GAS,5.9,0,0,42119,0.116405515653106,116.235345511112

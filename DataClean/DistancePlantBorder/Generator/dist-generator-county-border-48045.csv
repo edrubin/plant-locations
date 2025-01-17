@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59734,WND,BFW,OP,WT,150,488209,2015,WIND,Briscoe Wind Farm,20404,34.432267,-101.237233,TX,48,045,TRE,ERCT,WIND,150,1,1,48045,13.3108918349435,114.479541165769

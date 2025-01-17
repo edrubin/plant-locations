@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6145,NUC,1,OP,ST,1215,10249053.5,1990,NUCLEAR,Comanche Peak,44372,32.298365,-97.785515,TX,48,425,TRE,ERCT,NUCLEAR,2430,1,1,48425,1.58937111519601,168.702156560592
+6145,NUC,2,OP,ST,1215,10249053.5,1993,NUCLEAR,Comanche Peak,44372,32.298365,-97.785515,TX,48,425,TRE,ERCT,NUCLEAR,2430,1,1,48425,1.58937111519601,168.702156560592

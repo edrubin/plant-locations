@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59496,NG,ST601,OP,GT,5.6,39365,2015,GAS,BYUI Central Energy Facility,14354,43.816944,-111.785833,ID,16,065,WECC,NWPP,GAS,5.6,0,1,16065,9.0296361259872,59.4401417041683

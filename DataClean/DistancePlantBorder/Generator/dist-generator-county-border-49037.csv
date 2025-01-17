@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59965,WND,LTIGO,OP,WT,62.1,155251,2016,WIND,Latigo Wind Park,14354,37.886706,-109.36839,UT,49,037,WECC,NWPP,WIND,62.1,1,1,49037,28.7089559745856,28.7089559745856

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1037,DFO,D1,SB,IC,1.8,20,2002,OIL,Peru (IN),14839,40.7551,-86.0575,IN,18,103,RFC,RFCW,OIL,36.3,0,1,18103,9.2370053707076,105.959247240869
+1037,BIT,2,RE,ST,22,,1959,COAL,Peru (IN),14839,40.7551,-86.0575,IN,18,103,RFC,RFCW,OIL,36.3,0,0,18103,9.2370053707076,105.959247240869
+1037,BIT,3,RE,ST,12.5,,1949,COAL,Peru (IN),14839,40.7551,-86.0575,IN,18,103,RFC,RFCW,OIL,36.3,0,0,18103,9.2370053707076,105.959247240869
+59481,SUN,SPERU,OP,PV,3,4135,2015,SOLAR,IMPA Peru Solar Park,14839,40.767778,-86.045556,IN,18,103,RFC,RFCW,SOLAR,3,0,1,18103,8.7715614787422,104.935324135319

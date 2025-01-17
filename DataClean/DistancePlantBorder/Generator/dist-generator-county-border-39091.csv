@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57433,LFG,1,OP,IC,1.6,12598.667,2009,BIOMASS,Bellefontaine Gas Producers LLC,4922,40.410751,-83.71788,OH,39,091,RFC,RFCW,BIOMASS,4.8,0,1,39091,12.3391840461278,92.2473623810709
+57433,LFG,2,OP,IC,1.6,12598.667,2009,BIOMASS,Bellefontaine Gas Producers LLC,4922,40.410751,-83.71788,OH,39,091,RFC,RFCW,BIOMASS,4.8,0,1,39091,12.3391840461278,92.2473623810709
+57433,LFG,3,OP,IC,1.6,12598.667,2009,BIOMASS,Bellefontaine Gas Producers LLC,4922,40.410751,-83.71788,OH,39,091,RFC,RFCW,BIOMASS,4.8,0,1,39091,12.3391840461278,92.2473623810709
+58630,WND,RPOH,OP,WT,3.4,7422,2013,WIND,RP Wind,11203,40.449444,-83.893333,OH,39,091,RFC,RFCW,WIND,3.4,0,1,39091,9.2262615260123,77.2603988438329

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+8000,NG,CT1,OP,CT,76.6,139769,2005,GAS,Beatrice,13337,40.330184,-96.808153,NE,31,067,MRO,MROW,GAS,247.1,1,1,31067,9.17383514813484,36.4980260047125
+8000,NG,CT2,OP,CT,76.6,131329,2005,GAS,Beatrice,13337,40.330184,-96.808153,NE,31,067,MRO,MROW,GAS,247.1,1,1,31067,9.17383514813484,36.4980260047125
+8000,NG,ST1,OP,CA,93.9,164084,2005,GAS,Beatrice,13337,40.330184,-96.808153,NE,31,067,MRO,MROW,GAS,247.1,1,1,31067,9.17383514813484,36.4980260047125

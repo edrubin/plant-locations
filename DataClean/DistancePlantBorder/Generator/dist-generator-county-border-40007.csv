@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58900,WND,BAL1,OP,WT,299.7,1168299,2015,WIND,Balko Wind LLC,14063,36.518056,-100.847222,OK,40,007,MRO,SPSO,WIND,299.7,1,1,40007,2.0335745757505,2.0335745757505
+60256,WND,1,OP,WT,198,837775,2016,WIND,Bluestem,14063,36.552151,-100.587557,OK,40,007,MRO,SPSO,WIND,198,1,1,40007,5.84600175335113,5.84600175335113

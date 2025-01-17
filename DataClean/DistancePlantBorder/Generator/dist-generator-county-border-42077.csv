@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3139,DFO,CTG1,OP,GT,16,432,1967,OIL,TalenEnergy Martin Creek LLC Allentown,14715,40.608388,-75.45599,PA,42,077,RFC,RFCE,OIL,64,0,1,42077,5.30692165996106,21.515209064452
+3139,DFO,CTG2,OP,GT,16,432,1967,OIL,TalenEnergy Martin Creek LLC Allentown,14715,40.608388,-75.45599,PA,42,077,RFC,RFCE,OIL,64,0,1,42077,5.30692165996106,21.515209064452
+3139,DFO,CTG3,OP,GT,16,432,1967,OIL,TalenEnergy Martin Creek LLC Allentown,14715,40.608388,-75.45599,PA,42,077,RFC,RFCE,OIL,64,0,1,42077,5.30692165996106,21.515209064452
+3139,DFO,CTG4,OP,GT,16,432,1967,OIL,TalenEnergy Martin Creek LLC Allentown,14715,40.608388,-75.45599,PA,42,077,RFC,RFCE,OIL,64,0,1,42077,5.30692165996106,21.515209064452
+57519,SUN,GEN1,OP,PV,1.9,2047,2011,SOLAR,Trexlertown Solar Array North and South,14715,40.556211,-75.593873,PA,42,077,RFC,RFCE,SOLAR,1.9,0,1,42077,5.87004625360883,33.8143501897169

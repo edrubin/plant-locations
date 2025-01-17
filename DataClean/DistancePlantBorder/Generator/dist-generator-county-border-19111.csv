@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57953,NG,GT,OP,CT,40,120727.86,2004,GAS,Roquette America,56161,40.389167,-91.394167,IA,19,111,MRO,MROW,OIL,84.4,1,1,19111,0.602856900692829,0.602856900692829
+57953,NG,HRSG,OS,CA,10,0,2004,GAS,Roquette America,56161,40.389167,-91.394167,IA,19,111,MRO,MROW,OIL,84.4,0,0,19111,0.602856900692829,0.602856900692829
+57953,PC,ST,OP,ST,34.4,48729,2007,OIL,Roquette America,56161,40.389167,-91.394167,IA,19,111,MRO,MROW,OIL,84.4,1,1,19111,0.602856900692829,0.602856900692829

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58594,WND,1,OP,WT,74.8,302700,2013,WIND,Steele Flats Wind Project LLC,13337,40.048889,-96.952222,NE,31,095,MRO,MROW,WIND,74.8,1,1,31095,3.05514981529317,5.26096827954879

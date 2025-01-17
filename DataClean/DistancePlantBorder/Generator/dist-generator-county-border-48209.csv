@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55144,NG,U1,OP,CS,241.7,849793,2002,GAS,Hays Energy Facility,11269,29.7806,-97.9894,TX,48,209,TRE,ERCT,GAS,989,1,1,48209,1.37113106788559,222.978525752104
+55144,NG,U2,OP,CS,241.7,775227,2002,GAS,Hays Energy Facility,11269,29.7806,-97.9894,TX,48,209,TRE,ERCT,GAS,989,1,1,48209,1.37113106788559,222.978525752104
+55144,NG,U3,OP,CS,252.8,691926,2002,GAS,Hays Energy Facility,11269,29.7806,-97.9894,TX,48,209,TRE,ERCT,GAS,989,1,1,48209,1.37113106788559,222.978525752104
+55144,NG,U4,OP,CS,252.8,743255,2002,GAS,Hays Energy Facility,11269,29.7806,-97.9894,TX,48,209,TRE,ERCT,GAS,989,1,1,48209,1.37113106788559,222.978525752104

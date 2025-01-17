@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7947,NG,1,OP,GT,50,69282,2003,GAS,Solway Plant,14232,47.544582,-95.129652,MN,27,007,MRO,MROW,GAS,51.3,1,1,27007,4.11354170657626,129.006748785823
+7947,DFO,D1,OP,IC,1.3,0,2005,OIL,Solway Plant,14232,47.544582,-95.129652,MN,27,007,MRO,MROW,GAS,51.3,0,1,27007,4.11354170657626,129.006748785823

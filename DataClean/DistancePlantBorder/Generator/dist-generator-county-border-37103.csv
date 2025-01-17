@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59917,SUN,5MWPV,OP,PV,5,9181,2016,SOLAR,Pollocksville Solar,3046,34.998,-77.219,NC,37,103,SERC,SRVC,SOLAR,5,0,1,37103,7.25212345397491,46.3866701326297
+60179,SUN,PV1,OP,PV,5,9238,2017,SOLAR,Daystar Solar,3046,35.035589,-77.202453,NC,37,103,SERC,SRVC,SOLAR,5,0,1,37103,2.95347947510955,49.905305573942
+61256,SUN,HOF05,OP,PV,4.9,9258,2017,SOLAR,"Hood Farm Solar, LLC",3046,35.205,-77.497,NC,37,103,SERC,SRVC,SOLAR,4.9,0,1,37103,1.73086522990748,76.8823509355643
+61352,SUN,GEN1,OP,PV,5,6739,2017,SOLAR,Bondi Solar,9837,35.134054,-77.53849,NC,37,103,SERC,SRVC,SOLAR,5,0,1,37103,0.3527485720399,71.5883873862354

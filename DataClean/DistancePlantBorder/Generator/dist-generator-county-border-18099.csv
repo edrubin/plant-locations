@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59425,LFG,ZE-#1,OP,IC,2,15124.333,2014,BIOMASS,Zimmerman Energy,13756,41.237778,-86.246111,IN,18,099,RFC,RFCW,BIOMASS,6,0,1,18099,7.26259860554996,58.0259861267508
+59425,LFG,ZE-#2,OP,IC,2,15124.333,2014,BIOMASS,Zimmerman Energy,13756,41.237778,-86.246111,IN,18,099,RFC,RFCW,BIOMASS,6,0,1,18099,7.26259860554996,58.0259861267508
+59425,LFG,ZE-#3,OP,IC,2,15124.333,2014,BIOMASS,Zimmerman Energy,13756,41.237778,-86.246111,IN,18,099,RFC,RFCW,BIOMASS,6,0,1,18099,7.26259860554996,58.0259861267508

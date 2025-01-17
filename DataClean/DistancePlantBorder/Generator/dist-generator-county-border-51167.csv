@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3775,NG,1,OP,ST,237.5,257771,1958,GAS,Clinch River,733,36.9333,-82.1997,VA,51,167,RFC,RFCW,GAS,712.5,1,1,51167,7.89398324781314,37.4542444856034
+3775,NG,2,OP,ST,237.5,305775,1958,GAS,Clinch River,733,36.9333,-82.1997,VA,51,167,RFC,RFCW,GAS,712.5,1,1,51167,7.89398324781314,37.4542444856034
+3775,BIT,3,RE,ST,237.5,,1961,COAL,Clinch River,733,36.9333,-82.1997,VA,51,167,RFC,RFCW,GAS,712.5,1,0,51167,7.89398324781314,37.4542444856034

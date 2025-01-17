@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10678,BIT,GEN1,OP,ST,229,1142037,1999,COAL,AES Warrior Run,15270,39.595171,-78.745333,MD,24,001,RFC,RFCE,COAL,229,1,1,24001,1.06019907100246,1.06019907100246
+50282,BIT,GEN1,OP,ST,35,120162,1958,COAL,Luke Paper Company,15263,39.4736,-79.0569,MD,24,001,RFC,RFCW,BIOMASS,65,1,1,24001,0.196750398278672,0.196750398278672
+50282,BIT,GEN2,OP,ST,30,74573,1979,COAL,Luke Paper Company,15263,39.4736,-79.0569,MD,24,001,RFC,RFCW,BIOMASS,65,1,1,24001,0.196750398278672,0.196750398278672
+59949,MWH,BESS1,OP,BA,11,-114,2015,OTHER,AES Warrior Run Energy Storage Project,15263,39.593075,-78.745333,MD,24,001,RFC,RFCW,OTHF,11,0,1,24001,0.86002050527108,0.86002050527108

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3477,NG,1,OP,ST,40,5917,1954,GAS,Lone Star Power Plant,17698,32.9215,-94.7226,TX,48,343,MRO,SPSO,GAS,40,1,1,48343,0.998110561752303,63.5445991254786

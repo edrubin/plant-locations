@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55245,NG,TG1,OS,ST,6,19712.078,1953,GAS,Tuscola Plant,56697,39.798175,-88.349771,IL,17,041,SERC,SRMW,OFSL,18,0,0,17041,9.02199211648551,69.9095296453842
+55245,NG,TG3,OP,ST,6,21760.397,2001,GAS,Tuscola Plant,56697,39.798175,-88.349771,IL,17,041,SERC,SRMW,OFSL,18,0,1,17041,9.02199211648551,69.9095296453842
+55245,NG,TG2,RE,ST,6,0,1953,GAS,Tuscola Plant,56697,39.798175,-88.349771,IL,17,041,SERC,SRMW,OFSL,18,0,0,17041,9.02199211648551,69.9095296453842

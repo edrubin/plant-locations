@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56818,WND,1,OP,WT,99,276900,2009,WIND,Central Plains Wind Farm,22500,38.503167,-101.161472,KS,20,203,MRO,SPNO,WIND,99,1,1,20203,2.94550898144297,77.0876355584405

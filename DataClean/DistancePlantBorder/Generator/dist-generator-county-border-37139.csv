@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59530,SUN,PASQ1,OP,PV,20,43851,2014,SOLAR,Pasquotank,19876,36.264722,-76.306111,NC,37,139,SERC,SRVC,SOLAR,20,0,1,37139,2.89221607045896,31.7068216593356
+60422,SUN,1,OP,PV,20,27862,2015,SOLAR,Morgan's Corner,19876,36.421064,-76.364244,NC,37,139,SERC,SRVC,SOLAR,20,0,1,37139,0.846748234365882,14.3692609724176
+60782,SUN,1,OP,PV,3.1,5704,2016,SOLAR,"Barnhill Road Solar, LLC",19876,36.269175,-76.299469,NC,37,139,SERC,SRVC,SOLAR,3.1,0,1,37139,3.58830998372223,31.2128306849812

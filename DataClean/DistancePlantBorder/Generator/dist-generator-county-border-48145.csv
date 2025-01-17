@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61513,SUN,GEN1,OP,PV,5.3,9402,2017,SOLAR,Marlin Solar,44372,31.286739,-96.877205,TX,48,293,TRE,ERCT,SOLAR,5.3,0,1,48293,18.6304847079592,270.506381749047

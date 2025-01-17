@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60365,SUN,VULC,OP,PV,1.6,2053,2013,SOLAR,Vulcraft Solar,13511,42.005874,-76.61935,NY,36,015,NPCC,NYUP,SOLAR,1.6,0,1,36015,0.59978631115238,0.59978631115238

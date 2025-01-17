@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61385,LFG,GM01,OP,IC,2.2,10204.667,2016,BIOMASS,Georgia LFG Oak Grove Plant,7140,33.964988,-83.76564,GA,13,013,SERC,SRSO,BIOMASS,6.6,0,1,13013,4.42483949783608,86.9329451913211
+61385,LFG,GM02,OP,IC,2.2,10204.667,2016,BIOMASS,Georgia LFG Oak Grove Plant,7140,33.964988,-83.76564,GA,13,013,SERC,SRSO,BIOMASS,6.6,0,1,13013,4.42483949783608,86.9329451913211
+61385,LFG,GM03,OP,IC,2.2,10204.667,2016,BIOMASS,Georgia LFG Oak Grove Plant,7140,33.964988,-83.76564,GA,13,013,SERC,SRSO,BIOMASS,6.6,0,1,13013,4.42483949783608,86.9329451913211

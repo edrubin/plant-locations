@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56457,WND,1,OP,WT,84,334664,2006,WIND,Post Wind Farm LP,2172,32.92544,-101.219397,TX,48,033,TRE,ERCT,WIND,84,1,1,48033,4.20900024701691,172.705645976596
+56956,WND,001,OP,WT,180,349442,2008,WIND,Bull Creek Wind,44372,32.929014,-101.578617,TX,48,033,TRE,ERCT,WIND,180,1,1,48033,3.56991513158205,139.098146228788
+57983,WND,1,OP,WT,211,745929.332,2014,WIND,Stephens Ranch Wind Energy LLC,60066,32.926389,-101.647778,TX,48,033,TRE,ERCT,WIND,376,1,1,48033,3.91013426039532,132.631244068881
+57983,WND,2,OP,WT,165,583309.668,2015,WIND,Stephens Ranch Wind Energy LLC,60066,32.926389,-101.647778,TX,48,033,TRE,ERCT,WIND,376,1,1,48033,3.91013426039532,132.631244068881

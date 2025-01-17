@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+52173,WAT,GEN1,OP,HY,7.5,35870.5,1989,HYDRO,Conemaugh Hydro Plant,14711,40.46439,-79.365703,PA,42,129,RFC,RFCE,HYDRO,15,0,1,42129,0.079825508207514,82.4518690197664
+52173,WAT,GEN2,OP,HY,7.5,35870.5,1989,HYDRO,Conemaugh Hydro Plant,14711,40.46439,-79.365703,PA,42,129,RFC,RFCE,HYDRO,15,0,1,42129,0.079825508207514,82.4518690197664
+60464,NG,CTG1,OP,CT,370,31557,2018,GAS,Tenaska Westmoreland Generating Station,20387,40.175249,-79.696665,PA,42,129,RFC,RFCW,GAS,1134,1,1,42129,6.24959504782962,50.4269919100558
+60464,NG,CTG2,OP,CT,370,72698,2018,GAS,Tenaska Westmoreland Generating Station,20387,40.175249,-79.696665,PA,42,129,RFC,RFCW,GAS,1134,1,1,42129,6.24959504782962,50.4269919100558
+60464,NG,STG1,OP,CA,394,41650,2018,GAS,Tenaska Westmoreland Generating Station,20387,40.175249,-79.696665,PA,42,129,RFC,RFCW,GAS,1134,1,1,42129,6.24959504782962,50.4269919100558

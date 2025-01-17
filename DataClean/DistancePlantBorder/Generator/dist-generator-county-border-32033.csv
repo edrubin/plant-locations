@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57192,WND,WTG,OP,WT,150,312348,2012,WIND,Spring Valley Wind Project,17166,39.104167,-114.492222,NV,32,033,WECC,NWPP,WIND,150,1,1,32033,38.3672515080334,38.3672515080334

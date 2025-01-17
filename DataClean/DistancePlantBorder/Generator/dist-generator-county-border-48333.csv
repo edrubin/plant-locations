@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58321,WND,1,OP,WT,150,550041,2013,WIND,Goldthwaite Wind Energy Facility,11269,31.383333,-98.466667,TX,48,333,TRE,ERCT,WIND,150,1,1,48333,8.526614152259,278.999113349331
+61212,WND,FTWI,OP,WT,200,635081,2018,WIND,Flat Top Wind I,44372,31.684511,-98.603358,TX,48,333,TRE,ERCT,WIND,200,1,1,48333,2.77476296063217,249.538630909171

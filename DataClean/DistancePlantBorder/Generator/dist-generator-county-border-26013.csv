@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1772,WDS,1,OP,ST,18.7,122858,1959,BIOMASS,John H Warden,659,46.7553,-88.4558,MI,26,013,RFC,RFCW,BIOMASS,18.7,0,1,26013,12.9942449796777,81.7976794872137
+1773,WAT,1,OP,HY,1.1,4217.5,1931,HYDRO,Prickett,19578,46.7261,-88.6625,MI,26,013,MRO,MROE,HYDRO,2.2,0,1,26013,1.10781635710827,73.167084499607
+1773,WAT,2,OP,HY,1.1,4217.5,1931,HYDRO,Prickett,19578,46.7261,-88.6625,MI,26,013,MRO,MROE,HYDRO,2.2,0,1,26013,1.10781635710827,73.167084499607

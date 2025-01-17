@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57577,SUN,AGSEC,OP,PV,5,11097,2011,SOLAR,Alamogordo Solar Energy Center,15473,32.86571,-105.999775,NM,35,035,WECC,AZNM,SOLAR,5,0,1,35035,33.4996073116212,95.7097152747674
+57986,SUN,1,OP,PV,10,23240,2012,SOLAR,SunE EPE1 LLC,5701,32.034383,-106.340986,NM,35,013,WECC,AZNM,SOLAR,10,0,1,35013,3.42554122793623,3.63699871884081
+58520,SUN,OTE1,OP,PV,8,17968,2013,SOLAR,Otero Solar,15473,32.976389,-105.971111,NM,35,035,WECC,AZNM,SOLAR,8,0,1,35035,34.5359909202707,107.98973935757
+60301,SUN,HPV1,OP,PV,5,1975,2018,SOLAR,Holloman Solar Facility,5701,32.921261,-106.072411,NM,35,035,WECC,AZNM,SOLAR,5,0,1,35035,25.419649481565,101.843946306005

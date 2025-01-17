@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54655,WAT,SCH1,OP,HY,1.5,4448.667,1990,HYDRO,Schoolfield Dam,19876,36.576778,-79.432503,VA,51,143,SERC,SRVC,HYDRO,4.5,0,1,51143,2.16051689478048,3.91198949984828
+54655,WAT,SCH2,OP,HY,1.5,4448.667,1990,HYDRO,Schoolfield Dam,19876,36.576778,-79.432503,VA,51,143,SERC,SRVC,HYDRO,4.5,0,1,51143,2.16051689478048,3.91198949984828
+54655,WAT,SCH3,OP,HY,1.5,4448.667,1990,HYDRO,Schoolfield Dam,19876,36.576778,-79.432503,VA,51,143,SERC,SRVC,HYDRO,4.5,0,1,51143,2.16051689478048,3.91198949984828
+56365,DFO,GEN1,OP,IC,1.8,126,2005,OIL,Danville Westover Plant,4794,36.6114,-79.4631,VA,51,590,RFC,SRVC,OIL,1.8,0,1,51590,0.0904210698972245,7.81342412619217

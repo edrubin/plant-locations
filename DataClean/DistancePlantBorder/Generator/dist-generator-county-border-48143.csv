@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60983,WND,BWIND,OP,WT,100.5,363913,2017,WIND,Buckthorn Wind Project,2172,32.371306,-98.377389,TX,48,143,TRE,ERCT,WIND,100.5,1,1,48143,9.20303174175536,170.476272421397

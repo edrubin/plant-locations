@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59990,SUN,PV1,OP,PV,1.1,1859,2016,SOLAR,Johnson Co. Solar RES,9778,39.518026,-86.068353,IN,18,081,RFC,RFCW,SOLAR,1.1,0,1,18081,10.0431745292327,103.250725284007
+61267,DFO,HURR,SB,IC,2,68,2004,OIL,Hurricane Creek Lift Station,9778,39.5879,-86.1858,IN,18,081,RFC,RFCW,OIL,2,0,1,18081,5.18037720736634,115.280801315432

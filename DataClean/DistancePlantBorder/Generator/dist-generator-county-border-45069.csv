@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57470,BLQ,MG1,OP,ST,51.4,0,2010,BIOMASS,Marlboro Mill,11693,34.605,-79.785,SC,45,069,SERC,SRVC,BIOMASS,51.4,1,1,45069,0.206681171744592,22.2807095776538

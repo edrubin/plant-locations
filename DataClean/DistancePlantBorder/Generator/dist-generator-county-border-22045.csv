@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+51008,AB,1000,OP,ST,1,0,1981,BIOMASS,Enterprise Sugar Factory,3265,29.903611,-91.725556,LA,22,045,SERC,SPSO,BIOMASS,3,0,1,22045,4.9903874841596,53.5092665539984
+51008,AB,2000,SB,ST,2,0,1981,BIOMASS,Enterprise Sugar Factory,3265,29.903611,-91.725556,LA,22,045,SERC,SPSO,BIOMASS,3,0,1,22045,4.9903874841596,53.5092665539984

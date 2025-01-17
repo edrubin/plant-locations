@@ -1,0 +1,7 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1193,DFO,5,SB,IC,2,6,2003,OIL,Villisca Municipal Power Plant,19843,40.9315,-94.9855,IA,19,137,MRO,MROW,OIL,6,0,1,19137,3.41191006582717,39.5027226406434
+1193,DFO,6,SB,IC,2,6,2003,OIL,Villisca Municipal Power Plant,19843,40.9315,-94.9855,IA,19,137,MRO,MROW,OIL,6,0,1,19137,3.41191006582717,39.5027226406434
+1193,DFO,1,RE,IC,0.8,,1948,OIL,Villisca Municipal Power Plant,19843,40.9315,-94.9855,IA,19,137,MRO,MROW,OIL,6,0,0,19137,3.41191006582717,39.5027226406434
+1193,DFO,2,RE,IC,0.3,,1936,OIL,Villisca Municipal Power Plant,19843,40.9315,-94.9855,IA,19,137,MRO,MROW,OIL,6,0,0,19137,3.41191006582717,39.5027226406434
+1193,NG,3,RE,IC,0.3,,1936,GAS,Villisca Municipal Power Plant,19843,40.9315,-94.9855,IA,19,137,MRO,MROW,OIL,6,0,0,19137,3.41191006582717,39.5027226406434
+1193,DFO,4,RE,IC,0.6,,1939,OIL,Villisca Municipal Power Plant,19843,40.9315,-94.9855,IA,19,137,MRO,MROW,OIL,6,0,0,19137,3.41191006582717,39.5027226406434

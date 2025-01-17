@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54850,WDS,01,OP,ST,4,1700,1995,BIOMASS,Cox Waste to Energy,18498,37.3208,-85.3611,KY,21,217,SERC,SRTV,BIOMASS,5,0,1,21217,6.28493835484202,77.2896261965848
+54850,WDS,02,OP,ST,1,425,2002,BIOMASS,Cox Waste to Energy,18498,37.3208,-85.3611,KY,21,217,SERC,SRTV,BIOMASS,5,0,1,21217,6.28493835484202,77.2896261965848

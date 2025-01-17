@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2308,DFO,1,OP,IC,0.7,14,1948,OIL,Tecumseh,18525,40.3664,-96.19,NE,31,097,MRO,MROW,OIL,7,0,1,31097,10.5288168670377,40.3168178723101
+2308,DFO,2,OP,IC,1.5,30,1968,OIL,Tecumseh,18525,40.3664,-96.19,NE,31,097,MRO,MROW,OIL,7,0,1,31097,10.5288168670377,40.3168178723101
+2308,DFO,3,OP,IC,1.1,22,1953,OIL,Tecumseh,18525,40.3664,-96.19,NE,31,097,MRO,MROW,OIL,7,0,1,31097,10.5288168670377,40.3168178723101
+2308,DFO,4,OP,IC,1.3,26,1960,OIL,Tecumseh,18525,40.3664,-96.19,NE,31,097,MRO,MROW,OIL,7,0,1,31097,10.5288168670377,40.3168178723101
+2308,DFO,5A,OP,IC,2.4,48,1993,OIL,Tecumseh,18525,40.3664,-96.19,NE,31,097,MRO,MROW,OIL,7,0,1,31097,10.5288168670377,40.3168178723101

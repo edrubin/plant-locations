@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56001,WND,GE15,OP,WT,64.5,137666,2003,WIND,Waymart Wind,14715,41.5533,-75.4542,PA,42,127,RFC,RFCE,WIND,64.5,1,1,42127,0.286189423701848,32.1733491373161

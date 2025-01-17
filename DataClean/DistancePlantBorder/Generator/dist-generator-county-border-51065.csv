@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55439,NG,CTG1,OP,CT,183.3,1165970,2004,GAS,Tenaska Virginia Generating Station,19876,37.8667,-78.3813,VA,51,065,SERC,SRVC,GAS,946.1,1,1,51065,3.38957687820575,99.7609103909119
+55439,NG,CTG2,OP,CT,183.3,1201256,2004,GAS,Tenaska Virginia Generating Station,19876,37.8667,-78.3813,VA,51,065,SERC,SRVC,GAS,946.1,1,1,51065,3.38957687820575,99.7609103909119
+55439,NG,CTG3,OP,CT,183.3,1189673,2004,GAS,Tenaska Virginia Generating Station,19876,37.8667,-78.3813,VA,51,065,SERC,SRVC,GAS,946.1,1,1,51065,3.38957687820575,99.7609103909119
+55439,NG,STG1,OP,CA,396.2,2214851,2004,GAS,Tenaska Virginia Generating Station,19876,37.8667,-78.3813,VA,51,065,SERC,SRVC,GAS,946.1,1,1,51065,3.38957687820575,99.7609103909119
+61457,SUN,PALM,OP,PV,5,10323,2017,SOLAR,Palmer Solar Center,3291,37.96724,-78.230963,VA,51,065,SERC,SRVC,SOLAR,5,0,1,51065,0.908614094618443,92.9531800790899

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1358,NG,1,OP,GT,20.7,-79.5,1970,GAS,Haefling,10171,38.0794,-84.5194,KY,21,067,SERC,SRTV,GAS,62.1,0,1,21067,8.75391907616813,82.4014069018494
+1358,NG,2,OP,GT,20.7,-79.5,1970,GAS,Haefling,10171,38.0794,-84.5194,KY,21,067,SERC,SRTV,GAS,62.1,0,1,21067,8.75391907616813,82.4014069018494
+1358,NG,3,RE,GT,20.7,,1970,GAS,Haefling,10171,38.0794,-84.5194,KY,21,067,SERC,SRTV,GAS,62.1,0,0,21067,8.75391907616813,82.4014069018494

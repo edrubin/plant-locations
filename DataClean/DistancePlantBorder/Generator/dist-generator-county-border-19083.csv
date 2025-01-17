@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57469,WND,GE1.5,OP,WT,150,515702,2009,WIND,Garden Wind LLC,56161,42.224436,-93.373625,IA,19,083,MRO,MROW,WIND,150,1,1,19083,1.69451366198226,141.593257898697
+59228,WND,WT1,OP,WT,3,6565,2016,WIND,Leonardo Wind 1 LLC,9417,42.498056,-93.367778,IA,19,083,MRO,MROW,WIND,3,0,1,19083,6.60388859102548,111.209198075244

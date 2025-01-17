@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6139,SUB,1,OP,ST,558,2825442,1977,COAL,Welsh Power Plant,17698,33.05522,-94.839993,TX,48,449,MRO,SPSO,COAL,1674,1,1,48449,2.11207322260177,68.2916760710321
+6139,SUB,3,OP,ST,558,2631148,1982,COAL,Welsh Power Plant,17698,33.05522,-94.839993,TX,48,449,MRO,SPSO,COAL,1674,1,1,48449,2.11207322260177,68.2916760710321
+6139,SUB,2,RE,ST,558,,1980,COAL,Welsh Power Plant,17698,33.05522,-94.839993,TX,48,449,MRO,SPSO,COAL,1674,1,0,48449,2.11207322260177,68.2916760710321

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58665,SUN,CSP1,OP,PV,4,5505,2012,SOLAR,"Celina Solar Project #1, LLC",3216,40.540556,-84.590556,OH,39,107,RFC,RFCW,SOLAR,4,0,1,39107,11.4556608817863,17.9691839295308

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56929,SUN,1,OP,PV,25,46882,2009,SOLAR,DeSoto Next Generation Solar Energy,6452,27.3232,-81.8019,FL,12,027,FRCC,FRCC,SOLAR,25,1,1,12027,1.8751850919996,75.1541275786947
+60061,SUN,1,OP,PV,74.5,165360,2016,SOLAR,Citrus Solar Energy Center,6452,27.320919,-81.806863,FL,12,027,FRCC,FRCC,SOLAR,78.5,1,1,12027,2.12787618934049,74.6019920631924
+60061,MWH,BA,OP,BA,4,-10,2018,OTHER,Citrus Solar Energy Center,6452,27.320919,-81.806863,FL,12,027,FRCC,FRCC,SOLAR,78.5,0,1,12027,2.12787618934049,74.6019920631924
+61050,SUN,1,OP,PV,74.5,166413,2018,SOLAR,Wildflower Solar Energy Center,6452,27.316187,-81.783899,FL,12,027,FRCC,FRCC,SOLAR,74.5,1,1,12027,2.65240746126179,76.3673451977294

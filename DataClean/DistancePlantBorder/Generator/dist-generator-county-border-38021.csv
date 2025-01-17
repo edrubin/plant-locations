@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56669,WND,TW1,OP,WT,180,621206,2008,WIND,Tatanka Wind Power LLC,12199,45.959325,-98.946325,ND,38,021,MRO,MROW,WIND,180,1,1,38021,2.20810850128239,2.20810850128239

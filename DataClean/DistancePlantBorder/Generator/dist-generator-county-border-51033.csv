@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7839,NG,1,OP,GT,178.5,139645.4,2001,GAS,Ladysmith Combustion Turbine Sta,19876,38.0722,-77.5133,VA,51,033,SERC,SRVC,GAS,892.5,1,1,51033,2.65731334187878,36.0548111385917
+7839,NG,2,OP,GT,178.5,139645.4,2001,GAS,Ladysmith Combustion Turbine Sta,19876,38.0722,-77.5133,VA,51,033,SERC,SRVC,GAS,892.5,1,1,51033,2.65731334187878,36.0548111385917
+7839,NG,3,OP,GT,178.5,139645.4,2008,GAS,Ladysmith Combustion Turbine Sta,19876,38.0722,-77.5133,VA,51,033,SERC,SRVC,GAS,892.5,1,1,51033,2.65731334187878,36.0548111385917
+7839,NG,4,OP,GT,178.5,139645.4,2008,GAS,Ladysmith Combustion Turbine Sta,19876,38.0722,-77.5133,VA,51,033,SERC,SRVC,GAS,892.5,1,1,51033,2.65731334187878,36.0548111385917
+7839,NG,5,OP,GT,178.5,139645.4,2009,GAS,Ladysmith Combustion Turbine Sta,19876,38.0722,-77.5133,VA,51,033,SERC,SRVC,GAS,892.5,1,1,51033,2.65731334187878,36.0548111385917

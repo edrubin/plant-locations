@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7977,DFO,1,SB,IC,2,0,2003,OIL,Granite Falls 2,7494,44.8047,-95.557,MN,27,173,MRO,MROW,OIL,6,0,1,27173,0.926790850610912,70.7828975696217
+7977,DFO,2,SB,IC,2,0,2003,OIL,Granite Falls 2,7494,44.8047,-95.557,MN,27,173,MRO,MROW,OIL,6,0,1,27173,0.926790850610912,70.7828975696217
+7977,DFO,3,SB,IC,2,0,2003,OIL,Granite Falls 2,7494,44.8047,-95.557,MN,27,173,MRO,MROW,OIL,6,0,1,27173,0.926790850610912,70.7828975696217

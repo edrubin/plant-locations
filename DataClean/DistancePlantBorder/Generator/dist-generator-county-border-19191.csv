@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58407,WND,WTG01,OP,WT,1.6,3115,2011,WIND,Luther College Wind Project,9417,43.326944,-91.810833,IA,19,191,MRO,MROW,WIND,1.6,0,1,19191,16.2985070721983,19.2941210483923

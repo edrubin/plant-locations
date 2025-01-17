@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59913,NG,CT01,OP,CT,369.8,917306,2018,GAS,Greensville County Power Station,19876,36.718236,-77.649559,VA,51,081,SERC,SRVC,GAS,1773.3,1,1,51081,0.57245646895669,19.1998335974377
+59913,NG,CT02,OP,CT,369.8,0,2018,GAS,Greensville County Power Station,19876,36.718236,-77.649559,VA,51,081,SERC,SRVC,GAS,1773.3,1,1,51081,0.57245646895669,19.1998335974377
+59913,NG,CT03,OP,CT,369.8,0,2018,GAS,Greensville County Power Station,19876,36.718236,-77.649559,VA,51,081,SERC,SRVC,GAS,1773.3,1,1,51081,0.57245646895669,19.1998335974377
+59913,NG,ST01,OP,CA,663.9,0,2018,GAS,Greensville County Power Station,19876,36.718236,-77.649559,VA,51,081,SERC,SRVC,GAS,1773.3,1,1,51081,0.57245646895669,19.1998335974377

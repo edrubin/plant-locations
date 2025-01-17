@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7135,WAT,1,OP,HY,10.8,54265,1993,HYDRO,Whillock,814,35.127591,-92.790273,AR,05,029,SERC,SRMV,HYDRO,32.4,0,1,05029,6.09576893497689,150.299319485079
+7135,WAT,2,OP,HY,10.8,54265,1993,HYDRO,Whillock,814,35.127591,-92.790273,AR,05,029,SERC,SRMV,HYDRO,32.4,0,1,05029,6.09576893497689,150.299319485079
+7135,WAT,3,OP,HY,10.8,54265,1993,HYDRO,Whillock,814,35.127591,-92.790273,AR,05,029,SERC,SRMV,HYDRO,32.4,0,1,05029,6.09576893497689,150.299319485079

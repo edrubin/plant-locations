@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60252,SUN,SWASH,OP,PV,4,5057,2016,SOLAR,IMPA Washington Solar Park,20139,38.653455,-87.209215,IN,18,027,RFC,RFCW,SOLAR,4,0,1,18027,2.6024122028714,26.72692904971

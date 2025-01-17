@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61406,SUN,ESSEX,OP,PV,20,37917,2017,SOLAR,Essex Solar Center,19876,37.834094,-76.799967,VA,51,057,SERC,SRVC,SOLAR,20,0,1,51057,4.35426737971937,32.8285248836504

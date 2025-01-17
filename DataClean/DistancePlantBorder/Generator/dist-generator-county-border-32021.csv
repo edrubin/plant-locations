@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58533,GEO,1,OP,BT,22.5,168039,2014,GEOTHERMAL,Don A Campbell 1 Geothermal,13407,38.836667,-118.323889,NV,32,021,WECC,AZNM,GEOTHERMAL,22.5,0,1,32021,14.3616851964892,83.3379337117012
+60419,GEO,DAC2G,OP,BT,25,158933,2015,GEOTHERMAL,Don A Campbell 2 Geothermal,13407,38.835836,-118.325339,NV,32,021,WECC,AZNM,GEOTHERMAL,25,1,1,32021,14.5174619730123,83.1857175529196
+61084,SUN,LNING,OP,PV,50,129358,2017,SOLAR,Luning Energy,17166,38.546947,-118.19156,NV,32,021,WECC,NWPP,SOLAR,50,1,1,32021,27.1896955771228,67.268627848577

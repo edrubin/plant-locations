@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56108,NG,U-1,OP,GT,50.4,8916,2005,GAS,T J Labbe Electric Generating Station,9096,30.2554,-92.0433,LA,22,055,SERC,SPSO,GAS,100.8,1,1,22055,6.41147899920559,80.1094109310282
+56108,NG,U-2,OP,GT,50.4,8916,2005,GAS,T J Labbe Electric Generating Station,9096,30.2554,-92.0433,LA,22,055,SERC,SPSO,GAS,100.8,1,1,22055,6.41147899920559,80.1094109310282
+56283,NG,U-1,OP,GT,50.4,14725.5,2006,GAS,Hargis-Hebert Electric Generating Statio,9096,30.1694,-91.9923,LA,22,055,SERC,SPSO,GAS,100.8,1,1,22055,1.822736295421,71.1753598031451
+56283,NG,U-2,OP,GT,50.4,14725.5,2006,GAS,Hargis-Hebert Electric Generating Statio,9096,30.1694,-91.9923,LA,22,055,SERC,SPSO,GAS,100.8,1,1,22055,1.822736295421,71.1753598031451

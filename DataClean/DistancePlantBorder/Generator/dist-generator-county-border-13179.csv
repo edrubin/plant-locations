@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54281,BLQ,577A,OP,ST,14.5,113516.92,1968,BIOMASS,Interstate Paper LLC Riceboro,7140,31.741629,-81.407856,GA,13,179,SERC,SRSO,BIOMASS,14.5,0,1,13179,7.59314088152918,33.405407666738
+59865,SUN,1,OP,PV,30,52716,2016,SOLAR,Fort Stewart Solar Facility,7140,31.90474,-81.595373,GA,13,179,SERC,SRSO,SOLAR,30,1,1,13179,6.74251375235327,50.9512557806942

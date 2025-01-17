@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3338,NG,2,OP,GT,82.2,27158.584,2013,GAS,Aberdeen Generating Station,13809,45.429884,-98.49396,SD,46,013,MRO,MROW,GAS,111,1,1,46013,17.8513086739129,56.3358197157627
+3338,DFO,GT1,OP,GT,28.8,9515.416,1978,OIL,Aberdeen Generating Station,13809,45.429884,-98.49396,SD,46,013,MRO,MROW,GAS,111,1,1,46013,17.8513086739129,56.3358197157627
+56238,NG,GT01,OP,GT,93.5,60567.167,2006,GAS,Groton Generating Station,1307,45.3735,-98.098689,SD,46,013,MRO,MROW,GAS,188.5,1,1,46013,9.23685971794312,62.4898831343112
+56238,NG,GT02,OP,GT,95,61538.833,2008,GAS,Groton Generating Station,1307,45.3735,-98.098689,SD,46,013,MRO,MROW,GAS,188.5,1,1,46013,9.23685971794312,62.4898831343112

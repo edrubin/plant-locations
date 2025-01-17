@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10610,BLQ,GEN1,OP,ST,49.3,266784,1968,BIOMASS,Georgia-Pacific Monticello Paper,17647,31.6285,-90.0809,MS,28,077,SERC,SRSO,BIOMASS,81.5,1,1,28077,10.0467967404343,69.5913300185215
+10610,BLQ,GEN2,OP,ST,32.2,237984,1968,BIOMASS,Georgia-Pacific Monticello Paper,17647,31.6285,-90.0809,MS,28,077,SERC,SRSO,BIOMASS,81.5,1,1,28077,10.0467967404343,69.5913300185215

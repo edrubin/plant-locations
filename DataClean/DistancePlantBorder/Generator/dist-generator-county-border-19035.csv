@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54793,WND,2,OP,WT,0.7,1185.612,1999,WIND,Storm Lake 1,12341,42.6878,-95.405,IA,19,021,MRO,MROW,WIND,113.9,0,1,19021,1.40093341605364,83.9693563300009
+54793,WND,3,OP,WT,0.7,1185.612,1999,WIND,Storm Lake 1,12341,42.6878,-95.405,IA,19,021,MRO,MROW,WIND,113.9,0,1,19021,1.40093341605364,83.9693563300009
+54793,WND,EXIS,OP,WT,112.5,190544.776,1999,WIND,Storm Lake 1,12341,42.6878,-95.405,IA,19,021,MRO,MROW,WIND,113.9,1,1,19021,1.40093341605364,83.9693563300009
+55287,WND,EXIS,OP,WT,80.2,134257,1999,WIND,Storm Lake II,56161,42.8417,-95.405,IA,19,021,MRO,MROW,WIND,80.2,1,1,19021,1.3947603526502,73.1614855523439

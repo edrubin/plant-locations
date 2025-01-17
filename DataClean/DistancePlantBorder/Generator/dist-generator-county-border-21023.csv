@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56872,WAT,1,OP,HY,35,142837,2016,HYDRO,Meldahl Hydroelectric Project,7977,38.791431,-84.172982,KY,21,023,SERC,SRTV,HYDRO,105,1,1,21023,0.669275529694863,0.669275529694863
+56872,WAT,2,OP,HY,35,142837,2016,HYDRO,Meldahl Hydroelectric Project,7977,38.791431,-84.172982,KY,21,023,SERC,SRTV,HYDRO,105,1,1,21023,0.669275529694863,0.669275529694863
+56872,WAT,3,OP,HY,35,142837,2016,HYDRO,Meldahl Hydroelectric Project,7977,38.791431,-84.172982,KY,21,023,SERC,SRTV,HYDRO,105,1,1,21023,0.669275529694863,0.669275529694863

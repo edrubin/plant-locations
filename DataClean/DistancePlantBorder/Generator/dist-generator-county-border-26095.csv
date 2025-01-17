@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1846,DFO,1,OP,IC,3,26.182,1974,OIL,Newberry,13525,46.351975,-85.506408,MI,26,095,RFC,RFCW,OIL,5.5,0,1,26095,11.8126009389437,65.1269763762467
+1846,DFO,2,OP,IC,0.7,6.109,1948,OIL,Newberry,13525,46.351975,-85.506408,MI,26,095,RFC,RFCW,OIL,5.5,0,1,26095,11.8126009389437,65.1269763762467
+1846,DFO,4,OP,IC,1.8,15.709,1988,OIL,Newberry,13525,46.351975,-85.506408,MI,26,095,RFC,RFCW,OIL,5.5,0,1,26095,11.8126009389437,65.1269763762467

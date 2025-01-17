@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55220,NG,A01,OP,CT,176.6,727663,2001,GAS,Attala Generating Plant,12685,33.0147,-89.6753,MS,28,007,SERC,SRMV,GAS,551.3,1,1,28007,9.38305061082592,124.440465804793
+55220,NG,A02,OP,CT,176.6,710388,2001,GAS,Attala Generating Plant,12685,33.0147,-89.6753,MS,28,007,SERC,SRMV,GAS,551.3,1,1,28007,9.38305061082592,124.440465804793
+55220,NG,A03,OP,CA,198.1,766137,2001,GAS,Attala Generating Plant,12685,33.0147,-89.6753,MS,28,007,SERC,SRMV,GAS,551.3,1,1,28007,9.38305061082592,124.440465804793

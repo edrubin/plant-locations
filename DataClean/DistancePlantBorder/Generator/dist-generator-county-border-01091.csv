@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54763,BLQ,2TG,OP,ST,12.5,70906.958,1982,BIOMASS,Rock-Tenn Mill,195,32.4541,-87.9759,AL,01,091,SERC,SRSO,BIOMASS,84,0,1,01091,0.341595811108783,39.9962824061597
+54763,BLQ,4TG,OP,ST,42.5,221153.66,2014,BIOMASS,Rock-Tenn Mill,195,32.4541,-87.9759,AL,01,091,SERC,SRSO,BIOMASS,84,1,1,01091,0.341595811108783,39.9962824061597
+54763,BLQ,3TG,RE,ST,19,,2003,BIOMASS,Rock-Tenn Mill,195,32.4541,-87.9759,AL,01,091,SERC,SRSO,BIOMASS,84,0,0,01091,0.341595811108783,39.9962824061597
+54763,BLQ,ITG,RE,ST,10,,1957,BIOMASS,Rock-Tenn Mill,195,32.4541,-87.9759,AL,01,091,SERC,SRSO,BIOMASS,84,0,0,01091,0.341595811108783,39.9962824061597

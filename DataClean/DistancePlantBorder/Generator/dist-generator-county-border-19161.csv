@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56251,WND,INWF,OP,WT,160.5,446509.171,2004,WIND,Intrepid,12341,42.5539,-95.3283,IA,19,021,MRO,MROW,WIND,175.5,1,1,19021,0.782696818986268,87.1734262863124
+56251,WND,INWF2,OP,WT,15,41729.829,2005,WIND,Intrepid,12341,42.5539,-95.3283,IA,19,021,MRO,MROW,WIND,175.5,0,1,19021,0.782696818986268,87.1734262863124

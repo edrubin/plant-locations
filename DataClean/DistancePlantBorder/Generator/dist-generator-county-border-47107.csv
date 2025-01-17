@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50956,BLQ,GEN1,OP,ST,19,104454.71,1954,BIOMASS,Resolute Forest Products - Calhoun Ops,18642,35.2964,-84.7569,TN,47,107,SERC,SRTV,COAL,63.2,0,1,47107,0.338165805531538,34.2100536792463
+50956,BLQ,GEN2,OP,ST,19.2,109800.7,1954,BIOMASS,Resolute Forest Products - Calhoun Ops,18642,35.2964,-84.7569,TN,47,107,SERC,SRTV,COAL,63.2,0,1,47107,0.338165805531538,34.2100536792463
+50956,BLQ,GEN3,OP,ST,25,111042.37,1957,BIOMASS,Resolute Forest Products - Calhoun Ops,18642,35.2964,-84.7569,TN,47,107,SERC,SRTV,COAL,63.2,1,1,47107,0.338165805531538,34.2100536792463

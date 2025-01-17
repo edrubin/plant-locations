@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60263,OBG,GEN1,OP,IC,0.8,6150.5,2015,BIOMASS,Durham AWTF,15248,45.400524,-122.765822,OR,41,067,WECC,NWPP,BIOMASS,1.6,0,1,41067,1.71547112552144,25.1103184206834
+60263,OBG,GEN2,OP,IC,0.8,6150.5,2015,BIOMASS,Durham AWTF,15248,45.400524,-122.765822,OR,41,067,WECC,NWPP,BIOMASS,1.6,0,1,41067,1.71547112552144,25.1103184206834

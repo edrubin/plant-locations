@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58773,WND,GEN1,OP,WT,200,784380,2014,WIND,TX Hereford Wind,17008,34.748056,-102.174444,TX,48,117,TRE,ERCT,WIND,200,1,1,48117,0.154571182008525,79.5422410856517

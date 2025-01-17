@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7763,NG,1,OP,GT,60.5,94962,2001,GAS,Henry County Generating Station,15470,39.9528,-85.5039,IN,18,065,RFC,RFCW,GAS,181.5,1,1,18065,6.19029891562615,59.130268029874
+7763,NG,2,OP,GT,60.5,94962,2001,GAS,Henry County Generating Station,15470,39.9528,-85.5039,IN,18,065,RFC,RFCW,GAS,181.5,1,1,18065,6.19029891562615,59.130268029874
+7763,NG,3,OP,GT,60.5,94962,2001,GAS,Henry County Generating Station,15470,39.9528,-85.5039,IN,18,065,RFC,RFCW,GAS,181.5,1,1,18065,6.19029891562615,59.130268029874
+59981,SUN,PV1,OP,PV,1.1,1703,2016,SOLAR,New Castle Solar RES,8466,39.854126,-85.403423,IN,18,065,RFC,RFCW,SOLAR,1.1,0,1,18065,7.42081653686286,50.4734618295585

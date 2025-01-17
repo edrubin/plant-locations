@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10305,MSW,GEN1,OP,ST,9.2,23387,1987,BIOMASS,Dutchess Cnty Resource Recovery Facility,3249,41.647,-73.943,NY,36,027,NPCC,NYUP,BIOMASS,9.2,0,1,36027,0.477647051811186,35.2317686286272
+54573,WAT,1,OP,HY,1,5370.5,1988,HYDRO,Wappinger Falls Hydroelectric,3249,41.598395,-73.922036,NY,36,027,NPCC,NYUP,HYDRO,2,0,1,36027,2.54583694567601,33.1421084586899
+54573,WAT,2,SB,HY,1,5370.5,1988,HYDRO,Wappinger Falls Hydroelectric,3249,41.598395,-73.922036,NY,36,027,NPCC,NYUP,HYDRO,2,0,1,36027,2.54583694567601,33.1421084586899
+59789,SUN,PV1,OP,PV,1.4,1814,2015,SOLAR,Millbrook School,3249,41.84581,-73.619485,NY,36,027,NPCC,NYUP,SOLAR,1.4,0,1,36027,9.63318562678661,9.63318562678661
+61922,SUN,BEACO,OP,PV,2,1525,2018,SOLAR,Sunlight Beacon,3249,41.494632,-73.981635,NY,36,027,NPCC,NYUP,SOLAR,2,0,1,36027,1.15451938809243,37.4050636010479

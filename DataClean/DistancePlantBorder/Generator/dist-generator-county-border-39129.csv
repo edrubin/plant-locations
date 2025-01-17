@@ -1,0 +1,7 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55247,NG,GT1,OP,GT,94,18108.5,2001,GAS,Darby Electric Generating Station,14006,39.7139,-83.1778,OH,39,129,RFC,RFCW,GAS,564,1,1,39129,6.27152888912439,109.04511159493
+55247,NG,GT2,OP,GT,94,18108.5,2001,GAS,Darby Electric Generating Station,14006,39.7139,-83.1778,OH,39,129,RFC,RFCW,GAS,564,1,1,39129,6.27152888912439,109.04511159493
+55247,NG,GT3,OP,GT,94,18108.5,2001,GAS,Darby Electric Generating Station,14006,39.7139,-83.1778,OH,39,129,RFC,RFCW,GAS,564,1,1,39129,6.27152888912439,109.04511159493
+55247,NG,GT4,OP,GT,94,18108.5,2001,GAS,Darby Electric Generating Station,14006,39.7139,-83.1778,OH,39,129,RFC,RFCW,GAS,564,1,1,39129,6.27152888912439,109.04511159493
+55247,NG,GT5,OP,GT,94,18108.5,2002,GAS,Darby Electric Generating Station,14006,39.7139,-83.1778,OH,39,129,RFC,RFCW,GAS,564,1,1,39129,6.27152888912439,109.04511159493
+55247,NG,GT6,OP,GT,94,18108.5,2002,GAS,Darby Electric Generating Station,14006,39.7139,-83.1778,OH,39,129,RFC,RFCW,GAS,564,1,1,39129,6.27152888912439,109.04511159493

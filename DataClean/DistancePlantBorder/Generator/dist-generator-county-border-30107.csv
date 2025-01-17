@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56377,WND,1,OP,WT,135,429673,2005,WIND,Judith Gap Wind Energy Center,12825,46.5725,-109.7531,MT,30,107,WECC,NWPP,WIND,135,1,1,30107,13.466031843839,174.46098215069
+57963,WND,MS01,OP,WT,10,18209,2012,WIND,Musselshell Wind Project,12825,46.275278,-109.482778,MT,30,107,WECC,NWPP,WIND,10,0,1,30107,6.15286682746033,141.232503591491
+57965,WND,MS02,OP,WT,10,22400,2012,WIND,Musselshell Wind Project Two LLC,12825,46.275278,-109.482778,MT,30,107,WECC,NWPP,WIND,10,0,1,30107,6.15286682746033,141.232503591491
+59003,WND,1,OP,WT,9.7,14374,2014,WIND,Two Dot Wind Farm,12825,46.449444,-110.087222,MT,30,107,WECC,NWPP,WIND,9.7,0,1,30107,14.9025332488949,160.652771998691

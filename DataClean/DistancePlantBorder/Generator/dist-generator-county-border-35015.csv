@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57740,SUN,1,OP,PV,10.1,19968,2011,SOLAR,SPS5 Hopi,17718,32.345556,-104.234722,NM,35,015,WECC,SPSO,SOLAR,10.1,0,1,35015,38.3005186725045,38.3005186725045

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50463,NG,GEN1,OP,GT,53.6,397229.782,1985,GAS,Procter & Gamble Paper Products,14711,41.574259,-76.043233,PA,42,131,RFC,RFCE,GAS,120.2,1,1,42131,7.78576595707768,47.1529555066731
+50463,NG,GEN2,OA,ST,2.6,1510,1984,GAS,Procter & Gamble Paper Products,14711,41.574259,-76.043233,PA,42,131,RFC,RFCE,GAS,120.2,0,0,42131,7.78576595707768,47.1529555066731
+50463,NG,GEN3,OP,GT,64,474304.218,2013,GAS,Procter & Gamble Paper Products,14711,41.574259,-76.043233,PA,42,131,RFC,RFCE,GAS,120.2,1,1,42131,7.78576595707768,47.1529555066731
+57769,WND,1,OP,WT,140.8,370503,2012,WIND,Mehoopany Wind Energy LLC,14711,41.420556,-76.049167,PA,42,131,RFC,RFCE,WIND,140.8,1,1,42131,4.18163486449179,64.2140556243966

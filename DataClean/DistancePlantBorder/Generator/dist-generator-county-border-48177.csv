@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3583,WAT,1,OP,HY,2.4,7031,1931,HYDRO,H 4,7752,29.495193,-97.624948,TX,48,177,TRE,ERCT,HYDRO,2.4,0,1,48177,10.1216929314911,176.707217942972
+3584,WAT,1,OP,HY,2.4,0,1931,HYDRO,H 5,7752,29.4681,-97.4919,TX,48,177,TRE,ERCT,HYDRO,2.4,0,1,48177,20.736729513626,166.990341982474

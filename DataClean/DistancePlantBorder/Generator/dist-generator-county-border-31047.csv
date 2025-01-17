@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61467,SUN,LXNE1,OP,PV,3.5,6670,2017,SOLAR,City of Lexington,10967,40.757,-99.734,NE,31,047,MRO,MROW,SOLAR,3.5,0,1,31047,6.32831337813197,83.8296606230057

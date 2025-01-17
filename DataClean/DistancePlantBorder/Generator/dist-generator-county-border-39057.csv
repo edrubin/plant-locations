@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58386,SUN,CU,OP,PV,1.8,2202,2013,SOLAR,CU Solar Plant,4922,39.741944,-83.816944,OH,39,057,RFC,RFCW,SOLAR,1.8,0,1,39057,6.00785666624946,85.5416881328249

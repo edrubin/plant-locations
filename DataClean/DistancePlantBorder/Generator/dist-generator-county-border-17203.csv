@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57284,WND,1,OP,WT,200,611397,2012,WIND,Minonk Wind Farm,4110,40.888611,-88.997222,IL,17,203,RFC,RFCW,WIND,200,1,1,17203,4.2390026251763,123.917452962071

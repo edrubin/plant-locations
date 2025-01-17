@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55651,NG,CT01,OP,GT,84.5,50321.25,2001,GAS,Spring Creek Power Plant,22500,35.7422,-97.655,OK,40,083,MRO,SPNO,GAS,338,1,1,40083,1.72037583528645,139.401010994371
+55651,NG,CT02,OP,GT,84.5,50321.25,2001,GAS,Spring Creek Power Plant,22500,35.7422,-97.655,OK,40,083,MRO,SPNO,GAS,338,1,1,40083,1.72037583528645,139.401010994371
+55651,NG,CT03,OP,GT,84.5,50321.25,2001,GAS,Spring Creek Power Plant,22500,35.7422,-97.655,OK,40,083,MRO,SPNO,GAS,338,1,1,40083,1.72037583528645,139.401010994371
+55651,NG,CT04,OP,GT,84.5,50321.25,2001,GAS,Spring Creek Power Plant,22500,35.7422,-97.655,OK,40,083,MRO,SPNO,GAS,338,1,1,40083,1.72037583528645,139.401010994371

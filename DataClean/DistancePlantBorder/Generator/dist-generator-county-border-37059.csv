@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58313,SUN,1,OP,PV,5,8690,2012,SOLAR,Mocksville Farm,3046,35.878611,-80.541944,NC,37,059,SERC,SRVC,SOLAR,5,0,1,37059,6.8388648603506,74.9432273599647
+59126,SUN,1,OP,PV,5,8605,2014,SOLAR,Daniel Farm LLC,5416,35.848889,-80.553611,NC,37,059,SERC,SRVC,SOLAR,5,0,1,37059,3.89744061777006,78.2942085767296
+59217,SUN,PV1,OP,PV,5,9174,2016,SOLAR,Tiburon Holdings,5416,35.903333,-80.416944,NC,37,059,SERC,SRVC,SOLAR,5,0,1,37059,1.53294144440551,71.5736341004313
+59570,SUN,PV1,OP,PV,15.4,25729,2016,SOLAR,Mocksville Solar,5416,35.833889,-80.574444,NC,37,059,SERC,SRVC,SOLAR,15.4,0,1,37059,1.54167609439698,80.0626200418098

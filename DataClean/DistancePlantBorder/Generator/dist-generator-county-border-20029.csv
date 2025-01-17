@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56784,WND,1,OP,WT,105,296954.627,2008,WIND,Cloud County Wind Farm,13799,39.4375,-97.6644,KS,20,029,MRO,SPNO,WIND,201,1,1,20029,14.5259219531257,62.6733850142828
+56784,WND,2,OP,WT,96,271501.373,2008,WIND,Cloud County Wind Farm,13799,39.4375,-97.6644,KS,20,029,MRO,SPNO,WIND,201,1,1,20029,14.5259219531257,62.6733850142828

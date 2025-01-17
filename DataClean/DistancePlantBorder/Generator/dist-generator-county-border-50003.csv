@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6529,WAT,GEN1,OP,HY,4,23189,1922,HYDRO,Searsburg,7601,42.87084,-72.92732,VT,50,003,NPCC,NEWE,HYDRO,4,0,1,50003,0.259009839137615,14.6139451443213
+7381,WND,1,OP,WT,6,12290,1997,WIND,Searsburg Wind Turbine,7601,42.8625,-72.9628,VT,50,003,NPCC,NEWE,WIND,6,0,1,50003,3.12561418572565,13.6115999250971
+58144,SUN,SVEP1,OP,PV,2,2242,2012,SOLAR,SVEP Solar Project Company,7601,42.753611,-73.226111,VT,50,003,NPCC,NEWE,SOLAR,2,0,1,50003,0.942358776356151,0.942358776356151
+61039,WND,WT1,OP,WT,30,89116,2017,WIND,Deerfield Wind LLC,7601,42.877215,-72.993721,VT,50,003,NPCC,NEWE,WIND,30,1,1,50003,5.69415163512727,15.1829077390908

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2196,DFO,1,SB,IC,1,79.5,1979,OIL,Old Faithful,12825,44.4533,-110.8347,WY,56,039,WECC,NWPP,OIL,2,0,1,56039,17.0540719727225,17.0540719727225
+2196,DFO,2,SB,IC,1,79.5,1979,OIL,Old Faithful,12825,44.4533,-110.8347,WY,56,039,WECC,NWPP,OIL,2,0,1,56039,17.0540719727225,17.0540719727225
+7039,DFO,1,SB,IC,2.7,38,1967,OIL,Lake (WY),12825,44.415,-110.5739,WY,56,039,WECC,NWPP,OIL,2.7,0,1,56039,18.6316131239141,37.8434045761234

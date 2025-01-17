@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+166,WAT,1,OP,HY,28,62038.5,1932,HYDRO,Carpenter,814,34.4425,-93.0262,AR,05,051,SERC,SRMV,HYDRO,56,1,1,05051,5.78382177436671,131.936164703393
+166,WAT,2,OP,HY,28,62038.5,1932,HYDRO,Carpenter,814,34.4425,-93.0262,AR,05,051,SERC,SRMV,HYDRO,56,1,1,05051,5.78382177436671,131.936164703393
+197,WAT,1,OP,HY,37.5,91480.5,1955,HYDRO,Blakely Mountain,814,34.570984,-93.194425,AR,05,051,SERC,SRMV,HYDRO,75,1,1,05051,19.2220944469408,115.987713093697
+197,WAT,2,OP,HY,37.5,91480.5,1955,HYDRO,Blakely Mountain,814,34.570984,-93.194425,AR,05,051,SERC,SRMV,HYDRO,75,1,1,05051,19.2220944469408,115.987713093697

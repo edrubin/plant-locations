@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56505,NG,SN01,OP,GT,24.5,5459.251,1999,GAS,City Water & Light - City of Jonesboro,9879,35.848561,-90.725377,AR,05,031,SERC,SPSO,GAS,224.3,0,1,05031,13.1162024730014,35.3628144511903
+56505,NG,SN02,OP,GT,21.4,4768.489,1999,GAS,City Water & Light - City of Jonesboro,9879,35.848561,-90.725377,AR,05,031,SERC,SPSO,GAS,224.3,0,1,05031,13.1162024730014,35.3628144511903
+56505,NG,SN04,OP,GT,60.5,13481.008,2000,GAS,City Water & Light - City of Jonesboro,9879,35.848561,-90.725377,AR,05,031,SERC,SPSO,GAS,224.3,1,1,05031,13.1162024730014,35.3628144511903
+56505,NG,SN06,OP,GT,57.4,12790.245,2003,GAS,City Water & Light - City of Jonesboro,9879,35.848561,-90.725377,AR,05,031,SERC,SPSO,GAS,224.3,1,1,05031,13.1162024730014,35.3628144511903
+56505,NG,SN07,OP,GT,60.5,13481.008,2007,GAS,City Water & Light - City of Jonesboro,9879,35.848561,-90.725377,AR,05,031,SERC,SPSO,GAS,224.3,1,1,05031,13.1162024730014,35.3628144511903

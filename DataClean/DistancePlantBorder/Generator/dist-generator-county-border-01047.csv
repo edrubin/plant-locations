@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54096,BLQ,GEN1,OP,ST,11.6,55007,1967,BIOMASS,International Paper-Riverdale Mill,195,32.426016,-86.870912,AL,01,047,SERC,SRSO,GAS,104.2,0,1,01047,1.34796435964565,143.566333218243
+54096,BLQ,GEN2,OP,ST,37.4,243060,1985,BIOMASS,International Paper-Riverdale Mill,195,32.426016,-86.870912,AL,01,047,SERC,SRSO,GAS,104.2,1,1,01047,1.34796435964565,143.566333218243
+54096,NG,GEN3,OP,CA,17,62566,1994,GAS,International Paper-Riverdale Mill,195,32.426016,-86.870912,AL,01,047,SERC,SRSO,GAS,104.2,0,1,01047,1.34796435964565,143.566333218243
+54096,NG,GEN4,SB,CT,38.2,244574,1994,GAS,International Paper-Riverdale Mill,195,32.426016,-86.870912,AL,01,047,SERC,SRSO,GAS,104.2,1,1,01047,1.34796435964565,143.566333218243

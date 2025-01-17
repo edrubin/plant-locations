@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2188,WAT,KER1,OP,HY,70.6,331819.32,1938,HYDRO,Selis Ksanka Qlispe,12825,47.6777,-114.2339,MT,30,047,WECC,NWPP,HYDRO,207.6,1,1,30047,11.2514621478931,93.9160777359523
+2188,WAT,KER2,OP,HY,50.4,236879.514,1949,HYDRO,Selis Ksanka Qlispe,12825,47.6777,-114.2339,MT,30,047,WECC,NWPP,HYDRO,207.6,1,1,30047,11.2514621478931,93.9160777359523
+2188,WAT,KER3,OP,HY,86.6,407019.166,1954,HYDRO,Selis Ksanka Qlispe,12825,47.6777,-114.2339,MT,30,047,WECC,NWPP,HYDRO,207.6,1,1,30047,11.2514621478931,93.9160777359523

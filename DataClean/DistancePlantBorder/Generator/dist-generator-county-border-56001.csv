@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57039,WND,1,OP,WT,28.5,100324,2009,WIND,McFadden Ridge,14354,41.7244,-105.9906,WY,56,001,WECC,NWPP,WIND,28.5,1,1,56001,6.84944418994545,80.734137723865
+57040,WND,1,OP,WT,99,327035,2009,WIND,High Plains,14354,41.675052,-106.011124,WY,56,001,WECC,NWPP,WIND,99,1,1,56001,5.09762108057336,75.2554131837291

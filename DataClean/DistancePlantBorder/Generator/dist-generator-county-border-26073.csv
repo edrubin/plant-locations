@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56190,NG,GT1,OP,GT,3.8,26814,1990,GAS,Central Michigan University,4254,43.590456,-84.779,MI,26,073,RFC,RFCM,GAS,4.8,0,1,26073,13.7962218149592,187.966165429632
+56190,NG,STM1,OP,ST,1,3692.79,1987,GAS,Central Michigan University,4254,43.590456,-84.779,MI,26,073,RFC,RFCM,GAS,4.8,0,1,26073,13.7962218149592,187.966165429632

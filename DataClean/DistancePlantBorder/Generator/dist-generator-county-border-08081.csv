@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6021,SUB,1,OP,ST,446.4,2656155,1980,COAL,Craig,30151,40.4627,-107.5912,CO,08,081,WECC,RMPA,COAL,1427.6,1,1,08081,13.7919065400156,59.9486360240123
+6021,SUB,2,OP,ST,446.4,2877335,1979,COAL,Craig,30151,40.4627,-107.5912,CO,08,081,WECC,RMPA,COAL,1427.6,1,1,08081,13.7919065400156,59.9486360240123
+6021,SUB,3,OP,ST,534.8,1809342,1984,COAL,Craig,30151,40.4627,-107.5912,CO,08,081,WECC,RMPA,COAL,1427.6,1,1,08081,13.7919065400156,59.9486360240123

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1716,WAT,1,OP,HY,1.7,5703.75,1922,HYDRO,Rogers,4254,43.613001,-85.479469,MI,26,107,RFC,RFCM,HYDRO,6.8,0,1,26107,6.69969959548878,132.009713109545
+1716,WAT,2,OP,HY,1.7,5703.75,1922,HYDRO,Rogers,4254,43.613001,-85.479469,MI,26,107,RFC,RFCM,HYDRO,6.8,0,1,26107,6.69969959548878,132.009713109545
+1716,WAT,3,OP,HY,1.7,5703.75,1922,HYDRO,Rogers,4254,43.613001,-85.479469,MI,26,107,RFC,RFCM,HYDRO,6.8,0,1,26107,6.69969959548878,132.009713109545
+1716,WAT,4,OP,HY,1.7,5703.75,1922,HYDRO,Rogers,4254,43.613001,-85.479469,MI,26,107,RFC,RFCM,HYDRO,6.8,0,1,26107,6.69969959548878,132.009713109545

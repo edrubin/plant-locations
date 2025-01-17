@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61145,LFG,GM01,OP,IC,1.6,8879.333,2017,BIOMASS,Brown County LFGTE Power Station,3542,38.895,-83.903,OH,39,015,RFC,RFCW,BIOMASS,4.8,0,1,39015,11.5564302973142,12.8225189748845
+61145,LFG,GM02,OP,IC,1.6,8879.333,2017,BIOMASS,Brown County LFGTE Power Station,3542,38.895,-83.903,OH,39,015,RFC,RFCW,BIOMASS,4.8,0,1,39015,11.5564302973142,12.8225189748845
+61145,LFG,GM03,OP,IC,1.6,8879.333,2017,BIOMASS,Brown County LFGTE Power Station,3542,38.895,-83.903,OH,39,015,RFC,RFCW,BIOMASS,4.8,0,1,39015,11.5564302973142,12.8225189748845

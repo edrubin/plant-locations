@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3147,DFO,CTG,OP,GT,18.5,37,1969,OIL,TalenEnergy Martins Creek LLC Lock Haven,14715,41.1189,-77.4709,PA,42,081,RFC,RFCE,OIL,18.5,0,1,42081,10.0537373113257,97.8783046278491

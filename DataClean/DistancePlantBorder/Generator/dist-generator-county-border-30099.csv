@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57690,WAT,1,OP,HY,5.3,12967.469,2011,HYDRO,Turnbull Hydro,12825,47.605278,-112.096944,MT,30,099,WECC,NWPP,HYDRO,13,0,1,30099,9.96079671473516,154.898369797655
+57690,WAT,2,OP,HY,7.7,18839.531,2011,HYDRO,Turnbull Hydro,12825,47.605278,-112.096944,MT,30,099,WECC,NWPP,HYDRO,13,0,1,30099,9.96079671473516,154.898369797655
+58966,WND,T 1-6,OP,WT,10,27581,2014,WIND,Fairfield Wind,18401,47.723333,-111.965278,MT,30,099,WECC,NWPP,WIND,10,0,1,30099,12.8588636774996,141.752818778742
+60486,WND,1,OP,WT,25,79995,2016,WIND,Greenfield Wind - MT,12825,47.723,-111.963,MT,30,099,WECC,NWPP,WIND,25,1,1,30099,12.7816780610974,141.787556724487

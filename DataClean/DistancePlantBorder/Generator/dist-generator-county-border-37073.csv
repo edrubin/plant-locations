@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58673,SUN,GATES,OP,PV,5,9527,2015,SOLAR,Gates Solar LLC,19876,36.450833,-76.803611,NC,37,073,SERC,SRVC,SOLAR,5,0,1,37073,9.06028544762507,11.1162268119827
+59856,SUN,SUN1,OP,PV,5,10736,2015,SOLAR,"SoINCPower6, LLC",19876,36.443,-76.581,NC,37,073,SERC,SRVC,SOLAR,5,0,1,37073,8.51840214201163,11.9506873528434
+60189,SUN,SRS15,OP,PV,5,9743,2015,SOLAR,Sugar Run Solar,19876,36.437752,-76.597825,NC,37,073,SERC,SRVC,SOLAR,5,0,1,37073,9.86753646196941,12.5353413046284

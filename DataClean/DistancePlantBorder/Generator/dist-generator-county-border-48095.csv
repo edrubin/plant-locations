@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61001,WND,WT1,OP,WT,150,201594,2018,WIND,Cactus Flats Wind Energy Project,3278,31.112474,-100.028142,TX,48,095,TRE,ERCT,WIND,150,1,1,48095,2.76091567219733,198.816932002951

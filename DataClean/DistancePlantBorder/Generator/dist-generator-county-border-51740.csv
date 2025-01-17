@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54998,MSW,1410,OP,ST,20,74021,1987,BIOMASS,Wheelabrator Portsmouth,19876,36.8083,-76.3036,VA,51,740,SERC,SRVC,BIOMASS,60,0,1,51740,1.03727703865821,28.5994540233381
+54998,MSW,1420,OP,ST,20,77164,1987,BIOMASS,Wheelabrator Portsmouth,19876,36.8083,-76.3036,VA,51,740,SERC,SRVC,BIOMASS,60,0,1,51740,1.03727703865821,28.5994540233381
+54998,MSW,1430,OP,ST,20,66477,1987,BIOMASS,Wheelabrator Portsmouth,19876,36.8083,-76.3036,VA,51,740,SERC,SRVC,BIOMASS,60,0,1,51740,1.03727703865821,28.5994540233381

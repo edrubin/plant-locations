@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60137,LFG,1,OP,IC,1,5777,2015,BIOMASS,Glasgow LFGTE,5580,36.9874,-85.9575,KY,21,009,SERC,SRTV,BIOMASS,1,0,1,21009,12.701711194614,39.8532225650109

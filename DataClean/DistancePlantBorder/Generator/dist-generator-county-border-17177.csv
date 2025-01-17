@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56805,WND,1,OP,WT,100.5,235418,2009,WIND,EcoGrove Wind LLC,4110,42.451481,-89.878428,IL,17,177,RFC,RFCW,WIND,100.5,1,1,17177,3.8766867766699,6.03002125466395
+58136,NG,S5MW,OP,GT,5,27612,2002,GAS,Adkins Energy LLC,4110,42.362222,-89.803611,IL,17,177,RFC,RFCW,GAS,5,0,1,17177,9.89943228165938,15.9244202556322

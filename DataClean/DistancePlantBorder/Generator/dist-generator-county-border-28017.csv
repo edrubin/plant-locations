@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57408,LFG,GEN1,OP,IC,1.6,12589,2012,BIOMASS,Prairie Bluff,13227,33.954444,-88.9925,MS,28,017,SERC,SRSO,BIOMASS,1.6,0,1,28017,13.3412329453244,70.9118220601606
+60853,SUN,HOUST,OP,PV,3.1,4526,2016,SOLAR,SR Houston,13227,33.926666,-88.997563,MS,28,017,SERC,SRTV,SOLAR,3.1,0,1,28017,12.9786078319046,71.0371091106829

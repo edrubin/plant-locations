@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1564,DFO,10,OP,GT,18.6,1102,1968,OIL,Vienna,5027,38.4878,-75.8208,MD,24,019,RFC,RFCE,OIL,180.6,0,1,24019,0.26272111846904,10.8772321654675
+1564,RFO,8,OP,ST,162,4416,1972,OIL,Vienna,5027,38.4878,-75.8208,MD,24,019,RFC,RFCE,OIL,180.6,1,1,24019,0.26272111846904,10.8772321654675
+59842,SUN,PV1,OP,PV,3.2,5862,2015,SOLAR,CNE at Cambridge MD,3503,38.5158,-76.0192,MD,24,019,RFC,RFCE,SOLAR,3.2,0,1,24019,6.32538476300081,27.9441735732397
+62405,SUN,X0009,OP,PV,2,3570,2018,SOLAR,UMCES Ground Mount,5027,38.583064,-76.13475,MD,24,019,RFC,RFCE,SOLAR,2,0,1,24019,2.38753035610089,37.5021244713079

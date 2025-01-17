@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58588,SUN,SCHS,OP,PV,1,2275,2013,SOLAR,Sue Cleveland High School,15473,35.313333,-106.657778,NM,35,043,WECC,AZNM,SOLAR,1,0,1,35043,10.5846490230474,186.353146639144
+58589,SUN,RRHS,OP,PV,1,2424,2013,SOLAR,Rio Rancho High School,15473,35.264444,-106.667778,NM,35,043,WECC,AZNM,SOLAR,1,0,1,35043,5.15978568986385,191.773716422237
+59558,SUN,SSEC1,OP,PV,6.1,16289,2014,SOLAR,Sandoval Solar Energy Center,15473,35.283611,-106.812778,NM,35,043,WECC,AZNM,SOLAR,6.1,0,1,35043,7.28145336707913,189.604525007988

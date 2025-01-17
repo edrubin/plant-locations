@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60057,SUN,STEEL,OP,PV,2.3,3173,2016,SOLAR,"Steel Bridge Solar, LLC",15248,45.068,-123.47,OR,41,053,WECC,NWPP,SOLAR,2.3,0,1,41053,0.79952226300056,46.350976059061
+61828,SUN,PGRC6,OP,PV,2.2,3743,2017,SOLAR,Valley Creek Solar,15248,45.033,-123.094,OR,41,053,WECC,NWPP,SOLAR,2.2,0,1,41053,1.62256399132654,72.8163497549333
+61835,SUN,PGRC4,OP,PV,2.2,4262,2017,SOLAR,Grand Ronde Solar,15248,45.054,-123.61,OR,41,053,WECC,NWPP,SOLAR,2.2,0,1,41053,2.44794667980756,35.925070341005

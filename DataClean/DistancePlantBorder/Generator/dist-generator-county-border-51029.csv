@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56807,NG,1A,OP,CT,145,2455982,2011,GAS,Bear Garden Generating Station,19876,37.695556,-78.285278,VA,51,029,SERC,SRVC,GAS,559,1,1,51029,0.934280967743704,113.623913683582
+56807,NG,1B,OP,CT,152,0,2011,GAS,Bear Garden Generating Station,19876,37.695556,-78.285278,VA,51,029,SERC,SRVC,GAS,559,1,1,51029,0.934280967743704,113.623913683582
+56807,NG,1C,OP,CA,262,1556772,2011,GAS,Bear Garden Generating Station,19876,37.695556,-78.285278,VA,51,029,SERC,SRVC,GAS,559,1,1,51029,0.934280967743704,113.623913683582
+60917,SUN,PV1,OP,PV,19.8,30511,2017,SOLAR,Buckingham Solar LLC,19876,37.502944,-78.379237,VA,51,029,SERC,SRVC,SOLAR,19.8,0,1,51029,2.42596976362332,106.519260308005

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7754,NG,1,OP,GT,157.8,5494,1999,GAS,Nodaway Power Plant,924,40.2877,-94.7913,MO,29,147,SERC,SRMW,GAS,315.6,1,1,29147,15.9957872142028,31.7042388114675
+7754,NG,2,OP,GT,157.8,5494,1999,GAS,Nodaway Power Plant,924,40.2877,-94.7913,MO,29,147,SERC,SRMW,GAS,315.6,1,1,29147,15.9957872142028,31.7042388114675
+56537,WND,1,OP,WT,50.4,106037,2008,WIND,Conception,924,40.2572,-94.6722,MO,29,147,SERC,SRMW,WIND,50.4,1,1,29147,5.83221227261458,34.9186164259823

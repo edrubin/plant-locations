@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56919,WND,GE15,OP,WT,148.5,480516,2008,WIND,FPL Energy Ashtabula Wind LLC,12658,47.1294,-97.8853,ND,38,003,MRO,MROW,WIND,148.5,1,1,38003,12.3510934993151,79.198458112564
+57032,WND,1,OP,WT,48,151822,2008,WIND,Ashtabula Wind Energy Center,12658,47.1244,-97.8961,ND,38,003,MRO,MROW,WIND,48,1,1,38003,12.9141756771047,80.0620361331644
+57387,WND,GE16,OP,WT,62.4,213682,2010,WIND,Ashtabula Wind III LLC,12658,47.1242,-97.8956,ND,38,003,MRO,MROW,WIND,62.4,1,1,38003,12.9362487068131,80.0251472333717

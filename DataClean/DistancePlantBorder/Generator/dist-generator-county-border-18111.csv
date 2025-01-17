@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58129,NG,GEN1,OP,IC,1.1,5500,2011,GAS,Prairies Edge Generating Facility,9665,41.06058,-87.307136,IN,18,073,RFC,RFCW,GAS,1.1,0,1,18073,2.61935891614736,18.4260689973846

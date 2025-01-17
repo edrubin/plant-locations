@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+4005,WDS,1,OP,ST,15.2,21623,1940,BIOMASS,French Island,13780,43.8292,-91.2597,WI,55,063,MRO,MROW,BIOMASS,188,0,1,55063,1.34715116963263,1.34715116963263
+4005,WDS,2,OP,ST,15.2,32462,1948,BIOMASS,French Island,13780,43.8292,-91.2597,WI,55,063,MRO,MROW,BIOMASS,188,0,1,55063,1.34715116963263,1.34715116963263
+4005,DFO,3,OP,GT,78.8,-107.5,1974,OIL,French Island,13780,43.8292,-91.2597,WI,55,063,MRO,MROW,BIOMASS,188,1,1,55063,1.34715116963263,1.34715116963263
+4005,DFO,4,OP,GT,78.8,-107.5,1974,OIL,French Island,13780,43.8292,-91.2597,WI,55,063,MRO,MROW,BIOMASS,188,1,1,55063,1.34715116963263,1.34715116963263

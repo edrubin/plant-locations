@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6208,WAT,1,OP,PS,100,-47878,1981,HYDRO,Mount Elbert,27000,39.094197,-106.352331,CO,08,065,WECC,RMPA,HYDRO,200,1,1,08065,4.18794504324579,211.466381582587
+6208,WAT,2,OP,PS,100,-47878,1984,HYDRO,Mount Elbert,27000,39.094197,-106.352331,CO,08,065,WECC,RMPA,HYDRO,200,1,1,08065,4.18794504324579,211.466381582587
+50435,WAT,SUG1,OP,HY,2.5,4955,1985,HYDRO,Sugarloaf Hydro Plant,15466,39.252672,-106.374808,CO,08,065,WECC,RMPA,HYDRO,2.5,0,1,08065,8.64250504280667,193.921113527149

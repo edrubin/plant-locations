@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2038,DFO,GT1,OP,GT,25,7234.423,1978,OIL,Cambridge Station,7570,45.601,-93.2081,MN,27,059,MRO,MROW,GAS,194.2,1,1,27059,5.15837440530791,25.0869869181701
+2038,NG,GT2,OP,GT,169.2,48962.577,2007,GAS,Cambridge Station,7570,45.601,-93.2081,MN,27,059,MRO,MROW,GAS,194.2,1,1,27059,5.15837440530791,25.0869869181701
+62062,SUN,PV1,OP,PV,6.6,0,2018,SOLAR,Athens MN CONX,689,45.459021,-93.265706,MN,27,059,MRO,MROW,SOLAR,6.6,0,1,27059,5.03408644419385,32.5169809907028
+62937,MWH,BA,OP,BA,6,,2018,OTHER,Athens BESS,689,45.45,-93.24,MN,27,059,MRO,MROW,OTHF,6,0,1,27059,4.02390232140108,31.1232838642699

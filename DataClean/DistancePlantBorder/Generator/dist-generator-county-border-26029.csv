@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7831,DFO,1,SB,IC,1.2,21.818,2000,OIL,Beaver Island,38084,45.7291,-85.5244,MI,26,029,RFC,RFCM,OIL,3.3,0,1,26029,16.9498207991292,78.8175655455355
+7831,DFO,2,SB,IC,1.2,21.818,2000,OIL,Beaver Island,38084,45.7291,-85.5244,MI,26,029,RFC,RFCM,OIL,3.3,0,1,26029,16.9498207991292,78.8175655455355
+7831,DFO,3,SB,IC,0.9,16.364,2001,OIL,Beaver Island,38084,45.7291,-85.5244,MI,26,029,RFC,RFCM,OIL,3.3,0,1,26029,16.9498207991292,78.8175655455355

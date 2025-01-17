@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54802,BLQ,GEN1,OP,ST,32,257244,1966,BIOMASS,WestRock Coated Board,195,32.1761,-85.0272,AL,01,113,SERC,SRSO,GAS,112.5,1,1,01113,0.843316670189394,0.843316670189394
+54802,BLQ,GEN2,OP,ST,55.5,364040,1990,BIOMASS,WestRock Coated Board,195,32.1761,-85.0272,AL,01,113,SERC,SRSO,GAS,112.5,1,1,01113,0.843316670189394,0.843316670189394
+54802,NG,GEN3,OP,GT,25,174846,1998,GAS,WestRock Coated Board,195,32.1761,-85.0272,AL,01,113,SERC,SRSO,GAS,112.5,1,1,01113,0.843316670189394,0.843316670189394

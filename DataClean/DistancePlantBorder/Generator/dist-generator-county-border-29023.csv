@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7392,DFO,1,OA,IC,7,371.965,1976,OIL,Poplar Bluff Generating Station,15229,36.7597,-90.3903,MO,29,023,SERC,SPSO,OIL,34.1,0,0,29023,16.4732902281937,29.0083748804841
+7392,DFO,2,OP,IC,7,371.965,1976,OIL,Poplar Bluff Generating Station,15229,36.7597,-90.3903,MO,29,023,SERC,SPSO,OIL,34.1,0,1,29023,16.4732902281937,29.0083748804841
+7392,NG,3,OA,IC,6.7,356.023,2002,GAS,Poplar Bluff Generating Station,15229,36.7597,-90.3903,MO,29,023,SERC,SPSO,OIL,34.1,0,0,29023,16.4732902281937,29.0083748804841
+7392,NG,4,OA,IC,6.7,356.023,2002,GAS,Poplar Bluff Generating Station,15229,36.7597,-90.3903,MO,29,023,SERC,SPSO,OIL,34.1,0,0,29023,16.4732902281937,29.0083748804841
+7392,NG,5,OA,IC,6.7,356.023,2002,GAS,Poplar Bluff Generating Station,15229,36.7597,-90.3903,MO,29,023,SERC,SPSO,OIL,34.1,0,0,29023,16.4732902281937,29.0083748804841

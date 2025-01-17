@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7919,DFO,1,OP,IC,1.8,64.667,2001,OIL,Seville,16951,41.0317,-81.8714,OH,39,103,RFC,RFCW,OIL,5.4,0,1,39103,4.75377636019817,84.0771544475892
+7919,DFO,2,OP,IC,1.8,64.667,2001,OIL,Seville,16951,41.0317,-81.8714,OH,39,103,RFC,RFCW,OIL,5.4,0,1,39103,4.75377636019817,84.0771544475892
+7919,DFO,3,OP,IC,1.8,64.667,2001,OIL,Seville,16951,41.0317,-81.8714,OH,39,103,RFC,RFCW,OIL,5.4,0,1,39103,4.75377636019817,84.0771544475892

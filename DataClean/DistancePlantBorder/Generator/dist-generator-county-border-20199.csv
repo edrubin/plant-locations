@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1324,NG,1,OP,IC,1,0,1970,GAS,Sharon Spring,16988,38.890552,-101.751525,KS,20,199,MRO,SPNO,GAS,3,0,1,20199,21.3415726734043,25.5253630380494
+1324,NG,2,OP,IC,1,0,1964,GAS,Sharon Spring,16988,38.890552,-101.751525,KS,20,199,MRO,SPNO,GAS,3,0,1,20199,21.3415726734043,25.5253630380494
+1324,NG,3,OP,IC,0.4,0,1958,GAS,Sharon Spring,16988,38.890552,-101.751525,KS,20,199,MRO,SPNO,GAS,3,0,1,20199,21.3415726734043,25.5253630380494
+1324,NG,4,OP,IC,0.6,0,1951,GAS,Sharon Spring,16988,38.890552,-101.751525,KS,20,199,MRO,SPNO,GAS,3,0,1,20199,21.3415726734043,25.5253630380494

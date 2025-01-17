@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10838,WDS,GEN1,OP,ST,20,134047,1987,BIOMASS,Springfield Power LLC,15472,43.442871,-72.056,NH,33,019,NPCC,NEWE,BIOMASS,20,0,1,33019,0.268341993407721,26.6653355246873
+50285,WAT,0001,OP,HY,0.6,3093,1995,HYDRO,Lower Village Water Power Project,15472,43.374292,-72.347603,NH,33,019,NPCC,NEWE,HYDRO,1.2,0,1,33019,3.95184176678879,3.95184176678879
+50285,WAT,0002,OP,HY,0.6,3093,1995,HYDRO,Lower Village Water Power Project,15472,43.374292,-72.347603,NH,33,019,NPCC,NEWE,HYDRO,1.2,0,1,33019,3.95184176678879,3.95184176678879
+56399,WND,1,OP,WT,24,61638,2008,WIND,Lempster Wind LLC,15472,43.233,-72.1455,NH,33,019,NPCC,NEWE,WIND,24,0,1,33019,5.74307136750698,22.0627482723315

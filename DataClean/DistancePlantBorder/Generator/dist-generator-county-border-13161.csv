@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59535,SUN,HAZLE,OP,PV,20,37459,2015,SOLAR,SR Hazlehurst,16674,31.810278,-82.575,GA,13,161,SERC,SRSO,SOLAR,20,0,1,13161,5.14571397766704,124.102462635402
+60554,SUN,STHLV,OP,PV,52.5,117864,2016,SOLAR,Hazlehurst II,16674,31.819444,-82.602222,GA,13,161,SERC,SRSO,SOLAR,52.5,1,1,13161,7.73000827558162,126.247979599212

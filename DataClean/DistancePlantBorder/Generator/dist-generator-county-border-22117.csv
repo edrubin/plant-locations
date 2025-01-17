@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54427,WDS,NO10,OP,ST,37,150597.13,1999,BIOMASS,Gaylord Container Bogalusa,11241,30.7811,-89.8575,LA,22,117,SERC,SRMV,BIOMASS,99.5,1,1,22117,2.41404125625608,2.41404125625608
+54427,WDS,NO8,OP,ST,25,107979.97,1981,BIOMASS,Gaylord Container Bogalusa,11241,30.7811,-89.8575,LA,22,117,SERC,SRMV,BIOMASS,99.5,1,1,22117,2.41404125625608,2.41404125625608
+54427,WDS,NO9,OP,ST,37.5,252532.01,1979,BIOMASS,Gaylord Container Bogalusa,11241,30.7811,-89.8575,LA,22,117,SERC,SRMV,BIOMASS,99.5,1,1,22117,2.41404125625608,2.41404125625608

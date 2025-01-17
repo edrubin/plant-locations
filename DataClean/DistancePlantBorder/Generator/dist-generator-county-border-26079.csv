@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7984,NG,001,OP,GT,60.5,38368,2002,GAS,Kalkaska CT Project #1,20910,44.6889,-85.2019,MI,26,079,RFC,RFCM,GAS,60.5,1,1,26079,10.4121697665657,102.589616866057

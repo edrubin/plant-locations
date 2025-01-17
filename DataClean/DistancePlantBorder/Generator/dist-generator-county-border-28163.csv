@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2067,NG,2,SB,CA,5,0,1945,GAS,Yazoo,21095,32.8458,-90.4211,MS,28,163,SERC,SRMV,GAS,34.1,0,1,28163,9.00907120223095,59.8316558394495
+2067,NG,3,OP,CA,12.6,0,1954,GAS,Yazoo,21095,32.8458,-90.4211,MS,28,163,SERC,SRMV,GAS,34.1,0,1,28163,9.00907120223095,59.8316558394495
+2067,NG,GT1,OP,CT,16.5,0,1968,GAS,Yazoo,21095,32.8458,-90.4211,MS,28,163,SERC,SRMV,GAS,34.1,0,1,28163,9.00907120223095,59.8316558394495
+10195,NG,EXIS,OP,GT,25,154926,1984,GAS,CF Industries Yazoo City Complex,12685,32.90411,-90.3781,MS,28,163,SERC,SRMV,GAS,25,1,1,28163,7.04688833766864,64.1493563687845

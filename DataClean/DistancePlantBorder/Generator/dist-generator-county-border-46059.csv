@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57045,WND,1,OP,WT,25,75347,2009,WIND,Rolling Thunder Wind Farm,13809,44.477778,-99.133889,SD,46,059,MRO,MROW,WIND,25.8,1,1,46059,13.2561052572534,162.44398581581
+57045,MWH,2,OP,BA,0.8,0,2018,OTHER,Rolling Thunder Wind Farm,13809,44.477778,-99.133889,SD,46,059,MRO,MROW,WIND,25.8,0,1,46059,13.2561052572534,162.44398581581

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2176,NG,GT-2,OP,GT,43,931.924,2003,GAS,Glendive Generating Station,12199,47.0539,-104.74,MT,30,021,MRO,MROW,GAS,83.7,1,1,30021,21.4420918872996,52.7646198387227
+2176,NG,GT1,OP,GT,40.7,882.076,1979,GAS,Glendive Generating Station,12199,47.0539,-104.74,MT,30,021,MRO,MROW,GAS,83.7,1,1,30021,21.4420918872996,52.7646198387227

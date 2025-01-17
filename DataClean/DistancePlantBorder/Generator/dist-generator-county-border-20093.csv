@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7393,NG,LK1,OP,IC,4.4,0,1990,GAS,Lakin Municipal,10628,37.941987,-101.24992,KS,20,093,MRO,SPNO,GAS,4.4,0,1,20093,12.9152036337495,69.8193005427179

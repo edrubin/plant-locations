@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1902,WAT,2,OP,HY,2,10863,1923,HYDRO,Winton,12647,47.9344,-91.7639,MN,27,075,MRO,MROW,HYDRO,4,0,1,27075,2.53833187208113,18.9467392484879
+1902,WAT,3,OP,HY,2,10863,1923,HYDRO,Winton,12647,47.9344,-91.7639,MN,27,075,MRO,MROW,HYDRO,4,0,1,27075,2.53833187208113,18.9467392484879
+10849,SUB,GEN1,OP,ST,50,230574,1955,COAL,Northshore Mining Silver Bay Power,12647,47.286573,-91.260531,MN,27,075,MRO,MROW,COAL,131.6,1,1,27075,23.7067135101889,23.7067135101889
+10849,SUB,GEN2,OP,ST,81.6,125591,1962,COAL,Northshore Mining Silver Bay Power,12647,47.286573,-91.260531,MN,27,075,MRO,MROW,COAL,131.6,1,1,27075,23.7067135101889,23.7067135101889

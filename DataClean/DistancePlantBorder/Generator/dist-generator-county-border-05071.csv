@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61869,SUN,SHS3,OP,PV,5,10497,2017,SOLAR,Scenic Hill Solar III,3705,35.46715,-93.51517,AR,05,071,SERC,SPSO,SOLAR,5,0,1,05071,6.59082436518443,83.5411644857289

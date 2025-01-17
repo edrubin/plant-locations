@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58474,WND,GE1,OP,WT,249.8,918166,2013,WIND,Buffalo Dunes Wind Project,17718,37.620833,-101.076111,KS,20,081,MRO,SPSO,WIND,249.8,1,1,20081,1.26702529680627,69.1358451721235

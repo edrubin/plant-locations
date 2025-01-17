@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60679,SUN,1,OP,PV,10.6,13376,2017,SOLAR,Fort Rucker Solar Array,195,31.331148,-85.73019,AL,01,045,SERC,SRSO,SOLAR,10.6,0,1,01045,5.70173366552204,37.2174910542894

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56093,WND,GE15,OP,WT,144,350158,2003,WIND,TransAlta Wyoming Wind,14354,41.2874,-110.5556,WY,56,041,WECC,NWPP,WIND,144,1,1,56041,32.3131955558045,32.3131955558045
+56752,WND,1,OP,WT,61,4326,2008,WIND,Mountain Wind Power LLC,14354,41.288056,-110.480741,WY,56,041,WECC,NWPP,WIND,61,1,1,56041,32.319998270853,32.555212509677
+56753,WND,1,OP,WT,80,5674,2008,WIND,Mountain Wind Power II LLC,14354,41.263889,-110.544444,WY,56,041,WECC,NWPP,WIND,80,1,1,56041,29.7028076149959,29.7028076149959

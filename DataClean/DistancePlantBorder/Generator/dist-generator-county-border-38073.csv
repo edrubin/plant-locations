@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54908,AB,GEN1,SB,ST,5.1,1038,1983,BIOMASS,Enderlin,14232,46.6144,-97.5765,ND,38,073,MRO,MROW,BIOMASS,9.8,0,1,38073,1.70080576802041,59.5765245120441
+54908,AB,GEN2,SB,ST,4.7,0,1983,BIOMASS,Enderlin,14232,46.6144,-97.5765,ND,38,073,MRO,MROW,BIOMASS,9.8,0,1,38073,1.70080576802041,59.5765245120441

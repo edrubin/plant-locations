@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56148,DFO,5,OP,IC,2,11,2004,OIL,Ft. Pierre,6615,44.368056,-100.380833,SD,46,117,MRO,MROW,OIL,6,0,1,46117,0.985600482504973,152.080257155338
+56148,DFO,6,OP,IC,2,11,2004,OIL,Ft. Pierre,6615,44.368056,-100.380833,SD,46,117,MRO,MROW,OIL,6,0,1,46117,0.985600482504973,152.080257155338
+56148,DFO,7,OP,IC,2,11,2004,OIL,Ft. Pierre,6615,44.368056,-100.380833,SD,46,117,MRO,MROW,OIL,6,0,1,46117,0.985600482504973,152.080257155338

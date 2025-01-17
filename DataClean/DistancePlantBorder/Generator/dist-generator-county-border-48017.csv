@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60270,WND,WT1,OP,WT,148.4,35818,2018,WIND,Blue Cloud Wind Energy LLC,17718,34.03821,-102.665242,TX,48,017,MRO,ERCT,WIND,148.4,1,1,48017,4.60583860549414,34.958925863105

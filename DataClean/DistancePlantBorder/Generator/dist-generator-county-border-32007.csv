@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57451,GEO,G9200,OP,BT,16,62301,2012,GEOTHERMAL,Tuscarora Geothermal Power Plant,13407,41.4828,-116.1511,NV,32,007,WECC,AZNM,GEOTHERMAL,32,0,1,32007,53.6139739158379,57.1540419826498
+57451,GEO,G9250,OP,BT,16,62301,2012,GEOTHERMAL,Tuscarora Geothermal Power Plant,13407,41.4828,-116.1511,NV,32,007,WECC,AZNM,GEOTHERMAL,32,0,1,32007,53.6139739158379,57.1540419826498

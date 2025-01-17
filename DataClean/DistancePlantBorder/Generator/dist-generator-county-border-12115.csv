@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59686,LFG,LESF1,OP,IC,1.6,11227.333,2015,BIOMASS,Sarasota County LFGTE Facility,6452,27.203,-82.387,FL,12,115,FRCC,FRCC,BIOMASS,6.4,0,1,12115,13.230539697313,16.3482505084221
+59686,LFG,LESF2,OP,IC,1.6,11227.333,2015,BIOMASS,Sarasota County LFGTE Facility,6452,27.203,-82.387,FL,12,115,FRCC,FRCC,BIOMASS,6.4,0,1,12115,13.230539697313,16.3482505084221
+59686,LFG,LESF3,OP,IC,1.6,11227.333,2015,BIOMASS,Sarasota County LFGTE Facility,6452,27.203,-82.387,FL,12,115,FRCC,FRCC,BIOMASS,6.4,0,1,12115,13.230539697313,16.3482505084221
+59686,LFG,LESF4,L,IC,1.6,,2019,BIOMASS,Sarasota County LFGTE Facility,6452,27.203,-82.387,FL,12,115,FRCC,FRCC,BIOMASS,6.4,0,0,12115,13.230539697313,16.3482505084221

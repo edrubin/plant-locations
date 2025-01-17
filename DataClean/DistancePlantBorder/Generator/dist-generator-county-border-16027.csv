@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54690,NG,2250,OA,ST,2.2,3825.68,1948,GAS,Amalgamated Sugar LLC Nampa,9191,43.6058,-116.5753,ID,16,027,WECC,NWPP,GAS,8.7,0,0,16027,5.92493894226154,36.4327521382785
+54690,NG,6500,OP,ST,6,28053.37,1968,GAS,Amalgamated Sugar LLC Nampa,9191,43.6058,-116.5753,ID,16,027,WECC,NWPP,GAS,8.7,0,1,16027,5.92493894226154,36.4327521382785
+54690,NG,500,RE,ST,0.5,0,1950,GAS,Amalgamated Sugar LLC Nampa,9191,43.6058,-116.5753,ID,16,027,WECC,NWPP,GAS,8.7,0,0,16027,5.92493894226154,36.4327521382785
+58384,WAT,GEN1,OP,HY,1.1,3933,2013,HYDRO,Fargo Drop,9191,43.625,-116.899722,ID,16,027,WECC,NWPP,HYDRO,1.1,0,1,16027,1.93742443378202,10.245268103089

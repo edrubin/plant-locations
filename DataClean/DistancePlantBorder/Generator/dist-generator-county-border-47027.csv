@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3424,WAT,1,OP,HY,18,48089.333,1948,HYDRO,Dale Hollow,18642,36.5378,-85.4517,TN,47,027,SERC,SRTV,HYDRO,54,0,1,47027,4.23219248697653,8.83883992849361
+3424,WAT,2,OP,HY,18,48089.333,1949,HYDRO,Dale Hollow,18642,36.5378,-85.4517,TN,47,027,SERC,SRTV,HYDRO,54,0,1,47027,4.23219248697653,8.83883992849361
+3424,WAT,3,OP,HY,18,48089.333,1953,HYDRO,Dale Hollow,18642,36.5378,-85.4517,TN,47,027,SERC,SRTV,HYDRO,54,0,1,47027,4.23219248697653,8.83883992849361

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58048,WND,1,OP,WT,30,73127,2012,WIND,BayWa r.e Mozart LLC,20404,32.969722,-100.524167,TX,48,263,TRE,ERCT,WIND,30,1,1,48263,0.468339652341865,174.088572036538

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1024,BIT,4,SB,ST,11.5,0,1955,COAL,Crawfordsville Power Plant,4508,40.048889,-86.8992,IN,18,107,RFC,RFCW,COAL,24.9,0,1,18107,16.4397186897154,53.9955445775361
+1024,BIT,5,SB,ST,12.6,0,1965,COAL,Crawfordsville Power Plant,4508,40.048889,-86.8992,IN,18,107,RFC,RFCW,COAL,24.9,0,1,18107,16.4397186897154,53.9955445775361
+1024,DFO,D1,OP,IC,0.8,0,1994,OIL,Crawfordsville Power Plant,4508,40.048889,-86.8992,IN,18,107,RFC,RFCW,COAL,24.9,0,1,18107,16.4397186897154,53.9955445775361
+59483,SUN,SCRAW,OP,PV,3,3882,2015,SOLAR,IMPA Crawfordsville Solar Park,4508,40.053056,-86.887222,IN,18,107,RFC,RFCW,SOLAR,3,0,1,18107,16.3288769115395,55.0114203667824

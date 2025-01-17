@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56355,WND,1,OP,WT,199.7,582943,2009,WIND,Whispering Willow Wind Farm - East,56161,42.630513,-93.206389,IA,19,069,MRO,MROW,WIND,199.7,1,1,19069,8.15326086976372,96.5044559343938
+57844,WND,1,OP,WT,99,306849,2012,WIND,Franklin County Wind Farm,56161,42.606737,-93.336453,IA,19,069,MRO,MROW,WIND,99,1,1,19069,5.47672470764092,99.1390179594056

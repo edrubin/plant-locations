@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+940,DFO,IC5,OP,IC,2.4,12.8,1967,OIL,Fairfield,6141,38.380709,-88.366006,IL,17,191,SERC,SRMW,OIL,7.5,0,1,17191,13.9074311889096,35.7918230006653
+940,DFO,IC6,OP,IC,2.4,12.8,1967,OIL,Fairfield,6141,38.380709,-88.366006,IL,17,191,SERC,SRMW,OIL,7.5,0,1,17191,13.9074311889096,35.7918230006653
+940,DFO,IC7,OP,IC,2.7,14.4,1979,OIL,Fairfield,6141,38.380709,-88.366006,IL,17,191,SERC,SRMW,OIL,7.5,0,1,17191,13.9074311889096,35.7918230006653

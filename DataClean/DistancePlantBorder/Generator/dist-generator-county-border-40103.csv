@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6095,SUB,1,OP,ST,569,2378376,1979,COAL,Sooner,14063,36.45307,-97.05279,OK,40,103,MRO,SPSO,COAL,2088,1,1,40103,1.86030899598453,60.5813963943294
+6095,SUB,2,OP,ST,569,2068323,1980,COAL,Sooner,14063,36.45307,-97.05279,OK,40,103,MRO,SPSO,COAL,2088,1,1,40103,1.86030899598453,60.5813963943294
+6095,SUB,RR1,CN,ST,950,,,COAL,Sooner,14063,36.45307,-97.05279,OK,40,103,MRO,SPSO,COAL,2088,1,0,40103,1.86030899598453,60.5813963943294
+61269,WND,WT1,OP,WT,297.8,1153750,2018,WIND,Thunder Ranch Wind Project,14063,36.550834,-97.058944,OK,40,103,MRO,SPSO,WIND,297.8,1,1,40103,4.41689420337084,49.7350027737578

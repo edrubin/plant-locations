@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56961,MWH,BATT,OP,BA,36,-2183,2012,OTHER,Notrees Windpower,44372,31.995,-102.828333,TX,48,135,TRE,ERCT,WIND,188.5,1,1,48135,2.80949411032526,22.3272028958806
+56961,WND,GE,OP,WT,60,156970.623,2009,WIND,Notrees Windpower,44372,31.995,-102.828333,TX,48,135,TRE,ERCT,WIND,188.5,1,1,48135,2.80949411032526,22.3272028958806
+56961,WND,VESTA,OP,WT,92.5,241996.377,2009,WIND,Notrees Windpower,44372,31.995,-102.828333,TX,48,135,TRE,ERCT,WIND,188.5,1,1,48135,2.80949411032526,22.3272028958806

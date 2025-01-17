@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7842,NG,CT1,OP,GT,71,1453,2000,GAS,Freedom Power Project,17697,39.103333,-88.85898,IL,17,051,SERC,SRMW,GAS,71,1,1,17051,4.61217891749654,103.834001112277

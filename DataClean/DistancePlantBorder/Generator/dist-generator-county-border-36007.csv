@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59816,LFG,BR12,OP,IC,4,20950,2006,BIOMASS,Nanticoke LFG,13511,42.243704,-75.982533,NY,36,007,NPCC,NYUP,BIOMASS,4,0,1,36007,8.25304691957977,27.1681003987932
+60507,SUN,NORTH,OP,PV,2,475,2018,SOLAR,Broome County,13511,42.104731,-75.93073,NY,36,007,NPCC,NYUP,SOLAR,4,0,1,36007,11.7689606093851,11.7689606093851
+60507,SUN,SOUTH,OP,PV,2,475,2018,SOLAR,Broome County,13511,42.104731,-75.93073,NY,36,007,NPCC,NYUP,SOLAR,4,0,1,36007,11.7689606093851,11.7689606093851

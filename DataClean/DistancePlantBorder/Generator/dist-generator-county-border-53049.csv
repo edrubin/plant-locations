@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57756,WND,1,OP,WT,6,12921,2010,WIND,Coastal Energy Project,7548,46.793581,-124.065412,WA,53,027,WECC,NWPP,WIND,6,0,1,53027,0.0210605407735102,8.33738442991623

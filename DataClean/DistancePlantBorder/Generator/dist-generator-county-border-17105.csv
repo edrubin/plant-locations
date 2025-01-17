@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55054,LFG,1,OP,GT,5,23160,1999,BIOMASS,Livingston Generating Facility,4110,40.9314,-88.6548,IL,17,105,RFC,RFCW,BIOMASS,15,0,1,17105,19.37486758054,95.029944662243
+55054,LFG,3,OP,GT,5,23160,1999,BIOMASS,Livingston Generating Facility,4110,40.9314,-88.6548,IL,17,105,RFC,RFCW,BIOMASS,15,0,1,17105,19.37486758054,95.029944662243
+55054,LFG,GEN2,OP,GT,5,23160,2000,BIOMASS,Livingston Generating Facility,4110,40.9314,-88.6548,IL,17,105,RFC,RFCW,BIOMASS,15,0,1,17105,19.37486758054,95.029944662243
+57094,WND,1,OP,WT,300,733651,2010,WIND,Streator Cayuga Ridge South,4110,40.9969,-88.49,IL,17,105,RFC,RFCW,WIND,300,1,1,17105,12.4007874543341,81.0590888494862

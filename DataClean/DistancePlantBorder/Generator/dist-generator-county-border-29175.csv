@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2168,RC,1,OP,ST,171.7,1170463,1966,COAL,Thomas Hill Energy Center,924,39.5522,-92.6381,MO,29,175,SERC,SRMW,COAL,1181.7,1,1,29175,5.25666904378396,108.096485487232
+2168,RC,2,OP,ST,272,1731634,1969,COAL,Thomas Hill Energy Center,924,39.5522,-92.6381,MO,29,175,SERC,SRMW,COAL,1181.7,1,1,29175,5.25666904378396,108.096485487232
+2168,RC,3,OP,ST,738,4897537,1982,COAL,Thomas Hill Energy Center,924,39.5522,-92.6381,MO,29,175,SERC,SRMW,COAL,1181.7,1,1,29175,5.25666904378396,108.096485487232
+6651,DFO,1,OP,GT,60.6,279,1978,OIL,Moberly,19436,39.4244,-92.4837,MO,29,175,SERC,SRMW,OIL,60.6,1,1,29175,15.1938011212767,101.321664251836

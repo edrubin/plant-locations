@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58239,SUN,PVKV,OP,PV,1,1577,2012,SOLAR,Kent County-Kennedyville,5027,39.297222,-75.982222,MD,24,029,RFC,RFCE,SOLAR,1,0,1,24029,5.6800872021399,19.1148911414785
+58241,SUN,RCKHL,OP,PV,1,1668,2012,SOLAR,Rock Hall,5027,39.144369,-76.231644,MD,24,029,RFC,RFCE,SOLAR,1,0,1,24029,8.38461556419778,41.7232226721093
+58243,SUN,WRTN,OP,PV,1,1660,2012,SOLAR,Kent County - Worton Complex,3503,39.280833,-76.090833,MD,24,029,RFC,RFCE,SOLAR,1,0,1,24029,8.08803026200716,28.581492548726
+60096,SUN,PV1,OP,PV,1,1673,2015,SOLAR,Town of Chestertown- Chestertown WWTP,5027,39.199453,-76.076693,MD,24,029,RFC,RFCE,SOLAR,1,0,1,24029,0.913665820586965,27.9598673483029

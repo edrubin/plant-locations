@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58322,WND,1,OP,WT,206.5,803226,2014,WIND,Prairie Breeze,13337,41.951667,-98.076667,NE,31,003,MRO,MROW,WIND,206.5,1,1,31003,4.04771312487305,90.1521956152482
+60262,WND,GEN1,OP,WT,73.4,305643,2015,WIND,Prairie Breeze II,17692,41.987656,-98.210401,NE,31,003,MRO,MROW,WIND,73.4,1,1,31003,7.06811474757481,87.4204883917143
+60314,WND,GEN1,OP,WT,35.8,141205,2016,WIND,Prairie Breeze III,17692,41.987656,-98.210401,NE,31,003,MRO,MROW,WIND,35.8,1,1,31003,7.06811474757481,87.4204883917143
+61784,WND,UWE,OP,WT,202.5,87706,2018,WIND,Upstream Wind Energy LLC,-9999,42.184336,-97.964978,NE,31,003,MRO,MROW,WIND,202.5,1,1,31003,10.7428095942959,64.2941351875974

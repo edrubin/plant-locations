@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1756,WAT,1,OP,HY,0.8,5829,1913,HYDRO,Saxon Falls,13780,46.5392,-90.3742,WI,55,051,MRO,MROW,HYDRO,1.6,0,1,55051,0.0163793819069974,0.0163793819069974
+1756,WAT,2,OP,HY,0.8,5829,1913,HYDRO,Saxon Falls,13780,46.5392,-90.3742,WI,55,051,MRO,MROW,HYDRO,1.6,0,1,55051,0.0163793819069974,0.0163793819069974
+1757,WAT,1,OP,HY,0.7,6225,1917,HYDRO,Superior Falls,13780,46.564601,-90.416147,MI,26,053,MRO,MROW,HYDRO,1.4,0,1,26053,0.0239060699793563,0.0239060699793563
+1757,WAT,2,OP,HY,0.7,6225,1917,HYDRO,Superior Falls,13780,46.564601,-90.416147,MI,26,053,MRO,MROW,HYDRO,1.4,0,1,26053,0.0239060699793563,0.0239060699793563

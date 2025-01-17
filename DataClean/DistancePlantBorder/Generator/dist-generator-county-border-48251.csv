@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54817,NG,GT-1,OP,CT,178.2,290715,1996,GAS,Johnson County Generation Facility,2172,32.3994,-97.4078,TX,48,251,TRE,ERCT,GAS,282.6,1,1,48251,17.1154683609976,148.462202138253
+54817,NG,ST-1,OP,CA,104.4,157232,1996,GAS,Johnson County Generation Facility,2172,32.3994,-97.4078,TX,48,251,TRE,ERCT,GAS,282.6,1,1,48251,17.1154683609976,148.462202138253

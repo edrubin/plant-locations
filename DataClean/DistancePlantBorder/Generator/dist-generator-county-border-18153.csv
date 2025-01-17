@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6213,BIT,1,OP,ST,540,3165964,1983,COAL,Merom,9267,39.0694,-87.5108,IN,18,153,RFC,RFCW,COAL,1080,1,1,18153,5.5121521030674,5.5121521030674
+6213,BIT,2,OP,ST,540,2704334,1982,COAL,Merom,9267,39.0694,-87.5108,IN,18,153,RFC,RFCW,COAL,1080,1,1,18153,5.5121521030674,5.5121521030674
+60410,SUN,SULPV,OP,PV,5.2,6762,2016,SOLAR,"Sullivan Solar, LLC",15470,39.13199,-87.41383,IN,18,153,RFC,RFCW,SOLAR,5.2,0,1,18153,14.1038355816672,16.0380034956263

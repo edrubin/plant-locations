@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57049,WND,NGW1,OP,WT,106.5,260131,2008,WIND,NaturEner Glacier Wind Energy 1,12825,48.51,-112.1097,MT,30,101,WECC,NWPP,WIND,106.5,1,1,30101,5.11388497468718,54.3359609375727
+57995,WND,RR,OP,WT,189,628130,2012,WIND,NaturEner Rim Rock Energy,11643,48.820278,-112.103333,MT,30,101,WECC,NWPP,WIND,189,1,1,30101,6.30469113297362,19.8418974606737

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2253,DFO,2,OP,IC,0.5,0.784,1953,OIL,Lyons,2599,41.9374,-96.4668,NE,31,021,MRO,MROW,OIL,2.8,0,1,31021,7.32861887273859,19.9267120742447
+2253,DFO,3,OP,IC,0.8,1.254,1960,OIL,Lyons,2599,41.9374,-96.4668,NE,31,021,MRO,MROW,OIL,2.8,0,1,31021,7.32861887273859,19.9267120742447
+2253,DFO,4A,OP,IC,1.2,1.882,1967,OIL,Lyons,2599,41.9374,-96.4668,NE,31,021,MRO,MROW,OIL,2.8,0,1,31021,7.32861887273859,19.9267120742447
+2253,DFO,5,RE,IC,0.3,,1930,OIL,Lyons,2599,41.9374,-96.4668,NE,31,021,MRO,MROW,OIL,2.8,0,0,31021,7.32861887273859,19.9267120742447

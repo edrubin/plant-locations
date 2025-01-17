@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56013,NG,U1,OP,GT,60.5,28099.333,2004,GAS,Exira Station,27000,41.514365,-94.919729,IA,19,009,MRO,MROW,GAS,181.5,1,1,19009,1.09296549442936,83.034457541919
+56013,NG,U2,OP,GT,60.5,28099.333,2004,GAS,Exira Station,27000,41.514365,-94.919729,IA,19,009,MRO,MROW,GAS,181.5,1,1,19009,1.09296549442936,83.034457541919
+56013,NG,U3,OP,GT,60.5,28099.333,2007,GAS,Exira Station,27000,41.514365,-94.919729,IA,19,009,MRO,MROW,GAS,181.5,1,1,19009,1.09296549442936,83.034457541919
+61609,WND,1,OP,WT,103.5,6136,2018,WIND,"Heartland Divide Wind Project, LLC",3258,41.71138,-94.80199,IA,19,009,MRO,MROW,WIND,103.5,1,1,19009,4.79494086031899,97.5679064962695

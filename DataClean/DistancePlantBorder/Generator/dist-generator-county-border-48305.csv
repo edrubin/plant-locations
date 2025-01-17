@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58162,WND,CW,OP,WT,61.2,112000,2012,WIND,Cirrus Wind 1 LLC,17718,33.033056,-101.6875,TX,48,305,MRO,SPSO,WIND,61.2,1,1,48305,7.90382583728208,128.655046393918
+61921,WND,TAH,OP,WT,300,45387,2018,WIND,Tahoka Wind,17008,33.150904,-101.679188,TX,48,305,TRE,ERCT,WIND,300,1,1,48305,11.3565300517771,129.028559478678

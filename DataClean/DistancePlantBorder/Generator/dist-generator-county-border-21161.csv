@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6041,BIT,1,OP,ST,357.6,1562826,1977,COAL,H L Spurlock,5580,38.7,-83.8181,KY,21,161,SERC,SRTV,COAL,1608.5,1,1,21161,0.899449899268228,0.899449899268228
+6041,BIT,2,OP,ST,592.1,3115810,1981,COAL,H L Spurlock,5580,38.7,-83.8181,KY,21,161,SERC,SRTV,COAL,1608.5,1,1,21161,0.899449899268228,0.899449899268228
+6041,BIT,3,OP,ST,329.4,1634072,2005,COAL,H L Spurlock,5580,38.7,-83.8181,KY,21,161,SERC,SRTV,COAL,1608.5,1,1,21161,0.899449899268228,0.899449899268228
+6041,BIT,4,OP,ST,329.4,1459418,2009,COAL,H L Spurlock,5580,38.7,-83.8181,KY,21,161,SERC,SRTV,COAL,1608.5,1,1,21161,0.899449899268228,0.899449899268228

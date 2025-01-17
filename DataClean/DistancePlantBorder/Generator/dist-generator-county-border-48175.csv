@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6178,SUB,1,OP,ST,622.4,3850242,1980,COAL,Coleto Creek,44372,28.7128,-97.214167,TX,48,175,TRE,ERCT,COAL,622.4,1,1,48175,4.32890618124162,83.3372776064887

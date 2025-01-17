@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59299,LFG,RED1,OP,IC,2,14262,2017,BIOMASS,Waste Mangement Redwood LFGTE,14328,38.160833,-122.565,CA,06,041,WECC,CAMX,BIOMASS,4,0,1,06041,0.581903724399295,34.6065895097055
+59299,LFG,RED2,OP,IC,2,14262,2017,BIOMASS,Waste Mangement Redwood LFGTE,14328,38.160833,-122.565,CA,06,041,WECC,CAMX,BIOMASS,4,0,1,06041,0.581903724399295,34.6065895097055
+59703,SUN,1,OP,PV,1,1396,2016,SOLAR,"Cottonwood Solar, LLC Cottonwood Carport",14328,38.129759,-122.568158,CA,06,041,WECC,CAMX,SOLAR,1,0,1,06041,3.41310252583999,32.1134710381584

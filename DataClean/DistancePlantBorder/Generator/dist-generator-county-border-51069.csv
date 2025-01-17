@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57754,LFG,1,OP,IC,1,4859.5,2010,BIOMASS,Frederick County LFGTE Facility,40228,39.140833,-78.0975,VA,51,069,SERC,SRVC,BIOMASS,2,0,1,51069,0.19648059520648,14.1395177587434
+57754,LFG,2,OP,IC,1,4859.5,2010,BIOMASS,Frederick County LFGTE Facility,40228,39.140833,-78.0975,VA,51,069,SERC,SRVC,BIOMASS,2,0,1,51069,0.19648059520648,14.1395177587434
+59860,NG,HHOOD,OP,GT,15,83390,2015,GAS,HP Hood CT,17066,39.132519,-78.187474,VA,51,069,RFC,RFCW,GAS,15,0,1,51069,0.326178650523011,19.0942997598149

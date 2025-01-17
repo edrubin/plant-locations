@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59004,NG,GEN1,OP,CT,237,1620688,2017,GAS,Panda Stonewall Power Project,19876,39.058056,-77.545,VA,51,107,SERC,SRVC,GAS,812,1,1,51107,7.1832370594338,7.1832370594338
+59004,NG,GEN2,OP,CT,237,1552346,2017,GAS,Panda Stonewall Power Project,19876,39.058056,-77.545,VA,51,107,SERC,SRVC,GAS,812,1,1,51107,7.1832370594338,7.1832370594338
+59004,NG,GEN3,OP,CA,338,1695217,2017,GAS,Panda Stonewall Power Project,19876,39.058056,-77.545,VA,51,107,SERC,SRVC,GAS,812,1,1,51107,7.1832370594338,7.1832370594338

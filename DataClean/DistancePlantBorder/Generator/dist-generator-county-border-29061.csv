@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2127,DFO,2A,SB,IC,1.1,0,1993,OIL,Gallatin (MO),13190,39.917222,-93.953889,MO,29,061,SERC,SRMW,OIL,7.2,0,1,29061,14.5553205354829,72.9967293727314
+2127,DFO,3A,SB,IC,1.1,0,1993,OIL,Gallatin (MO),13190,39.917222,-93.953889,MO,29,061,SERC,SRMW,OIL,7.2,0,1,29061,14.5553205354829,72.9967293727314
+2127,DFO,IC4,SB,IC,2.5,0,1983,OIL,Gallatin (MO),13190,39.917222,-93.953889,MO,29,061,SERC,SRMW,OIL,7.2,0,1,29061,14.5553205354829,72.9967293727314
+2127,DFO,IC6,SB,IC,2.5,0,1977,OIL,Gallatin (MO),13190,39.917222,-93.953889,MO,29,061,SERC,SRMW,OIL,7.2,0,1,29061,14.5553205354829,72.9967293727314

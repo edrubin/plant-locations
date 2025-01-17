@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59874,SUN,PV1,OP,PV,20,40189,2015,SOLAR,Richland Solar Center,7197,32.638034,-83.378924,GA,13,289,SERC,SRVC,SOLAR,20,0,1,13289,10.1185922530584,148.08084227972
+60184,LFG,GEN1,OP,IC,1.4,9636.5,2011,BIOMASS,ADS Renewable Energy-Wolf Creek LLC,13962,32.7755,-83.4348,GA,13,289,SERC,SRSO,BIOMASS,2.8,0,1,13289,6.36327201517714,148.134808479064
+60184,LFG,GEN2,OP,IC,1.4,9636.5,2011,BIOMASS,ADS Renewable Energy-Wolf Creek LLC,13962,32.7755,-83.4348,GA,13,289,SERC,SRSO,BIOMASS,2.8,0,1,13289,6.36327201517714,148.134808479064

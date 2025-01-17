@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+2966,NG,4,OP,GT,53,12164.667,1975,GAS,Weleetka,15474,35.3233,-96.1352,OK,40,107,MRO,SPSO,GAS,163,1,1,40107,3.70137549503147,154.44732542004
+2966,NG,5,OP,GT,53,12164.667,1976,GAS,Weleetka,15474,35.3233,-96.1352,OK,40,107,MRO,SPSO,GAS,163,1,1,40107,3.70137549503147,154.44732542004
+2966,NG,6,OP,GT,53,12164.667,1976,GAS,Weleetka,15474,35.3233,-96.1352,OK,40,107,MRO,SPSO,GAS,163,1,1,40107,3.70137549503147,154.44732542004
+2966,DFO,IC1,OP,IC,4,0,1963,OIL,Weleetka,15474,35.3233,-96.1352,OK,40,107,MRO,SPSO,GAS,163,0,1,40107,3.70137549503147,154.44732542004

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55429,BLQ,01,OP,ST,88,345265,2001,BIOMASS,Kentucky Mills,9964,37.8948,-86.6854,KY,21,091,SERC,SRTV,BIOMASS,88,1,1,21091,1.59462148097624,1.59462148097624
+57399,WAT,CG1,OP,HY,29.3,117052,2016,HYDRO,Cannelton Hydroelectric Plant,17633,37.899722,-86.705833,KY,21,091,SERC,RFCW,HYDRO,87.9,1,1,21091,0.000102186292250986,0.000102186292250986
+57399,WAT,CG2,OP,HY,29.3,117052,2016,HYDRO,Cannelton Hydroelectric Plant,17633,37.899722,-86.705833,KY,21,091,SERC,RFCW,HYDRO,87.9,1,1,21091,0.000102186292250986,0.000102186292250986
+57399,WAT,CG3,OP,HY,29.3,117052,2016,HYDRO,Cannelton Hydroelectric Plant,17633,37.899722,-86.705833,KY,21,091,SERC,RFCW,HYDRO,87.9,1,1,21091,0.000102186292250986,0.000102186292250986

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56102,NG,CT1A,OP,CT,172,786616,2005,GAS,Currant Creek Power Project,14354,39.82144,-111.89345,UT,49,023,WECC,NWPP,GAS,649,1,1,49023,5.03579086480335,149.038313563165
+56102,NG,CT1B,OP,CT,172,783130,2005,GAS,Currant Creek Power Project,14354,39.82144,-111.89345,UT,49,023,WECC,NWPP,GAS,649,1,1,49023,5.03579086480335,149.038313563165
+56102,NG,ST1,OP,CA,305,848529,2006,GAS,Currant Creek Power Project,14354,39.82144,-111.89345,UT,49,023,WECC,NWPP,GAS,649,1,1,49023,5.03579086480335,149.038313563165

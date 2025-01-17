@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1198,DFO,6,OP,GT,21.3,203,1972,OIL,Webster City,20259,42.471022,-93.81499,IA,19,079,MRO,MROW,OIL,21.3,0,1,19079,9.59281766219944,114.238819623823

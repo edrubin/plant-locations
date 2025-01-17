@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56608,WND,SD1,OP,WT,150,515431.481,2011,WIND,Prairie Winds SD1,27000,43.886389,-98.7875,SD,46,073,MRO,MROW,WIND,162,1,1,46073,1.61408797673585,98.6142123827861
+56608,WND,SD2,OP,WT,10.5,36080.204,2011,WIND,Prairie Winds SD1,27000,43.886389,-98.7875,SD,46,073,MRO,MROW,WIND,162,0,1,46073,1.61408797673585,98.6142123827861
+56608,WND,SD3,OP,WT,1.5,5154.315,2011,WIND,Prairie Winds SD1,27000,43.886389,-98.7875,SD,46,073,MRO,MROW,WIND,162,0,1,46073,1.61408797673585,98.6142123827861
+61745,WND,ACSD,OP,WT,20,19382,2018,WIND,Aurora County Wind,13809,43.719,-98.752,SD,46,003,MRO,MROW,WIND,20,0,1,46003,3.45013548788169,80.0259541694383

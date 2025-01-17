@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6417,WAT,1,OS,HY,45,105312,1950,HYDRO,Center Hill,18642,36.0972,-85.8274,TN,47,041,SERC,SRTV,HYDRO,157.5,1,0,47041,2.7639805919827,58.2315456967476
+6417,WAT,2,OP,HY,67.5,157968,1951,HYDRO,Center Hill,18642,36.0972,-85.8274,TN,47,041,SERC,SRTV,HYDRO,157.5,1,1,47041,2.7639805919827,58.2315456967476
+6417,WAT,3,OS,HY,45,105312,1951,HYDRO,Center Hill,18642,36.0972,-85.8274,TN,47,041,SERC,SRTV,HYDRO,157.5,1,0,47041,2.7639805919827,58.2315456967476

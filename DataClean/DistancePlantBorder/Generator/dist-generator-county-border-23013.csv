@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57354,WND,1,OP,WT,4.5,10616,2009,WIND,Fox Island Wind LLC,8780,44.094167,-68.865833,ME,23,013,NPCC,NEWE,WIND,4.5,0,1,23013,10.0142905207476,18.6953106980293

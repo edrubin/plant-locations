@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58558,LFG,GEN1,OP,IC,2,7771,2013,BIOMASS,Onslow Power Producers,5416,34.7975,-77.543056,NC,37,133,SERC,SRVC,BIOMASS,2,0,1,37133,12.0127628736616,40.6153187297268
+59966,SUN,PV1,OP,PV,12.8,19769,2015,SOLAR,Camp Lejeune Solar,3046,34.725699,-77.350273,NC,37,133,SERC,SRVC,SOLAR,12.8,0,1,37133,16.912083479561,23.854532985819
+61877,SUN,HAN01,OP,PV,4.9,6413,2018,SOLAR,"Hanover Solar, LLC",3046,34.800947,-77.213772,NC,37,103,SERC,SRVC,SOLAR,4.9,0,1,37103,1.8879635354828,25.4265621855825

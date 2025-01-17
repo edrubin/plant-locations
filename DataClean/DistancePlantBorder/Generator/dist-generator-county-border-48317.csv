@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56644,WND,1,OP,WT,120,325833,2008,WIND,Stanton Wind Energy LLC,44372,32.2353,-101.8367,TX,48,317,TRE,ERCT,WIND,120,1,1,48317,13.5694079775792,115.848763898322

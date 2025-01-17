@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1958,DFO,IC1,SB,IC,1.2,10.957,1948,OIL,Alexandria,295,45.889167,-95.379722,MN,27,041,MRO,MROW,OIL,9.2,0,1,27041,14.4395381688478,91.905531049583
+1958,DFO,IC2,SB,IC,4,36.522,1967,OIL,Alexandria,295,45.889167,-95.379722,MN,27,041,MRO,MROW,OIL,9.2,0,1,27041,14.4395381688478,91.905531049583
+1958,DFO,IC3,SB,IC,4,36.522,1967,OIL,Alexandria,295,45.889167,-95.379722,MN,27,041,MRO,MROW,OIL,9.2,0,1,27041,14.4395381688478,91.905531049583
+61059,SUN,0000G,OP,PV,5,303,2018,SOLAR,Novel OYA of Osakis,13781,45.85,-95.15,MN,27,041,MRO,MROW,SOLAR,5,0,1,27041,0.762030837390365,110.026561082219

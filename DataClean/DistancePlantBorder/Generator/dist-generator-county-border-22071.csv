@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61647,MWH,NOSPB,OP,BA,0.5,0,2016,OTHER,New Orleans Solar Power Plant,13478,30.05,-90.03,LA,22,071,SERC,SRMV,SOLAR,1.6,0,1,22071,7.74903104323763,44.3244452508099
+61647,SUN,NOSPS,OP,PV,1.1,1518,2016,SOLAR,New Orleans Solar Power Plant,13478,30.05,-90.03,LA,22,071,SERC,SRMV,SOLAR,1.6,0,1,22071,7.74903104323763,44.3244452508099

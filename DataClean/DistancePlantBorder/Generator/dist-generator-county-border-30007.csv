@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54006,WAT,GEN1,OP,HY,9.7,29691,1989,HYDRO,Broadwater Power Project,12825,46.12061,-111.407656,MT,30,007,WECC,NWPP,HYDRO,9.7,0,1,30007,1.62935959909504,127.407765964009

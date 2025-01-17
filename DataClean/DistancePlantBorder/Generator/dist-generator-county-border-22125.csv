@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6462,NUC,1,OP,ST,1035.9,6999996,1986,NUCLEAR,River Bend,11241,30.757,-91.3327,LA,22,125,SERC,SRMV,NUCLEAR,1035.9,1,1,22125,3.42254239983563,26.8484896635751
+10697,BLQ,GEN2,OP,ST,12.5,109645.13,1966,BIOMASS,St Francisville Mill,11241,30.7108,-91.3236,LA,22,125,SERC,SRMV,BIOMASS,57.5,0,1,22125,1.22338484605565,31.970493757823
+10697,NG,GEN1,RE,GT,45,,1985,GAS,St Francisville Mill,11241,30.7108,-91.3236,LA,22,125,SERC,SRMV,BIOMASS,57.5,1,0,22125,1.22338484605565,31.970493757823

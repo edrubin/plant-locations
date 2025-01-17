@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7771,WND,3,OP,WT,1.5,4653,2011,WIND,Springview,13337,42.82579,-99.777467,NE,31,103,MRO,MROW,WIND,4.4,0,1,31103,9.33627438244145,19.1268142385885
+7771,WND,4,OP,WT,1.5,4653,2011,WIND,Springview,13337,42.82579,-99.777467,NE,31,103,MRO,MROW,WIND,4.4,0,1,31103,9.33627438244145,19.1268142385885
+7771,WND,1,RE,WT,0.7,,1998,WIND,Springview,13337,42.82579,-99.777467,NE,31,103,MRO,MROW,WIND,4.4,0,0,31103,9.33627438244145,19.1268142385885
+7771,WND,2,RE,WT,0.7,,1998,WIND,Springview,13337,42.82579,-99.777467,NE,31,103,MRO,MROW,WIND,4.4,0,0,31103,9.33627438244145,19.1268142385885

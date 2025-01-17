@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7429,DFO,2,OP,IC,1.2,47.5,1988,OIL,Edenton Generators,6710,36.028611,-76.571944,NC,37,041,SERC,SRVC,OIL,3.6,0,1,37041,6.00241220235475,57.9241185695455
+7429,DFO,3,OP,IC,1.2,47.5,2014,OIL,Edenton Generators,6710,36.028611,-76.571944,NC,37,041,SERC,SRVC,OIL,3.6,0,1,37041,6.00241220235475,57.9241185695455
+7429,DFO,1,RE,IC,1.2,,1988,OIL,Edenton Generators,6710,36.028611,-76.571944,NC,37,041,SERC,SRVC,OIL,3.6,0,0,37041,6.00241220235475,57.9241185695455
+62693,SUN,PGR03,OP,PV,5,8055,2018,SOLAR,Chowan Jehu Solar,19876,36.283778,-76.602304,NC,37,041,SERC,SRVC,SOLAR,5,0,1,37041,3.09762332117493,29.6193414179717

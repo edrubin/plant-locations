@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6155,RC,1,OP,ST,621,3318160,1976,COAL,Rush Island,19436,38.131248,-90.263157,MO,29,099,SERC,SRMW,COAL,1242,1,1,29099,0.594951115622717,0.594951115622717
+6155,RC,2,OP,ST,621,4448068,1977,COAL,Rush Island,19436,38.131248,-90.263157,MO,29,099,SERC,SRMW,COAL,1242,1,1,29099,0.594951115622717,0.594951115622717

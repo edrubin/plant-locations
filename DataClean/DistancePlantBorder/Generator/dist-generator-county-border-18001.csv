@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50316,NG,3516,OP,ST,2,7375,1950,GAS,Bunge North America East LLC,9324,40.846525,-84.933264,IN,18,001,RFC,RFCW,GAS,2,0,1,18001,8.14843230591062,11.0364992564162

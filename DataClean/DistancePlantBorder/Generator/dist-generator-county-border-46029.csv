@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7247,DFO,1,OP,GT,67.5,104,1978,OIL,Watertown Power Plant,27000,44.901667,-97.108333,SD,46,029,MRO,MROW,OIL,67.5,1,1,46029,10.900914679799,51.8396725798925

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57376,GEO,OEC 1,OP,BT,16,49013.787,2010,GEOTHERMAL,Jersey Valley Geothermal Power Plant,13407,40.1808,-117.4739,NV,32,027,WECC,AZNM,GEOTHERMAL,23.5,0,1,32027,1.13719623770701,201.886027798288
+57376,GEO,OEC 2,OP,BT,7.5,22975.213,2010,GEOTHERMAL,Jersey Valley Geothermal Power Plant,13407,40.1808,-117.4739,NV,32,027,WECC,AZNM,GEOTHERMAL,23.5,0,1,32027,1.13719623770701,201.886027798288

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50770,WDS,GEN1,OP,ST,18,145899,1988,BIOMASS,Viking Energy of McBain,4254,44.204,-85.2206,MI,26,113,RFC,RFCM,BIOMASS,18,0,1,26113,4.34281728723135,133.798519736671
+57131,WND,SCWF1,OP,WT,60,135620,2009,WIND,Stoney Corners Wind Farm,20910,44.19,-85.2983,MI,26,113,RFC,RFCM,WIND,60,1,1,26113,2.79192881755081,128.227682398076

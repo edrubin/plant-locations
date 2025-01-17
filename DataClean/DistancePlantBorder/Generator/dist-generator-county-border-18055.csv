@@ -1,0 +1,6 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55148,NG,1,OP,GT,60.5,34095.5,2000,GAS,Worthington Generation,9267,39.0708,-87.0128,IN,18,055,RFC,RFCW,GAS,242,1,1,18055,10.7995942484198,45.1232149651841
+55148,NG,2,OP,GT,60.5,34095.5,2000,GAS,Worthington Generation,9267,39.0708,-87.0128,IN,18,055,RFC,RFCW,GAS,242,1,1,18055,10.7995942484198,45.1232149651841
+55148,NG,3,OP,GT,60.5,34095.5,2000,GAS,Worthington Generation,9267,39.0708,-87.0128,IN,18,055,RFC,RFCW,GAS,242,1,1,18055,10.7995942484198,45.1232149651841
+55148,NG,4,OP,GT,60.5,34095.5,2000,GAS,Worthington Generation,9267,39.0708,-87.0128,IN,18,055,RFC,RFCW,GAS,242,1,1,18055,10.7995942484198,45.1232149651841
+59982,SUN,PV1,OP,PV,1.1,1930,2015,SOLAR,Scotland Solar RES,19667,38.9099,-86.9473,IN,18,055,RFC,RFCW,SOLAR,1.1,0,1,18055,0.714472345874646,49.1923441803897

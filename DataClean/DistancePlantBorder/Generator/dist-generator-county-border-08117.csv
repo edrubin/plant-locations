@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+516,WAT,1,OP,HY,13,16017,1943,HYDRO,Green Mountain,27000,39.878805,-106.332725,CO,08,117,WECC,RMPA,HYDRO,26,0,1,08117,3.87604720849135,124.36080461638
+516,WAT,2,OP,HY,13,16017,1943,HYDRO,Green Mountain,27000,39.878805,-106.332725,CO,08,117,WECC,RMPA,HYDRO,26,0,1,08117,3.87604720849135,124.36080461638
+10421,WAT,GEN1,OP,HY,1.8,411,1987,HYDRO,Dillon Hydro Plant,15466,39.6208,-106.0662,CO,08,117,WECC,RMPA,HYDRO,1.8,0,1,08117,8.33581773046677,152.768778110873

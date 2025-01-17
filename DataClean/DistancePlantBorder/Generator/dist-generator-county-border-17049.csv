@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7990,DFO,1,SB,IC,1.8,18,2002,OIL,Altamont,406,39.068747,-88.755547,IL,17,049,SERC,SRMW,OIL,7.2,0,1,17049,4.34927227410308,95.1432452290402
+7990,DFO,2,SB,IC,1.8,18,2002,OIL,Altamont,406,39.068747,-88.755547,IL,17,049,SERC,SRMW,OIL,7.2,0,1,17049,4.34927227410308,95.1432452290402
+7990,DFO,3,SB,IC,1.8,18,2002,OIL,Altamont,406,39.068747,-88.755547,IL,17,049,SERC,SRMW,OIL,7.2,0,1,17049,4.34927227410308,95.1432452290402
+7990,DFO,4,SB,IC,1.8,18,2006,OIL,Altamont,406,39.068747,-88.755547,IL,17,049,SERC,SRMW,OIL,7.2,0,1,17049,4.34927227410308,95.1432452290402

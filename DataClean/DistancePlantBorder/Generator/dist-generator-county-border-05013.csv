@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59947,SUN,AERO,OP,PV,12,26923,2015,SOLAR,SR Camden,14238,33.631538,-92.703611,AR,05,013,SERC,SRMV,SOLAR,12,0,1,05013,1.96283426423352,68.4103219198563

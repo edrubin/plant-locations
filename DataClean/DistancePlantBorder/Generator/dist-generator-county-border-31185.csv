@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6229,DFO,1,OP,IC,1,39.677,1980,OIL,Mobile,13337,40.883013,-97.601363,NE,31,185,MRO,MROW,OIL,4.1,0,1,31185,18.1693841814181,97.7937522580211
+6229,DFO,2,OP,IC,1.6,63.484,1996,OIL,Mobile,13337,40.883013,-97.601363,NE,31,185,MRO,MROW,OIL,4.1,0,1,31185,18.1693841814181,97.7937522580211
+6229,DFO,500,OP,IC,0.5,19.839,1994,OIL,Mobile,13337,40.883013,-97.601363,NE,31,185,MRO,MROW,OIL,4.1,0,1,31185,18.1693841814181,97.7937522580211
+6229,DFO,3,RE,IC,1,,1980,OIL,Mobile,13337,40.883013,-97.601363,NE,31,185,MRO,MROW,OIL,4.1,0,0,31185,18.1693841814181,97.7937522580211

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58256,SUN,1,OP,PV,1,765,2012,SOLAR,Los Alamos PV Site,11204,35.875556,-106.31,NM,35,028,WECC,AZNM,SOLAR,3.8,0,1,35028,3.71682139910727,124.087644045
+58256,MWH,2,OP,BA,1,-401.667,2012,OTHER,Los Alamos PV Site,11204,35.875556,-106.31,NM,35,028,WECC,AZNM,SOLAR,3.8,0,1,35028,3.71682139910727,124.087644045
+58256,MWH,3,OP,BA,0.8,-321.333,2012,OTHER,Los Alamos PV Site,11204,35.875556,-106.31,NM,35,028,WECC,AZNM,SOLAR,3.8,0,1,35028,3.71682139910727,124.087644045
+58256,SUN,4,IP,PV,1,765,,SOLAR,Los Alamos PV Site,11204,35.875556,-106.31,NM,35,028,WECC,AZNM,SOLAR,3.8,0,0,35028,3.71682139910727,124.087644045

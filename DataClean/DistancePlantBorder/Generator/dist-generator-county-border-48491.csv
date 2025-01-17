@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58013,SUN,PV,OP,PV,1.4,1777,2012,SOLAR,IKEA Round Rock 027,44372,30.557044,-97.690286,TX,48,491,TRE,ERCT,SOLAR,1.4,0,1,48491,8.56150867702466,275.384006173386

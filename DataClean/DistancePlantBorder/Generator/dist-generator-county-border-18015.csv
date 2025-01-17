@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+999,WAT,1,OP,HY,4.3,8633.89,1925,HYDRO,Oakdale,13756,40.6564,-86.7528,IN,18,015,RFC,RFCW,HYDRO,11.8,0,1,18015,0.990826892093956,65.3816156484324
+999,WAT,2,OP,HY,3.2,6425.22,1925,HYDRO,Oakdale,13756,40.6564,-86.7528,IN,18,015,RFC,RFCW,HYDRO,11.8,0,1,18015,0.990826892093956,65.3816156484324
+999,WAT,3,OP,HY,4.3,8633.89,1925,HYDRO,Oakdale,13756,40.6564,-86.7528,IN,18,015,RFC,RFCW,HYDRO,11.8,0,1,18015,0.990826892093956,65.3816156484324

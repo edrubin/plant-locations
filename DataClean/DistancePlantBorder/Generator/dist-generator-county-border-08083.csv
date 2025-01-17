@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7372,WAT,1,OP,HY,1.2,2683,1992,HYDRO,McPhee,27000,37.57522,-108.574002,CO,08,083,WECC,RMPA,HYDRO,1.2,0,1,08083,6.37572188599873,41.3292128408185
+7373,WAT,1,OP,HY,11.4,11192,1993,HYDRO,Towaoc,27000,37.429538,-108.574871,CO,08,083,WECC,RMPA,HYDRO,11.4,0,1,08083,22.5473576691674,41.5752187899986

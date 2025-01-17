@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+54004,WDS,GEN1,OP,ST,45,181093,1989,BIOMASS,"WestRock Southeast, LLC.",7197,32.5036,-82.8443,GA,13,175,SERC,SRSO,BIOMASS,82.1,1,1,13175,15.1416295063178,124.155084254564
+54004,NG,GEN2,OP,GT,37.1,7224,1989,GAS,"WestRock Southeast, LLC.",7197,32.5036,-82.8443,GA,13,175,SERC,SRSO,BIOMASS,82.1,1,1,13175,15.1416295063178,124.155084254564
+60930,SUN,DUBL1,OP,PV,4.1,6366,2015,SOLAR,Dublin Solar I,7140,32.581,-82.926,GA,13,175,SERC,SRSO,SOLAR,4.1,0,1,13175,13.9527680358687,124.684442763842

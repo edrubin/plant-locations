@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59621,WND,JRWND,OP,WT,299.7,1028254,2015,WIND,TX Jumbo Road Wind,17008,34.72,-102.253333,TX,48,117,TRE,ERCT,WIND,299.7,1,1,48117,2.98398655041047,72.3476622906425
+60414,WND,GEN1,OP,WT,276,1250071,2017,WIND,Bethel Wind Farm LLC,17718,34.575311,-102.474698,TX,48,069,MRO,SPSO,WIND,276,1,1,48069,4.635594327761,52.1817084027792

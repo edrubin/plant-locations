@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61616,SUN,1,OP,PV,3,5559,2017,SOLAR,Marietta,20447,33.943183,-97.108608,OK,40,085,MRO,SPSO,SOLAR,3,0,1,40085,8.50479034867847,8.50479034867847

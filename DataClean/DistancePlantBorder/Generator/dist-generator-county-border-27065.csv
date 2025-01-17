@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1997,NG,2,OP,IC,1.1,9.486,1957,GAS,Mora,12900,45.877088,-93.295137,MN,27,065,MRO,MROW,OIL,13.8,0,1,27065,11.8582923642196,37.5480180372297
+1997,NG,5,OP,IC,5.7,49.152,1972,GAS,Mora,12900,45.877088,-93.295137,MN,27,065,MRO,MROW,OIL,13.8,0,1,27065,11.8582923642196,37.5480180372297
+1997,DFO,6,OP,IC,7,60.362,1975,OIL,Mora,12900,45.877088,-93.295137,MN,27,065,MRO,MROW,OIL,13.8,0,1,27065,11.8582923642196,37.5480180372297
+57903,LFG,UNIT1,OP,IC,1.6,5816,2012,BIOMASS,SMMPA Methane Energy Facility,40580,45.847778,-93.354167,MN,27,065,MRO,MROW,BIOMASS,1.6,0,1,27065,12.6504490229708,40.3798325421468

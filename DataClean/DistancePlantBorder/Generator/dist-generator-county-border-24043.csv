@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58408,SUN,MSH1,OP,PV,27,34233,2013,SOLAR,Maryland Solar,15263,39.563056,-77.720278,MD,24,043,RFC,RFCW,SOLAR,27,1,1,24043,8.32950524764537,8.32950524764537
+60029,SUN,VMMD,OP,PV,1.1,1469,2015,SOLAR,CES VMT Solar,15270,39.680865,-77.727117,MD,24,043,RFC,RFCE,SOLAR,1.1,0,1,24043,4.45303942233621,4.45303942233621
+60213,MWH,MPSHG,OP,BA,2,-273,2017,OTHER,NA 1(Hagerstown),7908,39.61889,-77.712118,MD,24,043,RFC,RFCE,OTHF,2,0,1,24043,10.4834018484593,10.4834018484593

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+61818,SUN,AMPBR,OP,PV,1.9,0,2018,SOLAR,DG AMP Solar Brewster,2205,40.702397,-81.58983,OH,39,151,RFC,RFCW,SOLAR,1.9,0,1,39151,5.04318725117632,79.0687513649559

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58700,SUN,CS300,OP,PV,2.5,3887,2013,SOLAR,Colleton Solar Farm,3844,32.913333,-80.6925,SC,45,029,SERC,SRVC,SOLAR,2.5,0,1,45029,18.164988484443,64.5268860498428

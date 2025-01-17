@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7,NG,1,OP,ST,69,156570,1949,GAS,Gadsden,195,34.0128,-85.9708,AL,01,055,SERC,SRSO,GAS,138,1,1,01055,10.1535720848534,51.230446015819
+7,NG,2,OP,ST,69,32307,1949,GAS,Gadsden,195,34.0128,-85.9708,AL,01,055,SERC,SRSO,GAS,138,1,1,01055,10.1535720848534,51.230446015819

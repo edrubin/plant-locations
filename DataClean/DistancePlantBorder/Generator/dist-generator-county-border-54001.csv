@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57447,WND,1,OP,WT,97.6,247152,2011,WIND,Laurel Mountain,12796,39.0072,-79.8866,WV,54,001,RFC,RFCW,WIND,113.6,1,1,54001,0.15576639169855,41.0022904628169
+57447,MWH,2,OP,BA,16,-7825,2011,OTHER,Laurel Mountain,12796,39.0072,-79.8866,WV,54,001,RFC,RFCW,WIND,113.6,0,1,54001,0.15576639169855,41.0022904628169

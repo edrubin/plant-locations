@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58796,SUN,WS,OP,PV,1,1420,2012,SOLAR,"Waterloo Solar, LLC",13756,41.433889,-85.043889,IN,18,033,RFC,RFCW,SOLAR,1,0,1,18033,10.3659822776372,20.0461534673459

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6051,NUC,1,OP,ST,857.1,7169986.471,1975,NUCLEAR,Edwin I Hatch,7140,31.9342,-82.3447,GA,13,001,SERC,SRSO,NUCLEAR,1721.8,1,1,13001,0.434295480221134,116.059225718873
+6051,NUC,2,OP,ST,864.7,7233563.529,1979,NUCLEAR,Edwin I Hatch,7140,31.9342,-82.3447,GA,13,001,SERC,SRSO,NUCLEAR,1721.8,1,1,13001,0.434295480221134,116.059225718873

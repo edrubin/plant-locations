@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3342,DFO,1,SB,IC,2.7,-115,1969,OIL,Faulkton,13809,45.036685,-99.120186,SD,46,049,MRO,MROW,OIL,2.7,0,1,46049,15.4991628365456,100.358089499195

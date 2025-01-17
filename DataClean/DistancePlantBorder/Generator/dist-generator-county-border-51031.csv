@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3777,WAT,1,OP,HY,20,41879.5,1964,HYDRO,Leesville,733,37.0933,-79.4025,VA,51,143,RFC,RFCW,HYDRO,40,0,1,51143,0.0300699026597201,61.2176183350418
+3777,WAT,2,OP,HY,20,41879.5,1964,HYDRO,Leesville,733,37.0933,-79.4025,VA,51,143,RFC,RFCW,HYDRO,40,0,1,51143,0.0300699026597201,61.2176183350418
+10773,WDS,1,OP,ST,71.1,274069,1992,BIOMASS,Altavista Power Station,19876,37.118674,-79.273551,VA,51,031,SERC,SRVC,BIOMASS,71.1,1,1,51031,0.328502190097568,64.0482667673038

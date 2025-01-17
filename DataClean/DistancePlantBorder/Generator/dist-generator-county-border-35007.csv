@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57243,SUN,CIM1,OP,PV,30.6,63266,2010,SOLAR,Cimarron Solar Facility,17826,36.468078,-104.635659,NM,35,007,WECC,AZNM,SOLAR,30.6,1,1,35007,27.7052469622774,58.2774083590866
+59560,SUN,SPRG1,OP,PV,1,2538,2015,SOLAR,Springer Solar 1,17826,36.398056,-104.594167,NM,35,007,WECC,AZNM,SOLAR,1,0,1,35007,19.9224860036116,66.1188279710941
+62149,SUN,SYEN1,OP,PV,1,403,2018,SOLAR,Syncarpha Eagle Nest,10378,36.544166,-105.2772,NM,35,007,WECC,AZNM,SOLAR,1,0,1,35007,6.45193708649597,50.0180535463107

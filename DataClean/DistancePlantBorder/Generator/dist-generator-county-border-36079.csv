@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55619,NG,GEN1,SB,IC,0.7,0,1996,GAS,Watchtower Educational Center,13511,41.498392,-73.57456,NY,36,079,NPCC,NYUP,GAS,2.1,0,1,36079,3.11482411651738,3.49418191508764
+55619,DFO,GEN2,SB,IC,0.7,0,1993,OIL,Watchtower Educational Center,13511,41.498392,-73.57456,NY,36,079,NPCC,NYUP,GAS,2.1,0,1,36079,3.11482411651738,3.49418191508764
+55619,NG,GEN3,SB,IC,0.7,0,2000,GAS,Watchtower Educational Center,13511,41.498392,-73.57456,NY,36,079,NPCC,NYUP,GAS,2.1,0,1,36079,3.11482411651738,3.49418191508764

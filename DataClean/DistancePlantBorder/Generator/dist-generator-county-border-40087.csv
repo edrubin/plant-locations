@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+55457,NG,CT1,OP,CT,176.6,1137382,2001,GAS,McClain Energy Facility,14063,35.29774,-97.58985,OK,40,087,MRO,SPSO,GAS,551.3,1,1,40087,0.572153435650558,135.465831655225
+55457,NG,CT2,OP,CT,176.6,1162683,2001,GAS,McClain Energy Facility,14063,35.29774,-97.58985,OK,40,087,MRO,SPSO,GAS,551.3,1,1,40087,0.572153435650558,135.465831655225
+55457,NG,ST1,OP,CA,198.1,1229616,2001,GAS,McClain Energy Facility,14063,35.29774,-97.58985,OK,40,087,MRO,SPSO,GAS,551.3,1,1,40087,0.572153435650558,135.465831655225

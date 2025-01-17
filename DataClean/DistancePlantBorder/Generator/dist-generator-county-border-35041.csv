@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58771,WND,GEN1,OP,WT,250,1061605,2015,WIND,Roosevelt County,17718,33.926111,-103.511111,NM,35,041,MRO,SPSO,WIND,250,1,1,35041,22.4044250708701,43.0630444569572
+59838,WND,GEN1,OP,WT,50,209033,2016,WIND,Milo Wind Project LLC,17718,33.901781,-103.34675,NM,35,041,MRO,SPSO,WIND,50,1,1,35041,27.830477272601,27.830477272601

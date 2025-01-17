@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+7151,WAT,1,OP,HY,2.5,2171.5,1986,HYDRO,Stony Gorge,16655,39.586864,-122.533248,CA,06,021,WECC,CAMX,HYDRO,5,0,1,06021,17.3942826340444,111.862966342282
+7151,WAT,2,OP,HY,2.5,2171.5,1986,HYDRO,Stony Gorge,16655,39.586864,-122.533248,CA,06,021,WECC,CAMX,HYDRO,5,0,1,06021,17.3942826340444,111.862966342282
+59978,SUN,ECA22,OP,PV,1.5,3448,2016,SOLAR,"Enerparc CA2, LLC",14328,39.69898,-122.175583,CA,06,021,WECC,NWPP,SOLAR,1.5,0,1,06021,10.9273841706964,143.358828020085

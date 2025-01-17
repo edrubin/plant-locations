@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+3944,BIT,1,OP,ST,684,3955330,1972,COAL,Harrison Power Station,20387,39.384167,-80.3325,WV,54,033,RFC,RFCW,COAL,2052,1,1,54033,6.15036054953386,37.4174628461732
+3944,BIT,2,OP,ST,684,4480939,1973,COAL,Harrison Power Station,20387,39.384167,-80.3325,WV,54,033,RFC,RFCW,COAL,2052,1,1,54033,6.15036054953386,37.4174628461732
+3944,BIT,3,OP,ST,684,4814743,1974,COAL,Harrison Power Station,20387,39.384167,-80.3325,WV,54,033,RFC,RFCW,COAL,2052,1,1,54033,6.15036054953386,37.4174628461732

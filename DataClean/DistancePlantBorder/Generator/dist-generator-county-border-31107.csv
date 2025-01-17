@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56947,WND,1,OP,WT,81,234821,2009,WIND,Elkhorn Ridge Wind LLC,13337,42.6978,-97.6189,NE,31,107,MRO,MROW,WIND,81,1,1,31107,10.914988863642,16.5722468566747
+57278,WND,CWET1,OP,WT,40,158696,2012,WIND,Crofton Bluffs Wind LLC,13337,42.698333,-97.58,NE,31,107,MRO,MROW,WIND,40,1,1,31107,7.7289505983217,16.6384798028096

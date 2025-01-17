@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+56069,LFG,1,OP,IC,0.8,4344.333,2001,BIOMASS,Berlin Landfill Gas,20856,43.9603,-88.9158,WI,55,047,MRO,MROE,BIOMASS,2.4,0,1,55047,2.39111111298275,146.991347537906
+56069,LFG,2,OP,IC,0.8,4344.333,2001,BIOMASS,Berlin Landfill Gas,20856,43.9603,-88.9158,WI,55,047,MRO,MROE,BIOMASS,2.4,0,1,55047,2.39111111298275,146.991347537906
+56069,LFG,3,OP,IC,0.8,4344.333,2001,BIOMASS,Berlin Landfill Gas,20856,43.9603,-88.9158,WI,55,047,MRO,MROE,BIOMASS,2.4,0,1,55047,2.39111111298275,146.991347537906

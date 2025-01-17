@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60069,WND,CBLF1,OP,WT,198.6,769120,2015,WIND,"Cedar Bluff Wind, LLC",12524,38.697606,-99.729289,KS,20,135,MRO,SPNO,WIND,198.6,1,1,20135,0.110734156675404,144.712467525966

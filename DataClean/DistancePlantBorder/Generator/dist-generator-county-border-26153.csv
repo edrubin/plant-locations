@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1750,DFO,1,OP,IC,2,116.25,1960,OIL,Manistique,3828,45.955014,-86.256291,MI,26,153,RFC,RFCW,OIL,4.8,0,1,26153,17.0231959796135,68.6065586835038
+1750,DFO,2,OP,IC,2.8,162.75,1972,OIL,Manistique,3828,45.955014,-86.256291,MI,26,153,RFC,RFCW,OIL,4.8,0,1,26153,17.0231959796135,68.6065586835038

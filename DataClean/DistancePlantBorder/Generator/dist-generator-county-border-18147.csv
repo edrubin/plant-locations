@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+6166,SUB,1,OP,ST,1300,6173902,1984,COAL,Rockport,9324,37.9256,-87.0372,IN,18,147,RFC,RFCW,COAL,2600,1,1,18147,1.90096173316567,1.90096173316567
+6166,SUB,2,OP,ST,1300,5720207,1989,COAL,Rockport,9324,37.9256,-87.0372,IN,18,147,RFC,RFCW,COAL,2600,1,1,18147,1.90096173316567,1.90096173316567
+59983,SUN,PV1,OP,PV,1.1,1710,2016,SOLAR,New Haven Solar RES,19445,38.1941,-86.9889,IN,18,147,RFC,RFCW,SOLAR,1.1,0,1,18147,1.01887027743607,25.7263686521899

@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60913,SUN,PV1,OP,PV,2,2822.667,2016,SOLAR,Ohio Northern University Solar Site,14006,40.759622,-83.8391,OH,39,065,RFC,RFCW,SOLAR,3,0,1,39065,3.44778282190762,81.3804972214436
+60913,SUN,PV2,OP,PV,1,1411.333,2018,SOLAR,Ohio Northern University Solar Site,14006,40.759622,-83.8391,OH,39,065,RFC,RFCW,SOLAR,3,0,1,39065,3.44778282190762,81.3804972214436
+61330,WND,WT1,OP,WT,66,194450,2017,WIND,Hog Creek Wind Project,659,40.793073,-83.728714,OH,39,065,RFC,RFCW,WIND,66,1,1,39065,2.917475728507,90.6499552833889

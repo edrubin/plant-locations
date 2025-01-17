@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+60102,NG,1,OP,IC,0.8,2285,1990,GAS,Lorin Industries,56068,43.216639,-86.214444,MI,26,121,RFC,RFCM,GAS,3.2,0,1,26121,10.9684453132921,73.3453856918695
+60102,NG,2,OP,IC,0.8,2285,1990,GAS,Lorin Industries,56068,43.216639,-86.214444,MI,26,121,RFC,RFCM,GAS,3.2,0,1,26121,10.9684453132921,73.3453856918695
+60102,NG,3,OP,IC,0.8,2285,1990,GAS,Lorin Industries,56068,43.216639,-86.214444,MI,26,121,RFC,RFCM,GAS,3.2,0,1,26121,10.9684453132921,73.3453856918695
+60102,NG,4,OP,IC,0.8,2285,1990,GAS,Lorin Industries,56068,43.216639,-86.214444,MI,26,121,RFC,RFCM,GAS,3.2,0,1,26121,10.9684453132921,73.3453856918695

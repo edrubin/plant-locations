@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10798,WAT,GEN1,OP,HY,2,9511.481,1933,HYDRO,Fries Hydroelectric Project,733,36.715103,-80.985621,VA,51,077,RFC,RFCW,HYDRO,5.4,0,1,51077,1.2838148560257,16.8145730067288
+10798,WAT,GEN2,OP,HY,0.8,3804.593,1933,HYDRO,Fries Hydroelectric Project,733,36.715103,-80.985621,VA,51,077,RFC,RFCW,HYDRO,5.4,0,1,51077,1.2838148560257,16.8145730067288
+10798,WAT,GEN3,OP,HY,0.2,951.148,1933,HYDRO,Fries Hydroelectric Project,733,36.715103,-80.985621,VA,51,077,RFC,RFCW,HYDRO,5.4,0,1,51077,1.2838148560257,16.8145730067288
+10798,WAT,GEN4,OP,HY,2.4,11413.778,1981,HYDRO,Fries Hydroelectric Project,733,36.715103,-80.985621,VA,51,077,RFC,RFCW,HYDRO,5.4,0,1,51077,1.2838148560257,16.8145730067288

@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+50293,AB,GEN1,OP,ST,29.1,166216,1989,BIOMASS,Wadham Energy LP,14328,39.1062,-122.1096,CA,06,011,WECC,CAMX,BIOMASS,29.1,1,1,06011,15.0994714308727,121.411522927751
+56532,NG,A,OP,CT,181.5,848288,2010,GAS,Colusa Generating Station,14328,39.3661,-122.27,CA,06,011,WECC,CAMX,GAS,712.4,1,1,06011,2.05577190048414,131.525366735427
+56532,NG,B,OP,CT,181.5,870739,2010,GAS,Colusa Generating Station,14328,39.3661,-122.27,CA,06,011,WECC,CAMX,GAS,712.4,1,1,06011,2.05577190048414,131.525366735427
+56532,NG,C,OP,CA,349.4,1267274,2010,GAS,Colusa Generating Station,14328,39.3661,-122.27,CA,06,011,WECC,CAMX,GAS,712.4,1,1,06011,2.05577190048414,131.525366735427

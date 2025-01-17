@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+1693,WAT,1,OP,HY,4,15382,1924,HYDRO,Alcona,56068,44.561961,-83.804505,MI,26,001,RFC,RFCM,HYDRO,8,0,1,26001,5.8124984321477,114.46782588758
+1693,WAT,2,OP,HY,4,15382,1924,HYDRO,Alcona,56068,44.561961,-83.804505,MI,26,001,RFC,RFCM,HYDRO,8,0,1,26001,5.8124984321477,114.46782588758
+50772,WDS,GEN1,OP,ST,18,143682,1989,BIOMASS,Viking Energy of Lincoln,56068,44.68,-83.4167,MI,26,001,RFC,RFCM,BIOMASS,18,0,1,26001,18.7032938697775,82.0138370029404

@@ -1,0 +1,3 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59664,NG,UNIT1,SB,GT,25.6,257.62,2000,GAS,City of West Plains Power Station,17106,36.748611,-91.868611,MO,29,091,SERC,SRMW,GAS,47.4,1,1,29091,17.2529670942724,27.7163849679297
+59664,NG,UNIT2,SB,GT,21.8,219.38,2000,GAS,City of West Plains Power Station,17106,36.748611,-91.868611,MO,29,091,SERC,SRMW,GAS,47.4,0,1,29091,17.2529670942724,27.7163849679297

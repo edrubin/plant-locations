@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57938,WH,GEN1,OP,ST,20.8,77532,2011,OTHER,ADA Carbon Solutions Red River,3265,32.003889,-93.391111,LA,22,081,SERC,SPSO,OTHF,20.8,0,1,22081,2.29044881248149,47.9788963624534

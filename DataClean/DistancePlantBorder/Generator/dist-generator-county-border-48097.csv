@@ -1,0 +1,4 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+58080,WND,1,OP,WT,112.5,320852,2008,WIND,Wolf Ridge Wind,2172,33.733006,-97.428406,TX,48,097,TRE,ERCT,WIND,112.5,1,1,48097,5.25341105980574,9.49549550734402
+60502,WND,GEN1,OP,WT,125.6,396150,2016,WIND,"Tyler Bluff Wind Project, LLC",2172,33.703851,-97.372009,TX,48,097,TRE,ERCT,WIND,125.6,1,1,48097,10.4837401319205,12.7233090569913
+61514,SUN,GEN1,OP,PV,5.2,9245,2017,SOLAR,North Gainesville Solar,44372,33.656072,-97.148569,TX,48,097,TRE,ERCT,SOLAR,5.2,0,1,48097,7.01546044380786,7.01546044380786

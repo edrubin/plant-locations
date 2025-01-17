@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+57758,SUN,PV1,OP,PV,13.7,19646,2012,SOLAR,Mount Saint Mary's,15263,39.675,-77.345,MD,24,021,RFC,RFCW,SOLAR,13.7,0,1,24021,4.87543559008198,4.98620208954786
+60849,SUN,87353,OP,PV,1.7,2399,2014,SOLAR,Emmitsburg Solar Arrays,15270,39.69373,-77.314427,MD,24,021,RFC,RFCE,SOLAR,1.7,0,1,24021,2.90665968913708,2.90665968913708
+61519,SUN,GEN1,OP,PV,9,13090,2016,SOLAR,Baker Point,15263,39.570338,-77.363415,MD,24,021,RFC,RFCW,SOLAR,9,0,1,24021,7.15353811584421,16.6072972585345
+61552,SUN,FDSPV,OP,PV,15.7,21199,2016,SOLAR,Fort Detrick Solar PV,15263,39.44,-77.45,MD,24,021,RFC,RFCW,SOLAR,15.7,0,1,24021,14.6413131605151,17.948929490603

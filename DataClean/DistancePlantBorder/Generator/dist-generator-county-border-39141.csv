@@ -1,0 +1,5 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+10244,BLQ,T-10,OS,ST,10.6,0,1952,BIOMASS,Pixelle Specialty Solutions LLC,14006,39.324611,-82.974039,OH,39,141,RFC,RFCW,GAS,92.8,0,0,39141,16.1586321190658,63.4358676137968
+10244,BLQ,T-11,OP,ST,24,126975,1958,BIOMASS,Pixelle Specialty Solutions LLC,14006,39.324611,-82.974039,OH,39,141,RFC,RFCW,GAS,92.8,0,1,39141,16.1586321190658,63.4358676137968
+10244,BLQ,T-12,OP,ST,31,168861,1967,BIOMASS,Pixelle Specialty Solutions LLC,14006,39.324611,-82.974039,OH,39,141,RFC,RFCW,GAS,92.8,1,1,39141,16.1586321190658,63.4358676137968
+10244,NG,T-13,OP,ST,27.2,67844,1978,GAS,Pixelle Specialty Solutions LLC,14006,39.324611,-82.974039,OH,39,141,RFC,RFCW,GAS,92.8,1,1,39141,16.1586321190658,63.4358676137968

@@ -1,0 +1,2 @@
+oris,fuel_gen,id_gen,status_gen,mover_gen,capacity_gen,generation_gen,year_online,fuel_cat_gen,name_plant,id_operator,lat,lon,state,fips_state,fips_county,region_nerc,subregion_egrid,fuel_cat_plant,capacity_plant,i_big,i_operating,fips,dist_plant_county,dist_plant_state
+59736,WND,7772,OP,WT,1.9,6247,2014,WIND,"Valentine Wind, LLC",19677,42.859103,-100.592439,NE,31,031,MRO,MROW,WIND,1.9,0,1,31031,15.4461401037915,15.4461401037915
