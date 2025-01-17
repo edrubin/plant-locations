@@ -3,4 +3,4 @@ DataClean/Maps/CensusBorders/tl-borders/tl-borders.shp filter=lfs diff=lfs merge
 DataClean/hysplit-completed/processed/set-1.zip filter=lfs diff=lfs merge=lfs -text
 DataClean/hysplit-completed/processed/set-2.zip filter=lfs diff=lfs merge=lfs -text
 DataClean/county-month-shares/co-coal-shares-tennessee-01/co-coal-shares-tennessee-01.shp filter=lfs diff=lfs merge=lfs -text
-DataClean/county-month-shares/co-coal-shares-tennessee-01/co-coal-shares-tennessee-07.shp filter=lfs diff=lfs merge=lfs -text
+DataClean/county-month-shares/co-coal-shares-tennessee-07/co-coal-shares-tennessee-07.shp filter=lfs diff=lfs merge=lfs -text
