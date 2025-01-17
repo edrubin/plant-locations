@@ -35,7 +35,7 @@ The one thing that needs to be done is unzipping `set-1.zip` and `set-2.zip` in 
 | `003*.R` | plots histograms |
 | `004*.R` | summarizes border-water distribution and distance tests |
 | `005*.R` | process, summarize, and plot HYSPLIT trajectories |
-| `006*.R` | plot plant births, county shares, stack heights, and map nonattainment areas |
+| `006*.R` | plot plant births, county shares, stack heights, and nonattainment |
 
 **operating system** We used R on OSX. If you run into issues—particularly with parallelization—make sure it is not an issue specific to operating-system differences.
 
