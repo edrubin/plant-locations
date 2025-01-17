@@ -51,9 +51,13 @@
 
 # Load data: Batch crosswalk -------------------------------------------------------------
   # Load batch crosswalk
-  batch_xwalk = here("tracker", "batch_xwalk.csv") %>% fread()
+  batch_xwalk =
+    here("DataClean", "hysplit-completed", "tracker", "batch_xwalk.csv") %>%
+    fread()
   # Load batch data
-  units_dt = here("tracker", "units_for_hysplit.fst") %>% read_fst(as.data.table = T)
+  units_dt =
+    here("DataClean", "hysplit-completed", "tracker", "units_for_hysplit.fst") %>%
+    read_fst(as.data.table = TRUE)
 
 # Data work: Match lat/lon of units to counties ------------------------------------------
   # Grab unique combinations of lat/lon from units
