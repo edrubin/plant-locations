@@ -4,3 +4,5 @@ DataClean/hysplit-completed/processed/set-1.zip filter=lfs diff=lfs merge=lfs -t
 DataClean/hysplit-completed/processed/set-2.zip filter=lfs diff=lfs merge=lfs -text
 DataClean/county-month-shares/co-coal-shares-tennessee-01/co-coal-shares-tennessee-01.shp filter=lfs diff=lfs merge=lfs -text
 DataClean/county-month-shares/co-coal-shares-tennessee-07/co-coal-shares-tennessee-07.shp filter=lfs diff=lfs merge=lfs -text
+DataRaw/Census/raw_90.dta filter=lfs diff=lfs merge=lfs -text
+DataRaw/Census/tl_2016_us_county/tl_2016_us_county.shp filter=lfs diff=lfs merge=lfs -text
