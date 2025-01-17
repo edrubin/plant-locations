@@ -27,6 +27,7 @@ The one thing that needs to be done is unzipping `set-1.zip` and `set-2.zip` in 
 
 **description** The scripts' names describe the order (numeric-alphabetical prefix) and the goal of the script. In general, the scripts fall into several broad groups:
 
+| prefix | tasks |
 |:---:|:---|
 | `000*.R` | clean and aggregate the eGRID data |
 | `001*.R` | calculate distances between plants and borders, water bodies, and border compositions |
