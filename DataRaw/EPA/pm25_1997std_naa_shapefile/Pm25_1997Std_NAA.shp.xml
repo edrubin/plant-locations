@@ -1,0 +1,385 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Environmental Protection Agency, Office of Air and Radiation, Office of Air Quality Planning and Standards (OAQPS)</origin>
+				<title>PM 2.5 Nonattainment Areas</title>
+				<pubinfo>
+					<pubplace>Research Triangle Park, NC</pubplace>
+					<publish>U.S. Environmental Protection Agency, Office of Air Quality Planning and Standards (OAQPS)</publish>
+				</pubinfo>
+				<geoform>vector digital data</geoform>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This data layer identifies areas in the U.S. where air pollution levels have not met the National Ambient Air Quality Standards (NAAQS) for the 1997 PM-2.5 annual standard and have been designated "nonattainment". The EPA Office of Air Quality Planning and Standards (OAQPS) has set National Ambient Air Quality Standards for six principal pollutants, which are called "criteria" pollutants. Under provisions of the Clean Air Act, which is intended to improve the quality of the air we breathe, EPA sets limits on how much of a pollutant can be in the air anywhere in the United States. This ensures that all Americans have the same basic health and environmental protections. The law allows individual states to have stronger pollution controls, but states are not allowed to have weaker pollution controls than those set for the whole country. EPA calls these pollutants "criteria air pollutants" because the agency has regulated them by first developing health-based criteria (science-based guidelines) as the basis for setting permissible levels. One set of limits (primary standard) protects health; another set of limits (secondary standard) is intended to prevent environmental and property damage. A geographic area that meets or does better than the primary standard is called an attainment area; areas that don't meet the primary standard are called nonattainment areas.</abstract>
+			<purpose>This data set is intended to help provide the public with information to determine whether or not air quality within a given area is healthy.  Once designations take effect, they also become an important component of state, tribal and local governments' efforts to control particulate matter 2.5.</purpose>
+			<supplinf>http://www.epa.gov/oar/oaqps/ - Office of Air Quality Planning and Standards web site http://www.epa.gov/air/criteria.html - National Ambient Air Quality Standards web page</supplinf>
+		</descript>
+		<timeperd>
+			<current>Publication date</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>20090714</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-123.106914</westbc>
+				<eastbc>-67.943300</eastbc>
+				<northbc>45.428554</northbc>
+				<southbc>28.824223</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>climatologyMeteorologyAtmosphere</themekey>
+				<themekey>environment</themekey>
+				<themekey>particulate matter 2.5</themekey>
+				<themekey>pm2.5</themekey>
+				<themekey>NonAttainment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Air</themekey>
+				<themekey>Monitoring</themekey>
+				<themekey>Non-Attainment</themekey>
+			</theme>
+			<place>
+				<placekt>none</placekt>
+				<placekey>United States (US) (USA)</placekey>
+				<placekey>conterminous United States (CONUS)</placekey>
+				<placekey>Alaska</placekey>
+				<placekey>Hawaii</placekey>
+				<placekey>District of Columbia</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>American Samoa</placekey>
+				<placekey>Puerto Rico</placekey>
+				<placekey>Virgin Islands</placekey>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+		</keywords>
+		<accconst>Data have restricted access due to the sensitive nature of the locational information presented and may only be shared with federal, state, local or other trusted EPA partners.</accconst>
+		<useconst>Data are considered current to the date of the original source material. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.</useconst>
+		<native>Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+		<secinfo>
+			<secsys>FIPS Pub 199</secsys>
+			<secclass>Medium Confidentiality</secclass>
+			<sechandl>Data with medium confidentiality may be shared with federal, state local or other trusted EPA partners.</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>EPA, Office of Air Quality Planning and Standards (OAQPS)</cntorg>
+					<cntper>Tom Rosendahl</cntper>
+				</cntorgp>
+				<cntpos>Environmental Protection Specialist</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>Air Benefits Cost Group</address>
+					<address>109 TW Alexander Dr., (C439-02)</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27711</postal>
+				</cntaddr>
+				<cntvoice>919-541-5314</cntvoice>
+				<cntemail>rosendahl.tom@epa.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>ESRI feature type: Simple, Geometry: Polygon</logic>
+		<posacc>
+			<horizpa>
+				<horizpar>Positional accuracy for the data set varies for individual features within the data set.  Actual horizontal positional accuracy for the entire data set is unknown.</horizpar>
+			</horizpa>
+		</posacc>
+		<complete>Unknown</complete>
+		<lineage>
+			<procstep>
+				<procdate>2009</procdate>
+				<procdesc>Metadata Created</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<geograph>
+				<geogunit>Decimal degrees</geogunit>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+			</geograph>
+			<geodetic>
+				<horizdn>D_MAPINFO</horizdn>
+				<ellips>World Geodetic System of 1984</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257223</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Pm25_1997Std_NAA</enttypl>
+				<enttypd>PM 2.5 Nonattainment Areas, 1997 Standard</enttypd>
+				<enttypds>Geographic Studies Group</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA_NAME</attrlabl>
+				<attrdef>The name of the nonattainment or maintenance area</attrdef>
+				<attrdefs>Geographic Studies Group</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Area Name</codesetn>
+						<codesets>40 CFR Part 81</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>COMPOSID</attrlabl>
+				<attrdef>A unique ID associated with the nonattainment or maintenance area for a specific pollutant standard. The Composid format includes the pollutant, year of the standard, and a short areaname indicator.</attrdef>
+				<attrdefs>Geographic Studies Group</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>COMPOSID field</codesetn>
+						<codesets>Pm25_1997Std_NAA.DBF file</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Live Data and Maps</resdesc>
+		<distliab>Although these data have been processed successfully on a computer system at the Environmental Protection Agency, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. Environmental Protection Agency shall not be held liable for improper or incorrect use of the data described and/or contained herein.</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>EPA, Office of Air Quality Planning and Standards (OAQPS)</cntorg>
+					<cntper>Butch Stackhouse</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>State and Local Programs Group</address>
+					<address>109 TW Alexander Dr.</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27711</postal>
+				</cntaddr>
+				<cntvoice>919-541-5208</cntvoice>
+				<cntemail>stackhouse.butch@epa.gov</cntemail>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metd>20090714</metd>
+		<metfrd>20130714</metfrd>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>EPA, Office of Air Quality Planning and Standards (OAQPS)</cntorg>
+					<cntper>Butch Stackhouse</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>State and Local Programs Group</address>
+					<address>109 TW Alexander Dr.</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27711</postal>
+				</cntaddr>
+				<cntvoice>919-541-5208</cntvoice>
+				<cntemail>stackhouse.butch@epa.gov</cntemail>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<dataIdInfo>
+		<envirDesc>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</envirDesc>
+		<dataLang>
+			<languageCode value="en"/>
+		</dataLang>
+		<idCitation>
+			<resTitle>Pm25_1997Std_NAA</resTitle>
+			<presForm>
+				<PresFormCd value="005"/>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd value="001"/>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL>-121.585938</westBL>
+					<eastBL>-71.85664</eastBL>
+					<northBL>48.47507</northBL>
+					<southBL>32.660592</southBL>
+					<exTypeCode>1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<geoBox esriExtentType="decdegrees">
+			<westBL>-121.585938</westBL>
+			<eastBL>-71.85664</eastBL>
+			<northBL>48.47507</northBL>
+			<southBL>32.660592</southBL>
+			<exTypeCode>1</exTypeCode>
+		</geoBox>
+	</dataIdInfo>
+	<mdLang>
+		<languageCode value="en"/>
+	</mdLang>
+	<mdStanName>ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer>DIS_ESRI1.0</mdStanVer>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdHrLvName>dataset</mdHrLvName>
+	<distinfo>
+		<resdesc>Live Data and Maps</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.463</transize>
+				</digtinfo>
+			</digform>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>EPA, Office of Air Quality Planning and Standards (OAQPS)</cntorg>
+					<cntper>Butch Stackhouse</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical</addrtype>
+					<address>State and Local Programs Group</address>
+					<address>109 TW Alexander Dr.</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27711</postal>
+				</cntaddr>
+				<cntvoice>919-541-5208</cntvoice>
+				<cntemail>stackhouse.butch@epa.gov</cntemail>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc>002</orDesc>
+					<linkage>file://\\RTP-G0D8LC1\C$\projects\GIS-Maps-Greenbookv\PM25\Pm25_1997Std_NAA.shp</linkage>
+					<protocol>Local Area Network</protocol>
+				</onLineSrc>
+				<transSize>0.463</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName>Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>39</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode>Lat Long for MAPINFO type 0 Datum</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd value="001"/>
+			</topLvl>
+			<geometObjs>
+				<geoObjTyp>
+					<GeoObjTypCd value="001"/>
+				</geoObjTyp>
+				<geoObjCnt>39</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<mdDateSt>20090723</mdDateSt>
+</metadata>
