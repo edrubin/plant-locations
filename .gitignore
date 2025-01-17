@@ -7,6 +7,9 @@ Documents*
 Figures/*
 Tables/*
 
+# directory zipped
+DataClean/hysplit-completed/processed/*
+
 # file types to ignore for replication
 Icon*
 .idea*
