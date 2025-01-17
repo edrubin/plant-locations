@@ -1,0 +1,16 @@
+# directories to ignore for replication
+texas-plant*
+Presentations*
+OLD*
+Text*
+Documents*
+Figures/*
+Tables/*
+
+# file types to ignore for replication
+Icon*
+.idea*
+.Rproj.user*
+*.DS_Store
+*.Rapp.history
+.Rhistory
