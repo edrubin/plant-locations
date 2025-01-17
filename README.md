@@ -27,13 +27,14 @@ The one thing that needs to be done is unzipping `set-1.zip` and `set-2.zip` in 
 
 **description** The scripts' names describe the order (numeric-alphabetical prefix) and the goal of the script. In general, the scripts fall into several broad groups:
 
-- `000*.R` clean and aggregate the eGRID data;
-- `001*.R` calculate distances between plants and borders, water bodies, and border compositions;
-- `002*.R` perform a variety of calculations related to wind, plant locations, and downwind areas;
-- `003*.R` plots histograms;
-- `004*.R` summarizes border-water distribution and distance tests;
-- `005*.R` process, summarize, and plot HYSPLIT trajectories;
-- `006*.R` plot plant births, county shares, stack heights, and map nonattainment areas.
+|:---:|:---|
+| `000*.R` | clean and aggregate the eGRID data |
+| `001*.R` | calculate distances between plants and borders, water bodies, and border compositions |
+| `002*.R` | perform a variety of calculations related to wind, plant locations, and downwind areas |
+| `003*.R` | plots histograms |
+| `004*.R` | summarizes border-water distribution and distance tests |
+| `005*.R` | process, summarize, and plot HYSPLIT trajectories |
+| `006*.R` | plot plant births, county shares, stack heights, and map nonattainment areas |
 
 **operating system** We used R on OSX. If you run into issues—particularly with parallelization—make sure it is not an issue specific to operating-system differences.
 
