@@ -6,3 +6,5 @@ DataClean/county-month-shares/co-coal-shares-tennessee-01/co-coal-shares-tenness
 DataClean/county-month-shares/co-coal-shares-tennessee-07/co-coal-shares-tennessee-07.shp filter=lfs diff=lfs merge=lfs -text
 DataRaw/Census/raw_90.dta filter=lfs diff=lfs merge=lfs -text
 DataRaw/Census/tl_2016_us_county/tl_2016_us_county.shp filter=lfs diff=lfs merge=lfs -text
+DataRaw/Wind/vwnd.mon.ltm.nc filter=lfs diff=lfs merge=lfs -text
+DataRaw/Wind/uwnd.mon.ltm.nc filter=lfs diff=lfs merge=lfs -text
