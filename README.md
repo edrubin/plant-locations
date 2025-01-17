@@ -25,6 +25,16 @@ The one thing that needs to be done is unzipping `set-1.zip` and `set-2.zip` in 
 
 **general** The code all uses R. You should be able to run the scripts individually and sequentially (ordered alphanumerically), beginning with `000a1-clean-egrid-2018.R` and ending with `006d-map-nonattainment-examples.R`.
 
+**description** The scripts' names describe the order (numeric-alphabetical prefix) and the goal of the script. In general, the scripts fall into several broad groups:
+
+- `000*.R` clean and aggregate the eGRID data;
+- `001*.R` calculate distances between plants and borders, water bodies, and border compositions;
+- `002*.R` perform a variety of calculations related to wind, plant locations, and downwind areas;
+- `003*.R` plots histograms;
+- `004*.R` summarizes border-water distribution and distance tests;
+- `005*.R` process, summarize, and plot HYSPLIT trajectories;
+- `006*.R` plot plant births, county shares, stack heights, and map nonattainment areas.
+
 **operating system** We used R on OSX. If you run into issues—particularly with parallelization—make sure it is not an issue specific to operating-system differences.
 
 **hysplit** The code uses data produced by [HYSPLIT](https://www.ready.noaa.gov/HYSPLIT.php). The raw data from HYSPLIT are included in the `DataRaw/hysplit-completed` directory. Please contact us for the code behind the HYSPLIT runs. If you are interested in HYSPLIT data, you may want to check out some of the work by [Lucas Henneman](https://www.lucashenneman.org/) and coauthors (especially [HyADS](https://www.cmascenter.org/conference//2019/slides/1440_henneman_hyads_tool_2019.pdf)).
