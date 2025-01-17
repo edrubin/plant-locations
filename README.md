@@ -19,6 +19,8 @@ You will need to create two additional directories for the output.
 
 The provided data should support the paper's findings.
 
+The one thing that needs to be done is unzipping `set-1.zip` and `set-2.zip` in `DataClean/hysplit-completed/processed` (into the `processed` folder).
+
 ## code 
 
 The code all uses R. You should be able to run the scripts individually and sequentially (ordered alphanumerically), beginning with `000a1-clean-egrid-2018.R` and ending with `006d-map-nonattainment-examples.R`.

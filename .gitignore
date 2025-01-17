@@ -8,7 +8,7 @@ Figures/*
 Tables/*
 
 # directory zipped
-DataClean/hysplit-completed/processed/*
+DataClean/hysplit-completed/processed/matched*
 
 # file types to ignore for replication
 Icon*
