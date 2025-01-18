@@ -17,7 +17,7 @@ You will need to create two additional directories for the output.
 
 ## data
 
-The provided data are separated into two directories: `DataRaw` and `DataClean`. The raw data (`DataRaw`) providing the starting point for the analyses (e.g., Census data, wind data, plant locations). The cleaned data (`DataClean`) are the processed, intermediate, and/or final versions of the project's various datasets.
+The provided data are separated into two directories: `DataRaw` and `DataClean`. The raw data (`DataRaw`) providing the starting point for the analyses (e.g., Census data, wind data, plant locations). The cleaned data (`DataClean`) are the processed, intermediate, and/or final versions of the project's various datasets. The paper provides descriptions of each raw dataset.
 
 The one thing that needs to be done is unzipping `set-1.zip` and `set-2.zip` in `DataClean/hysplit-completed/processed` (into the `processed` folder).
 
