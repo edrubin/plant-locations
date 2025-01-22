@@ -25,7 +25,9 @@ The one thing that needs to be done is unzipping `set-1.zip` and `set-2.zip` in 
 
 ## code 
 
-**general** The code all uses [R](https://cran.r-project.org/) (most recently, 4.4.2). You should be able to run the scripts individually and sequentially (ordered alphanumerically), beginning with `000a1-clean-egrid-2018.R` and ending with `006d-map-nonattainment-examples.R`. For of few of the larger figures, we used [QGIS](https://www.qgis.org/) and/or [Adobe InDesign](https://www.adobe.com/products/indesign.html). We can provide those individual files upon request.
+**general** The code all uses [R](https://cran.r-project.org/) (most recently, 4.4.2). You should be able to run the scripts individually and sequentially (ordered alphanumerically), beginning with `000a1-clean-egrid-2018.R` and ending with `006d-map-nonattainment-examples.R`. For of few of the larger figures, we used [QGIS](https://www.qgis.org/) and/or [Adobe InDesign](https://www.adobe.com/products/indesign.html). We can provide those individual files upon request. The figures *can* be reproduced in R with data created by the code in this repository.
+
+**paths** All paths are relative to the repository's directory. The code uses the `here` package to manage paths, with an `.Rproj` object created in the repository's root directory.
 
 **description** The scripts' names describe the order (numeric-alphabetical prefix) and the goal of the script. In general, the scripts fall into several broad groups:
 
