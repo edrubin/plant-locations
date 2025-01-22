@@ -1,4 +1,5 @@
 # directories to ignore for replication
+Admin*
 texas-plant*
 Presentations*
 OLD*
